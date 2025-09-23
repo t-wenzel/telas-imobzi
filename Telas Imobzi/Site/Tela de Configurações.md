@@ -19,6 +19,10 @@ tags:
   - Decimais
   - Arredondamento
   - Endereço
+  - Google
+  - Analytics
+  - Pixel
+  - Facebook
 FAQs Relacionadas:
   - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/
   - https://help.imobzi.com/pt-br/article/tags-nos-imoveis-do-site-basr1/
