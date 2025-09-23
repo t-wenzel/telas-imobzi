@@ -112,13 +112,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/Site/Aba Home.md",
+                "file": "Telas Imobzi/Site/Tipos de Seção.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Aba Home"
+              "title": "Tipos de Seção"
             }
           }
         ],
@@ -283,9 +283,10 @@
   },
   "active": "d8e01ccbefff08bf",
   "lastOpenFiles": [
+    "Telas Imobzi/Site/Aba Home.md",
+    "Telas Imobzi/Site/Tipos de Seção.md",
     "Telas Imobzi/Site/Botão customizado.md",
     "Telas Imobzi/Site/Tipos de Link de Botão Customizado.md",
-    "Telas Imobzi/Site/Aba Home.md",
     "Telas Imobzi/Perguntas.md",
     "Telas Imobzi/Filtro do Imóvel.md",
     "Telas Imobzi/Site/Mídias do site.md",
@@ -308,7 +309,6 @@
     "Telas Imobzi/Telas da Imobzi.md",
     "Telas Imobzi/Site/Landing Page.md",
     "Telas Imobzi/Gerenciamento de Site.md",
-    "Telas Imobzi/Locações.md",
     "Telas Imobzi/Gerais",
     "Telas Imobzi/Site/Untitled",
     "Código personalizado",
