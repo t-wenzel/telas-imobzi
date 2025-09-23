@@ -1,5 +1,12 @@
 ---
 tags:
+  - Site
+  - WhatsApp
+  - Número
+  - Telefone
+  - Botão
+  - Flutuante
+  - Formulário
 FAQs Relacionadas:
 ---
 ---

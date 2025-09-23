@@ -1,5 +1,25 @@
 ---
 tags:
+  - Site
+  - Contato
+  - Imóvel
+  - Formulário
+  - Integração
+  - E-mail
+  - Notificação
+  - WhatsApp
+  - Copyright
+  - Meta
+  - Tag
+  - Botão
+  - Flutuante
+  - Código
+  - Personalizado
+  - Ordem
+  - Casas
+  - Decimais
+  - Arredondamento
+  - Endereço
 FAQs Relacionadas:
 ---
 ---
@@ -38,4 +58,4 @@ FAQs Relacionadas:
 	- **Alterar ordenação dos imóveis**: A ordem que os imóveis aparecerão no site #todo.
 - **[[Código personalizado]]**;
 - **Performance do site**;
-	- **Limpar cache**: Para caso o cliente tenha inserido ou modificado informações no Imobzi e isso não tenha sido refletido no seu site.
+	- **Limpar cache**: Para caso o cliente tenha inserido ou modificado informações no Imobzi e isso não tenha sido refletido no site dele.
