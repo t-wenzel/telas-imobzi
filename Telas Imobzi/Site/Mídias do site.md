@@ -9,6 +9,7 @@ tags:
 FAQs Relacionadas:
   - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-como-alterar-a-imagemvideo-da-home-do-site
   - https://help.imobzi.com/pt-br/article/qual-o-tamanho-da-resolucao-das-fotosvideos-no-site-2apu68/
+  - https://help.imobzi.com/pt-br/article/as-melhores-imagensvideos-no-seu-site-com-o-pexels-121xfts/
 ---
 ---
 ## Definição

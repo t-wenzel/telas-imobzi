@@ -12,7 +12,7 @@ tags:
 - **[[Gerenciamento de Site]]**: Fornece ferramentas para manutenção do site imobiliário integrado;
 ---
 
-**[[Definições diversas]]**
+**[[Menu de Definições]]**
 
 **[[Perguntas]]**
 
