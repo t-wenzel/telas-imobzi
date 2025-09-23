@@ -1,5 +1,8 @@
 ---
 tags:
+  - Site
+  - Página
+  - SEO
 FAQs Relacionadas:
 ---
 ---
@@ -29,17 +32,18 @@ Aba para configuração da Home do site. Aqui, altera-se o layout da página e d
 		- **Logo interno**;
 		- **Logotipo do rodapé**;
 		- **Favicon**.
-	- **Imagem em destaque**: A imagem de fundo da barra de pesquisa;
-		- **Título**: Título da imagem;
-		- **[[Mídias do site|Alterar imagem]]**;
-		- **Botões customizados**
-			- **Cabeçalho e menu**: Para botões customizados que devem aparecer em ambos o cabeçalho e no menu;
-				- **[[Botão customizado|Adicionar item]]**.
-			- **Cabeçalho**: Para botões customizados que devem aparecer apenas no cabeçalho;
-				- **[[Botão customizado|Adicionar item]]**.
-			- **Menu**: Para botões customizados que devem aparecer apenas no menu;
-				- **[[Botão customizado|Adicionar item]]**.
-			- **Pesquisar**: Para botões customizados que devem aparecer na seção de pesquisar.
-				- **[[Botão customizado|Adicionar item]]**.
-		- **Estilo da pesquisa**: Edição do formato dos botões acima da caixa de pesquisa.
-		- 
+- **Imagem em destaque**: A imagem de fundo da barra de pesquisa;
+	- **Título**: Título da imagem;
+	- **[[Mídias do site|Alterar imagem]]**;
+	- **Botões customizados**;
+		- **Cabeçalho e menu**: Para botões customizados que devem aparecer em ambos o cabeçalho e no menu;
+			- **[[Botão customizado|Adicionar item]]**.
+		- **Cabeçalho**: Para botões customizados que devem aparecer apenas no cabeçalho;
+			- **[[Botão customizado|Adicionar item]]**.
+		- **Menu**: Para botões customizados que devem aparecer apenas no menu;
+			- **[[Botão customizado|Adicionar item]]**.
+		- **Pesquisar**: Para botões customizados que devem aparecer na seção de pesquisar.
+			- **[[Botão customizado|Adicionar item]]**.
+	- **Estilo da pesquisa**: Edição do formato dos botões acima da caixa de pesquisa;
+	- **Seção de subtítulos**: Os subtítulos já vem prontos, mas podem ser melhorados/adaptados. São apresentados logo abaixo da imagem de destaque. Boas descrições também impulsionam o rankeamento do site no Google.
+- 
