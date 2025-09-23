@@ -133,13 +133,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/Site/Landing Page.md",
+                "file": "Telas Imobzi/Site/Mídias do site.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Landing Page"
+              "title": "Mídias do site"
             }
           },
           {
@@ -319,10 +319,10 @@
   },
   "active": "52cb6e5accd6473b",
   "lastOpenFiles": [
-    "Telas Imobzi/Site/Landing Page.md",
     "Telas Imobzi/Site/Conteúdo.md",
-    "Telas Imobzi/Site/Tela de Configurações.md",
+    "Telas Imobzi/Site/Landing Page.md",
     "Telas Imobzi/Site/Mídias do site.md",
+    "Telas Imobzi/Site/Tela de Configurações.md",
     "Telas Imobzi/Site/Tela de Conteúdos.md",
     "Telas Imobzi/Site/Untitled",
     "Telas Imobzi/CRM/Negócios & Cartões/Status de Negócio.md",

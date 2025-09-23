@@ -1,6 +1,7 @@
 ---
 tags:
 FAQs Relacionadas:
+  - https://help.imobzi.com/pt-br/article/como-colocar-uma-landing-page-no-site-1f8fon7/
 ---
 ---
 ## Definição
