@@ -32,4 +32,12 @@ Aba para configuração da Home do site. Aqui, altera-se o layout da página e d
 	- **Imagem em destaque**: A imagem de fundo da barra de pesquisa;
 		- **Título**: Título da imagem;
 		- **[[Mídias do site|Alterar imagem]]**;
-		- **[[Botões customizados]]**;
+		- **Botões customizados**
+			- **Cabeçalho e menu**: Para botões customizados que devem aparecer em ambos o cabeçalho e no menu;
+				- **[[Botão customizado|Adicionar item]]**;
+			- **Cabeçalho**: Para botões customizados que devem aparecer apenas no cabeçalho;
+				- **[[Botão customizado|Adicionar item]]**
+			- **Menu**: : Para botões customizados que devem aparecer apenas no menu;
+				- **[[Botão customizado|Adicionar item]]**
+			- **Pesquisar**: : Para botões customizados que devem aparecer na seção de pesquisar.
+				- **[[Botão customizado|Adicionar item]]**

@@ -73,13 +73,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/Site/Tela de Páginas.md",
+                "file": "Telas Imobzi/Site/Aba Home.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Tela de Páginas"
+              "title": "Aba Home"
             }
           }
         ],
@@ -242,14 +251,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97fb62fadfa10ac6",
+  "active": "9b8a351fd0ee2244",
   "lastOpenFiles": [
+    "Telas Imobzi/Site/Tela de Páginas.md",
+    "Telas Imobzi/Site/Aba Home.md",
+    "Telas Imobzi/Site/Botão customizado.md",
+    "Telas Imobzi/Site/Mídias do site.md",
     "Telas Imobzi/Site/Tela de Configurações.md",
     "Telas Imobzi/Site/Tela de Conteúdos.md",
     "Telas Imobzi/Site/Tela de Menus.md",
-    "Telas Imobzi/Site/Tela de Páginas.md",
-    "Telas Imobzi/Site/Botões customizados.md",
-    "Telas Imobzi/Site/Aba Home.md",
     "Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
     "Telas Imobzi/Site/Tela de Pop-ups.md",
     "Telas Imobzi/Site/Aba Pesquisa de Imóvel.md",
@@ -269,7 +279,6 @@
     "Telas Imobzi/Locações.md",
     "Telas Imobzi/Site/Opções de contato no imóvel.md",
     "Telas Imobzi/Administrador/Empresa.md",
-    "Telas Imobzi/Gerais/Garantia.md",
     "Telas Imobzi/Gerais",
     "Telas Imobzi/Site/Untitled",
     "Código personalizado",
