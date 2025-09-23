@@ -50,3 +50,4 @@ Aba para configuração da Home do site. Aqui, altera-se o layout da página e d
 	- **Título**: Título da seção;
 	- **Descrição**: Descrição da seção.
 	- **[[Tipos e Campos Específicos de Seções]]**;
+	- **Cor de fundo**: Caso a seção terá uma cor de fundo ou não;

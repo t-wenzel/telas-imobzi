@@ -5,8 +5,10 @@ FAQs Relacionadas:
 ---
 ## Opções
 
-- **Destaque (mosaico)**: Exiba até 8 imóveis em 2 páginas, proporcionando uma experiência visual mais atraente!
+- **Destaque (mosaico)**: Exiba até 8 imóveis em 2 páginas;
+	- **[[Mídias do site|Alterar imagem]]**.
 - **Destaque (quadrado)**: Apresente até 4 imóveis, com uma descrição ao lado.
+	- **[[Mídias do site|Alterar imagem]]**.
 - **[Shorts dos imóveis](https://help.imobzi.com/pt-br/article/como-adicionar-shorts-do-youtube-no-meu-site-y9umte/#3-adicionando-novos-shorts)**;
 - **[[Código personalizado#^80cf44|Código HTML]]**;
 - ****Notícias do mercado imobiliário:**** Transforme seu site em uma central de notícias! Ativando esta seção, você terá as atualizações do mercado imobiliário exibidas automaticamente por um dos maiores portais do setor, o Papo Imobiliário.
