@@ -21,6 +21,8 @@ tags:
   - Endereço
 FAQs Relacionadas:
   - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/
+  - https://help.imobzi.com/pt-br/article/tags-nos-imoveis-do-site-basr1/
+  - https://help.imobzi.com/pt-br/article/como-otimizar-o-seo-do-seu-site-1apebpn/
 ---
 ---
 ## Campos

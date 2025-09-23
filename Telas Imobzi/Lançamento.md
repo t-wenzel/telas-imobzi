@@ -1,6 +1,13 @@
 ---
 tags:
+  - Tag
+  - Lançamento
+  - Pré
+  - Construção
+  - Pronto
+  - Imóvel
 FAQs Relacionadas:
+  - https://help.imobzi.com/pt-br/article/tags-nos-imoveis-do-site-basr1/
 ---
 ---
 ## Definição
