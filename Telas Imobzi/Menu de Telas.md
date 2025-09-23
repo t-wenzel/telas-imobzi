@@ -20,8 +20,10 @@ FAQs Relacionadas:
 - Gerenciamento do Site;
 	- [[Tela de Configurações]];
 		- [[Opções de contato no imóvel]];
-	- [[Mídias do site]];
-	- [[Código personalizado]];
+		- [[Código personalizado]].
+	- [[Tela de Conteúdos]];
+		- [[Mídias do site]];
+		- [[Landing page]].
 ---
 
 **[[Menu de Definições]]**
