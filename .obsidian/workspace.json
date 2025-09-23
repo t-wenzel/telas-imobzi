@@ -66,9 +66,24 @@
               "icon": "lucide-file",
               "title": "Aba Home"
             }
+          },
+          {
+            "id": "97fb62fadfa10ac6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telas Imobzi/Site/Tela de Páginas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Tela de Páginas"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -227,17 +242,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "faeb6933fe8eb93f",
+  "active": "97fb62fadfa10ac6",
   "lastOpenFiles": [
-    "Telas Imobzi/Site/Tela de Páginas.md",
+    "Telas Imobzi/Site/Tela de Configurações.md",
     "Telas Imobzi/Site/Tela de Conteúdos.md",
     "Telas Imobzi/Site/Tela de Menus.md",
+    "Telas Imobzi/Site/Tela de Páginas.md",
+    "Telas Imobzi/Site/Botões customizados.md",
+    "Telas Imobzi/Site/Aba Home.md",
     "Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
     "Telas Imobzi/Site/Tela de Pop-ups.md",
     "Telas Imobzi/Site/Aba Pesquisa de Imóvel.md",
-    "Telas Imobzi/Site/Aba Home.md",
     "Telas Imobzi/Menu de Telas.md",
-    "Telas Imobzi/Site/Tela de Configurações.md",
     "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
     "Telas Imobzi/Gerais/Adicionar documento.md",
     "Telas Imobzi/Gerais/Menu de Definições.md",
@@ -254,7 +270,6 @@
     "Telas Imobzi/Site/Opções de contato no imóvel.md",
     "Telas Imobzi/Administrador/Empresa.md",
     "Telas Imobzi/Gerais/Garantia.md",
-    "Telas Imobzi/CRM/Negócios & Cartões/Etapa.md",
     "Telas Imobzi/Gerais",
     "Telas Imobzi/Site/Untitled",
     "Código personalizado",

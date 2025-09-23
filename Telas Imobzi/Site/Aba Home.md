@@ -32,4 +32,4 @@ Aba para configuração da Home do site. Aqui, altera-se o layout da página e d
 	- **Imagem em destaque**: A imagem de fundo da barra de pesquisa;
 		- **Título**: Título da imagem;
 		- **[[Mídias do site|Alterar imagem]]**;
-		- **Botões customizados**: Edição ou adição de botões personalizados que direcionam para links externos, blogs, filtros de imóveis ou qualquer conteúdo desejado. Insira a URL e visualize uma prévia instantânea do resultado.
+		- **[[Botões customizados]]**;
