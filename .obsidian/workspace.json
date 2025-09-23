@@ -11,28 +11,109 @@
             "id": "6c4d86de1143b729",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "d51860e0d8e4cca8",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/Imóveis.md",
+                "file": "Telas Imobzi/Site/Tela de Configurações.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Imóveis"
+              "title": "Tela de Configurações"
+            }
+          },
+          {
+            "id": "16b25846a8c703e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telas Imobzi/Site/Tela de Configurações.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Tela de Configurações"
+            }
+          },
+          {
+            "id": "92a0221ca497d2fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telas Imobzi/CRM/Negócios & Cartões/Perfil do imóvel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Perfil do imóvel"
+            }
+          },
+          {
+            "id": "e57f90edbf798623",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telas Imobzi/Site/Tela de Configurações.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Tela de Configurações"
+            }
+          },
+          {
+            "id": "781a2a92ddcec863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telas Imobzi/Site/Tela de Configurações.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Tela de Configurações"
+            }
+          },
+          {
+            "id": "a9ffd712e2e543ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telas Imobzi/Site/Código personalizado.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Código personalizado"
+            }
+          },
+          {
+            "id": "030fc042ac7b6731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Negócio ou Cartão"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -191,43 +272,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b8a351fd0ee2244",
+  "active": "a9ffd712e2e543ef",
   "lastOpenFiles": [
+    "Telas Imobzi/Site/Tela de Configurações.md",
+    "Telas Imobzi/Site/Tela de Conteúdos.md",
+    "Telas Imobzi/Site/Código personalizado.md",
+    "Telas Imobzi/Site/Tela de Páginas.md",
+    "Telas Imobzi/Site/Opções de contato no imóvel.md",
+    "Código personalizado",
+    "Telas Imobzi/Site/Tela de Menus.md",
+    "Telas Imobzi/Perguntas.md",
+    "Telas Imobzi/Administrador/Empresa.md",
+    "Telas Imobzi/Imagens",
+    "Telas Imobzi/Untitled.md",
+    "Telas Imobzi/Imagens/Pasted image 20250922191750.png",
+    "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
+    "Telas Imobzi/Lançamento.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Perfil do imóvel.md",
+    "Telas Imobzi/Locações.md",
+    "Telas Imobzi/Imóveis.md",
+    "Telas Imobzi/Menu de Telas.md",
+    "Telas Imobzi/Relatórios.md",
+    "Telas Imobzi/Telas da Imobzi.md",
+    "Telas Imobzi/Site/Untitled.md",
+    "Telas Imobzi/Site/Contato do site.md",
+    "Telas Imobzi/Administrador",
+    "Telas Imobzi/CRM/Negócios & Cartões/Etapa.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Tela Negócios & Cartões.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Status de Negócio.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Rateio de Comissões.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Radar de imóveis.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Funil.md",
+    "Telas Imobzi/Site",
+    "Telas Imobzi/Negócios e cartões.md",
+    "readme",
     "repositorios",
     "Nova pasta",
     "repositorios/readme",
-    "Telas Imobzi/Imóveis.md",
     "Telas Imobzi",
-    "Telas Imobzi/Telas da Imobzi.md",
-    "Telas Imobzi/Templates/Nota Template.md",
-    "Telas Imobzi/Gerenciamento de Site.md",
-    "Telas Imobzi/CRM/Negócios & Cartões/Etapa.md",
-    "Telas Imobzi/Repositorios",
-    "Telas Imobzi/CRM/Negócios & Cartões/Funil.md",
-    "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
-    "Telas Imobzi/CRM/Negócios & Cartões/Negócios & Cartões.md",
-    "Telas Imobzi/CRM/Negócios & Cartões/Rateio de Comissões.md",
-    "Telas Imobzi/CRM/Negócios & Cartões/Status de Negócio.md",
-    "Telas Imobzi/Locações.md",
-    "CRM/Negócios & Cartões/Página do Negócio.md",
-    "Status.md",
-    "etapas.md",
-    "CRM/Negócios & Cartões/Adicionar ou editar funil.md",
-    "CRM/Negócios & Cartões/Adicionar ou editar funil",
-    "CRM/Negócios & Cartões/Novo Negócio",
-    "Adicionar/editar funil.md",
-    "Adicionar",
-    "CRM/Negócios & Cartões/Campos de Negócios & Cartões.md",
-    "Telas Imobzi/Definições diversas.md",
-    "Telas Imobzi/Perguntas.md",
-    "Telas Imobzi/Garantia.md",
-    "Telas Imobzi/CRM",
-    "Untitled.md",
-    "Telas Imobzi/CRM/Negócios & Cartões",
-    "funis.md",
-    "Telas Imobzi/Relatórios.md",
-    "Telas Imobzi/Templates",
-    "Negócios.md",
-    "Negócios_&_Cartões.md"
+    "Telas Imobzi/Repositorios"
   ]
 }

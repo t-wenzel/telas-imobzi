@@ -1,6 +1,13 @@
 ---
 tags:
+  - Rateio
+  - Comissão
+  - CRM
+  - Negócio
+  - Cartão
+  - Detalhes
 FAQs Relacionadas:
+  - https://help.imobzi.com/pt-br/article/como-funciona-o-rateio-de-comissoes-12a4ioo/
 ---
 ---
 ## Definição

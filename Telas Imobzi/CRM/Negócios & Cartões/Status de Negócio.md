@@ -1,6 +1,11 @@
 ---
 tags:
+  - Status
+  - Negócio
+  - Cartão
+  - CRM
 FAQs Relacionadas:
+  - https://help.imobzi.com/pt-br/article/como-funciona-o-funil-de-negocios-h5u2aj/
 ---
 ---
 ## Opções

@@ -3,7 +3,7 @@ tags:
   - "#Telas"
 ---
 ---
-- **[[Negócios & Cartões]]**;
+- **[[Tela Negócios & Cartões]]**;
 
 - **[[Imóveis]]**: Essa tela lista todos os imóveis cadastrados para venda, locação ou temporada. Permite filtrar por tipo, status ou corretor responsável. Do painel de imóveis, pode-se cadastrar novas unidades (clicando no “+”), editar dados (descrição, valores, fotos e características) e atribuir cada imóvel a um corretor ou ao funil de negócios. O sistema indica quais imóveis estão “desatualizados” há muito tempo, quais precisam de reajuste, e facilita a geração de anúncios nos portais (com exportação automática via XML);
 
