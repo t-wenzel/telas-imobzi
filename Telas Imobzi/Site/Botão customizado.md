@@ -9,7 +9,5 @@ Edição ou adição de botões personalizados que direcionam para links externo
 
 ## Campos
 
-- **Cabeçalho e menu**;
-- **Cabeçalho**;
-- **Menu**;
-- **Pesquisar**.
+- **Ativar botão customizado**: Caso ativado, o botão customizado estará funcional e sendo demonstrado no site;
+- Botão com image

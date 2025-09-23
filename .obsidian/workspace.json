@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/Site/Aba Home.md",
+                "file": "Telas Imobzi/Site/Botão customizado.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,7 +88,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aba Home"
+              "title": "Botão customizado"
             }
           }
         ],
@@ -251,10 +251,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b8a351fd0ee2244",
+  "active": "97fb62fadfa10ac6",
   "lastOpenFiles": [
-    "Telas Imobzi/Site/Tela de Páginas.md",
     "Telas Imobzi/Site/Aba Home.md",
+    "Telas Imobzi/Site/Tela de Páginas.md",
     "Telas Imobzi/Site/Botão customizado.md",
     "Telas Imobzi/Site/Mídias do site.md",
     "Telas Imobzi/Site/Tela de Configurações.md",
