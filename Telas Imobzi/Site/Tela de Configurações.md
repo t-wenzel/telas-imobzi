@@ -28,6 +28,7 @@ FAQs Relacionadas:
   - https://help.imobzi.com/pt-br/article/tags-nos-imoveis-do-site-basr1/
   - https://help.imobzi.com/pt-br/article/como-otimizar-o-seo-do-seu-site-1apebpn/
   - https://help.imobzi.com/pt-br/article/quais-alteracoes-no-site-eu-posso-realizar-no-imobzi-mwipxa/
+  - https://help.imobzi.com/pt-br/article/qual-o-tempo-de-atualizacao-de-dados-do-site-18r82fd/
 ---
 ---
 ## Campos

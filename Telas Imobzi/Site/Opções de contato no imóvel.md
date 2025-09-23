@@ -11,6 +11,7 @@ tags:
 FAQs Relacionadas:
   - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/
   - https://help.imobzi.com/pt-br/article/como-receber-leads-do-whatsapp-na-imobzi-pfk8gu/
+  - https://help.imobzi.com/pt-br/article/quais-alteracoes-no-site-eu-posso-realizar-no-imobzi-mwipxa
 ---
 ---
 ## Campos
