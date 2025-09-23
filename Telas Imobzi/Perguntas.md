@@ -16,6 +16,6 @@ tags:
 - Tags de "com proposta" e "reservado" nos imóveis são demonstradas em quais telas do site? Ou é apenas dentro do Imobzi?
 	- Os dois devem aparecer;
 - "Alterar ordenação dos imóveis" configura a ordem que os imóveis aparecerão no site. É apenas quando uma pesquisa é feita?
-	- O cliente faz filtro quanto a **qquais** imóveis, a ordem determina a **ordem** em que eles aparecem.
+	- O cliente faz filtro quanto a **quais** imóveis, a ordem determina a **ordem** em que eles aparecem.
 - Qual a diferença prática entre os botões personalizados de "Vincular conteúdo" e "URL interna"?
 	- Conteúdo é para conteúdos, link interno pode ser até um imóvel
