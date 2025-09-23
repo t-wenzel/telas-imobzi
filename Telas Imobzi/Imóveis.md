@@ -1,3 +1,12 @@
+---
+tags:
+FAQs Relacionadas:
+---
+---
+## Definições
+
+Essa tela lista todos os imóveis cadastrados para venda, locação ou temporada. Permite filtrar por tipo, status ou corretor responsável. Do painel de imóveis, pode-se cadastrar novas unidades (clicando no “+”), editar dados (descrição, valores, fotos e características) e atribuir cada imóvel a um corretor ou ao funil de negócios. O sistema indica quais imóveis estão “desatualizados” há muito tempo, quais precisam de reajuste, e facilita a geração de anúncios nos portais (com exportação automática via XML);
+
 - Imóveis são lugares destinados para residência, comércio ou fins rurais;
 - Empreendimentos são uma coleção de conjuntos de imóveis, como condomínios;
 - Preencha o CEP. Assim, o endereço se preencherá sozinho. Em antemão, você pode colocar o endereço e CLICAR NO ENDEREÇO CORRESPONDENTE NO DROPDOWN, se não, não será considerado;

@@ -1,7 +1,10 @@
 ---
 tags:
+  - Menu
+  - Definições
 ---
 ---
 - **[[Funil]]**;
 - **[[Garantia]]**;
-- **[[SEO]]**;
+- **[[Landing Page]]**;
+- **[[SEO]]**.
