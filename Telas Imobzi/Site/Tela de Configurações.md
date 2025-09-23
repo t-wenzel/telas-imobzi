@@ -7,7 +7,6 @@ tags:
   - Integração
   - E-mail
   - Notificação
-  - WhatsApp
   - Copyright
   - Meta
   - Tag
@@ -21,6 +20,7 @@ tags:
   - Arredondamento
   - Endereço
 FAQs Relacionadas:
+  - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/
 ---
 ---
 ## Campos
