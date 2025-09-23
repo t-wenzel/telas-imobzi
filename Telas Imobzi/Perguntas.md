@@ -14,6 +14,7 @@ tags:
 	- Aparece no google
 - Os campos "Título do site" e "Meta descrição do site" são quanto ao título e à descrição que aparecerão no Google ou ao compartilhar o link do imóvel?
 - Tags de "com proposta" e "reservado" nos imóveis são demonstradas em quais telas do site? Ou é apenas dentro do Imobzi?
+	- Os dois devem aparecer;
 - "Alterar ordenação dos imóveis" configura a ordem que os imóveis aparecerão no site. É apenas quando uma pesquisa é feita?
 	- O cliente faz filtro quanto a **qquais** imóveis, a ordem determina a **ordem** em que eles aparecem.
 - Qual a diferença prática entre os botões personalizados de "Vincular conteúdo" e "URL interna"?
