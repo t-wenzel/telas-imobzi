@@ -5,7 +5,9 @@ tags:
   - Mídia
   - Arquivo
   - Conteúdo
+  - Imagem
 FAQs Relacionadas:
+  - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-como-alterar-a-imagemvideo-da-home-do-site
 ---
 ---
 ## Definição
