@@ -18,5 +18,15 @@ Aba para configuração da Home do site. Aqui, altera-se o layout da página e d
 - **Tema**;
 	- **Tipo de tema**: Caso o tema a ser utilizado ou personalizado é o tema claro, escuro ou outro personalizado;
 		- **Cores**: Pode-se escolher e alterar as cores do site conforme desejar;
-			- 
-	- **Logos e Favicon**: Personaliza as logo da página inicial, a logo interna, a logo do rodapé e o Favicon.
+			- **Cor primária**;
+			- **Cor secundária**;
+			- **Cor do cabeçalho**;
+			- **Cor do rodapé**;
+			- **Segunda cor do rodapé;
+			- **Cor do título principal**.
+	- **Logos e Favicon**: Personaliza as logos apresentadas no site;
+		- **Logotipo home**;
+		- **Logo interno**;
+		- **Logotipo do rodapé**;
+		- **Favicon**.
+		- 
