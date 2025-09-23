@@ -11,4 +11,9 @@ Aba para configuração da Home do site. Aqui, altera-se o layout da página e d
 
 - **Template**: Neste campo, você pode escolher o tipo de layout que deseja para o seu site;
 - **Tipo de menu**: Escolha o tipo de menu, que pode ser no modelo hambúrguer ou padrão;
-- **Exibir telefone**: Você pode escolher onde exibir o número de contato no site, podendo ser: todos, apenas no cabeçalho, apenas no rodapé ou nenhum.
+- **Exibir telefone**: Você pode escolher onde exibir o número de contato no site, podendo ser: todos, apenas no cabeçalho, apenas no rodapé ou nenhum;
+- **Opção de contato do botão flutuante**: Aqui, você pode escolher se deseja ou não exibir um botão flutuante com opções de contato no seu site, podendo também optar por exibir apenas a opção de WhatsApp;
+- **Exibir botões de busca**: Neste campo, você pode personalizar os botões de busca da página inicial do site, podendo escolher entre: alugar, comprar, temporada, todos ou nenhum;
+- **Botão de busca padrão**: Qual dos botões de busca é selecionado por padrão, podendo ser o de comprar alugar ou temporada;
+- **Tema**;
+	- 
