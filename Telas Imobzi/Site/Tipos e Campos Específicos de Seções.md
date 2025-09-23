@@ -23,4 +23,7 @@ FAQs Relacionadas:
 	- **[[Mídias do site|Alterar imagem]]**;
 	- **[[Botão customizado|Adicionar botão customizado]]**.
 - **Seção de bairros**: Seção com os 6 principais bairros ou bairros personalizados;
-- **Simulador**: Simulação 
+- **Simulador**: Simulação do financiamento do imóvel.
+	- **Preço padrão, preço mínimo e preço máximo**: Respectivamente os valores padrão, mínimo e máximo da barra de preço do imóvel;
+	- **Taxa de juros**: Quantos juros serão cobrados do cliente da imobiliária;
+	- **Entrada**
