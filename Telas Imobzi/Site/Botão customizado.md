@@ -13,4 +13,5 @@ Edição ou adição de botões personalizados que direcionam para links externo
 - **Botão com imagem**: Ative caso deseja colocar uma imagem no botão;
 	- **[[Mídias do site|Selecione uma imagem]]**.
 - **Título**: Texto que aparecerá no botão. Não utilize um nome longo, já que pode ultrapassar a margem;
-- **[[Tipos de link|Tipo]]**;
+- **[[Tipos de Link de Botão Customizado|Tipo]]**;
+- **Pré-Visualização**:

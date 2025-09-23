@@ -12,3 +12,6 @@ FAQs Relacionadas:
 - **Celular**: Se o visitante estiver no mobile, um clique basta para iniciar uma ligação para o número informado. Ideal para facilitar o primeiro contato;
 - **WhatsApp**: Semelhante ao botão de telefone, mas com redirecionamento direto para o aplicativo do WhatsApp;
 - **Formulário**: Torne a captação de dados mais simples escolhendo o tipo ideal: simulador, contato ou WhatsApp.
+	- **Simulador**;
+	- **Contato**;
+	- **WhatsApp**.
