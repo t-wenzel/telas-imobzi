@@ -5,7 +5,7 @@ FAQs Relacionadas:
 ---
 ## Definição
 
-Edição ou adição de botões personalizados que direcionam para links externos, blogs, filtros de imóveis ou qualquer conteúdo desejado. Ao inserir a URL é possível visualizar uma prévia instantânea do resultado.
+Edição ou adição de botões personalizados que direcionam para links externos, blogs, filtros de imóveis ou qualquer conteúdo desejado.
 
 ## Campos
 
@@ -14,4 +14,4 @@ Edição ou adição de botões personalizados que direcionam para links externo
 	- **[[Mídias do site|Selecione uma imagem]]**.
 - **Título**: Texto que aparecerá no botão. Não utilize um nome longo, já que pode ultrapassar a margem;
 - **[[Tipos de Link de Botão Customizado|Tipo]]**;
-- **Pré-Visualização**:
+- **Pré-Visualização**: Visualização prévia de como ficará o botão na página.

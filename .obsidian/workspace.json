@@ -112,13 +112,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/Site/Botão customizado.md",
+                "file": "Telas Imobzi/Site/Aba Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Botão customizado"
+              "title": "Aba Home"
             }
           }
         ],
@@ -283,8 +283,8 @@
   },
   "active": "d8e01ccbefff08bf",
   "lastOpenFiles": [
-    "Telas Imobzi/Site/Tipos de Link de Botão Customizado.md",
     "Telas Imobzi/Site/Botão customizado.md",
+    "Telas Imobzi/Site/Tipos de Link de Botão Customizado.md",
     "Telas Imobzi/Site/Aba Home.md",
     "Telas Imobzi/Perguntas.md",
     "Telas Imobzi/Filtro do Imóvel.md",
