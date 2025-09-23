@@ -16,4 +16,7 @@ Aba para configuração da Home do site. Aqui, altera-se o layout da página e d
 - **Exibir botões de busca**: Neste campo, você pode personalizar os botões de busca da página inicial do site, podendo escolher entre: alugar, comprar, temporada, todos ou nenhum;
 - **Botão de busca padrão**: Qual dos botões de busca é selecionado por padrão, podendo ser o de comprar alugar ou temporada;
 - **Tema**;
-	- 
+	- **Tipo de tema**: Caso o tema a ser utilizado ou personalizado é o tema claro, escuro ou outro personalizado;
+		- **Cores**: Pode-se escolher e alterar as cores do site conforme desejar;
+			- 
+	- **Logos e Favicon**: Personaliza as logo da página inicial, a logo interna, a logo do rodapé e o Favicon.
