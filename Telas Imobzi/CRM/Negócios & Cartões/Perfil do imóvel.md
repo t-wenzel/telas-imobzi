@@ -18,7 +18,7 @@ Para determinar o imóvel em que o cliente está interessado e possibilitar o us
 
 ## Campos
 
-- **Finalidade**: Se é um [[imóvel]] do tipo residencial, comercial ou rural;
+- **Finalidade**: Se é um [[Imóveis|imóvel]] do tipo residencial, comercial ou rural;
 - **Tipo**: O tipo do imóvel (apartamento, casa, flat, kitnet...);
 - **Área mínima**: Área mínima de imóvel que o cliente tem interesse;
 - **Dorm/Suítes/Banheiros/Vagas**: Número mínimo de cada um desses itens que deverão ter no imóvel;
