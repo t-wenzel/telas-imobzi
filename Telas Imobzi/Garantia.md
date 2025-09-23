@@ -1,5 +1,8 @@
 ---
 tags:
+FAQs Relacionadas:
+  - https://help.imobzi.com/pt-br/article/como-realizar-a-garantia-pela-credpago-e-porto-seguro-na-imobiliaria-digital-1t79alh/
+  - https://help.imobzi.com/pt-br/article/como-contratar-a-garantia-do-seguro-fianca-pela-credpago-na-locacao-1m0onlh/
 ---
 ---
 ## Definição
