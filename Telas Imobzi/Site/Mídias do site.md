@@ -1,14 +1,23 @@
 ---
 tags:
+  - Site
+  - Pexels
+  - Mídia
+  - Arquivo
+  - Conteúdo
 FAQs Relacionadas:
 ---
 ---
 ## Definição
 
-Local onde se mantém todas as mídias presentes no site não referentes a imóveis. É possível pesquisar a imagem por nome
+Local onde se mantém todas as mídias presentes no site não referentes a imóveis. É possível pesquisar a imagem por nome e ordenar por nome, tipo e data.
 
 ## Campos
 
-- Mídias do site;
-- Mídias free;
-- Pexels: Para fotos e imagens vindas do Pexels;
+- **Mídias do site**;
+- **Mídias free**;
+- **Pexels**: Para fotos e imagens vindas do Pexels;
+- **Imagem**.
+	- **Copiar link**: Para copiar o link onde a imagem está hosteada;
+	- **Renomear**: Para renomear o arquivo;
+	- **Substituir arquivo**: Para caso queira adicionar um arquivo e deletar outro ao mesmo tempo.
