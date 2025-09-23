@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/Perguntas.md",
+                "file": "Telas Imobzi/Site/Tela de Configurações.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Perguntas"
+              "title": "Tela de Configurações"
             }
           }
         ],
@@ -199,8 +199,8 @@
   },
   "active": "0a3e862f17bcb6e1",
   "lastOpenFiles": [
-    "Telas Imobzi/Site/Código personalizado.md",
     "Telas Imobzi/Perguntas.md",
+    "Telas Imobzi/Site/Código personalizado.md",
     "Telas Imobzi/Site/Botão customizado.md",
     "Telas Imobzi/Site/Tipos de Link de Botão Customizado.md",
     "Telas Imobzi/Site/Tipos e Campos Específicos de Seções.md",
