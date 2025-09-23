@@ -26,4 +26,5 @@ FAQs Relacionadas:
 - **Simulador**: Simulação do financiamento do imóvel.
 	- **Preço padrão, preço mínimo e preço máximo**: Respectivamente os valores padrão, mínimo e máximo da barra de preço do imóvel;
 	- **Taxa de juros**: Quantos juros serão cobrados do cliente da imobiliária;
-	- **Entrada**
+	- **Entrada**: Porcentagem do valor do imóvel que é cobrado em sua entrada;
+	- **Anos**: Tempo de duração do financiamento.
