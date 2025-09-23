@@ -1,7 +1,10 @@
 ---
 tags:
+  - Site
+  - Conteúdo
 FAQs Relacionadas:
   - https://help.imobzi.com/pt-br/article/como-colocar-uma-landing-page-no-site-1f8fon7/
+  - https://help.imobzi.com/pt-br/article/como-configurar-abas-de-conteudo-no-meu-site-1skfca2/
 ---
 ---
 ## Campos

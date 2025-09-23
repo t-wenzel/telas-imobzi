@@ -14,8 +14,8 @@ Local onde se mantém todas as mídias presentes no site não referentes a imóv
 
 ## Campos
 
-- **Mídias do site**;
-- **Mídias free**;
+- **Mídias do site**: Mídias presentes no site;
+- **Mídias free**: Mídias de livre uso;
 - **Pexels**: Para fotos e imagens vindas do Pexels;
 - **Imagem**.
 	- **Copiar link**: Para copiar o link onde a imagem está hosteada;
