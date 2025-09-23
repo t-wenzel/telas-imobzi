@@ -19,4 +19,13 @@ FAQs Relacionadas:
 
 - Gerenciamento do Site;
 	- [[Tela de Configurações]];
-	- 
+		- [[Opções de contato no imóvel]];
+	- [[Mídias do site]];
+	- [[Código personalizado]];
+---
+
+**[[Menu de Definições]]**
+
+**[[Perguntas]]**
+
+---
