@@ -4,11 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "a124020d306898c5",
+        "id": "3e1ae61e1bc48f1e",
         "type": "tabs",
         "children": [
           {
             "id": "d8e01ccbefff08bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telas Imobzi/Perguntas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Perguntas"
+            }
+          },
+          {
+            "id": "0a3e862f17bcb6e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,21 +35,6 @@
               },
               "icon": "lucide-file",
               "title": "Tipos e Campos Específicos de Seções"
-            }
-          },
-          {
-            "id": "0a3e862f17bcb6e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Telas Imobzi/Site/Tela de Configurações.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Tela de Configurações"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Meta",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,15 +200,15 @@
   "active": "0a3e862f17bcb6e1",
   "lastOpenFiles": [
     "Telas Imobzi/Perguntas.md",
+    "Telas Imobzi/Site/Tipos e Campos Específicos de Seções.md",
+    "Telas Imobzi/Site/Aba Home.md",
+    "Telas Imobzi/Site/Tela de Páginas.md",
+    "Telas Imobzi/Site/Tela de Configurações.md",
     "Telas Imobzi/Site/Código personalizado.md",
     "Telas Imobzi/Site/Botão customizado.md",
     "Telas Imobzi/Site/Tipos de Link de Botão Customizado.md",
-    "Telas Imobzi/Site/Tipos e Campos Específicos de Seções.md",
-    "Telas Imobzi/Site/Aba Home.md",
     "Telas Imobzi/Filtro do Imóvel.md",
     "Telas Imobzi/Site/Mídias do site.md",
-    "Telas Imobzi/Site/Tela de Páginas.md",
-    "Telas Imobzi/Site/Tela de Configurações.md",
     "Telas Imobzi/Site/Tela de Conteúdos.md",
     "Telas Imobzi/Site/Tela de Menus.md",
     "Telas Imobzi/Site/Aba Detalhes do Imóvel.md",

@@ -46,7 +46,7 @@ FAQs Relacionadas:
 - **Formulários e integrações**;
 	- **E-mail para receber notificações**: E-mail que receberá e-mails quanto às notificações de formulários e integrações.
 - **Meta tags do site**;
-	- **Copyright**: Quais direitos são reservados. Serve para meta tag;
+	- **Copyright**: Quais direitos são reservados. Serve para SEO;
 	- **Título do site**: O título que aparecerá no Google ou ao compartilhar o link do imóvel;
 	- **Meta descrição do site**: A descrição que aparecerá no Google ou ao compartilhar o link do imóvel.
 - **Tags de lançamento**;
