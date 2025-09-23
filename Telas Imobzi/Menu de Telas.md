@@ -24,6 +24,10 @@ FAQs Relacionadas:
 	- [[Tela de Conteúdos]];
 		- [[Mídias do site]];
 		- [[Landing page]].
+	- Tela de Páginas;
+		- **[[Aba Home|Home]]**;
+		- **[[Aba Pesquisa de Imóvel|Pesquisa de Imóvel]]**;
+		- **[[Aba Detalhes do Imóvel|Detalhes do Imóvel]]**.
 ---
 
 **[[Menu de Definições]]**
