@@ -37,3 +37,5 @@ FAQs Relacionadas:
 	- **Exibir casas decimais das áreas dos imóveis no site**: Caso ativo, exibe casas decimais nas áreas de imóveis. Caso desativado, arredonda a área;
 	- **Alterar ordenação dos imóveis**: A ordem que os imóveis aparecerão no site #todo.
 - **[[Código personalizado]]**;
+- **Performance do site**;
+	- **Limpar cache**: Para caso o cliente tenha inserido ou modificado informações no Imobzi e isso não tenha sido refletido no seu site.
