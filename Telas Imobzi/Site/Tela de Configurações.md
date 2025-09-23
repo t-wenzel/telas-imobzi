@@ -60,7 +60,7 @@ FAQs Relacionadas:
 	![[Pasted image 20250922191750.png]]
 
 - **Outros**;
-	- **Exibir endereço dos imóveis no site**: Caso o endereço do imóvel vai ser exibido, e como (com ou sem complemento e número). Exibir os endereços completos é melhor para SEO (ordem dos resultados no Google e afins);
+	- **Exibir endereço dos imóveis no site**: Caso o endereço do imóvel vai ser exibido, e como (com ou sem complemento e número). Exibir os endereços completos é melhor para [[SEO]];
 	- **Exibir casas decimais dos valores dos imóveis no site**: Caso ativo, exibe casas decimais nos valores de imóveis. Caso desativado, arredonda o valor;
 	- **Exibir casas decimais das áreas dos imóveis no site**: Caso ativo, exibe casas decimais nas áreas de imóveis. Caso desativado, arredonda a área;
 	- **Alterar ordenação dos imóveis**: A ordem que os imóveis aparecerão no site #todo.
