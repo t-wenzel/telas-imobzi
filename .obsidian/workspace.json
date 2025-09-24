@@ -28,16 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/Site/Tela de Páginas.md",
+                "file": "Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tela de Páginas"
+              "title": "Aba Detalhes do Imóvel"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,11 +198,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76f084fa94cc54d3",
+  "active": "fba3351c24863975",
   "lastOpenFiles": [
+    "Telas Imobzi/Site/Tipos de Link de Botão Customizado.md",
     "Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
-    "Screenshot(4).png",
     "Telas Imobzi/Site/Tela de Páginas.md",
+    "Screenshot(4).png",
     "Telas Imobzi/Site/Aba Pesquisa de Imóvel.md",
     "Telas Imobzi/Site/Tela de Configurações.md",
     "Telas Imobzi/Menu de Telas.md",
@@ -210,7 +212,6 @@
     "Telas Imobzi/Perguntas.md",
     "Telas Imobzi/Imagens/Exibir valor total dos imóveis.png",
     "Telas Imobzi/Site/Tela de Pop-ups.md",
-    "Telas Imobzi/Site/Tipos de Link de Botão Customizado.md",
     "Telas Imobzi/Site/Opções de contato no imóvel.md",
     "Telas Imobzi/Site/Aba Home.md",
     "Telas Imobzi/Site/Untitled.md",
