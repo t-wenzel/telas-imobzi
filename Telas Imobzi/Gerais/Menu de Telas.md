@@ -3,6 +3,8 @@ tags:
 FAQs Relacionadas:
 ---
 ---
+## Telas
+
 - **[[Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Tela Negócios & Cartões|Tela Negócios & Cartões]]**;
 	- **[[Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Funil#^7c8d24|Adicionar ou editar funil]]**;
 		- **[[Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Etapa#^73a8c4|Adicionar ou editar etapa]]**.
@@ -52,6 +54,7 @@ FAQs Relacionadas:
 						- **[[Botão customizado|Adicionar item]]**;
 					- **Personalize o compartilhamento**.
 						- **[[Botão customizado|Adicionar item]]**.
+	- Tela de pop-ups
 ---
 
 **[[Telas Imobzi/Telas Imobzi/Gerais/Menu de Definições|Menu de Definições]]**
