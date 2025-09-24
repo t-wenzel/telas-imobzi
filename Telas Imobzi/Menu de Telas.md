@@ -26,6 +26,8 @@ FAQs Relacionadas:
 		- [[Landing page]].
 	- Tela de Páginas;
 		- **[[Aba Home|Home]]**;
+			- Imagem de destaque;
+				- Alterar imga
 		- **[[Aba Pesquisa de Imóvel|Pesquisa de Imóvel]]**;
 		- **[[Aba Detalhes do Imóvel|Detalhes do Imóvel]]**.
 ---
