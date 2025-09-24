@@ -10,8 +10,6 @@ tags:
 
 ## Gerenciamento do Site
 
-- Onde que aparece o "copyright" do site?
-	- Aparece no google
 - Os campos "Título do site" e "Meta descrição do site" são quanto ao título e à descrição que aparecerão no Google ou ao compartilhar o link do imóvel?
 - Tags de "com proposta" e "reservado" nos imóveis são demonstradas em quais telas do site? Ou é apenas dentro do Imobzi?
 	- Os dois devem aparecer;
