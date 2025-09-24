@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/Telas Imobzi/Menu de Telas.md",
+                "file": "Telas Imobzi/Menu de Telas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telas Imobzi/Telas Imobzi/Menu de Telas.md",
+                "file": "Telas Imobzi/Menu de Telas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -250,8 +250,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "4a94446799e128b9",
+  "active": "e2d5dcd0311803c4",
   "lastOpenFiles": [
+    "Telas Imobzi/Telas Imobzi/Filtro do Imóvel.md",
+    "Telas Imobzi/Menu de Telas.md",
     "Telas Imobzi/Telas Imobzi/Perguntas.md",
     "Telas Imobzi/Telas Imobzi/Relatórios.md",
     "Telas Imobzi/Telas Imobzi/Menu de Notas.md",
@@ -276,8 +278,6 @@
     "Telas Imobzi/CRM/Negócios & Cartões/Radar de imóveis.md",
     "Telas Imobzi/Telas Imobzi/Site/Tela de Pop-ups.md",
     "Telas Imobzi/Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
-    "Telas Imobzi/Telas Imobzi/Site/Aba Pesquisa de Imóvel.md",
-    "Telas Imobzi/Telas Imobzi/Site/Tela de Páginas.md",
     "Telas Imobzi/Telas Imobzi/Imagens/Screenshot(4).png",
     "Telas Imobzi/Telas Imobzi/Imagens/Exibir valor total dos imóveis.png",
     "Telas Imobzi/Telas Imobzi/Imagens/Texto do balão flutuante.png",
