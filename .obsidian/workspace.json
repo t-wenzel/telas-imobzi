@@ -144,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Negócios & Cartões.md",
+                "file": "Telas Imobzi/Gerais/Menu de Telas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Negócios & Cartões"
+              "title": "Outgoing links from Menu de Telas"
             }
           },
           {
@@ -173,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Negócios & Cartões.md",
+                "file": "Telas Imobzi/Gerais/Menu de Telas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Negócios & Cartões"
+              "title": "Outline of Menu de Telas"
             }
           },
           {
@@ -211,11 +211,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9dfb312d563f37e0",
+  "active": "e653f321262c4cc2",
   "lastOpenFiles": [
-    "Telas Imobzi/Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
-    "Telas Imobzi/Gerais/Menu de Telas.md",
     "Telas Imobzi/Gerais/Menu de Definições.md",
+    "Telas Imobzi/Gerais/Menu de Telas.md",
+    "Telas Imobzi/Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
     "Telas Imobzi/Gerais/Garantia.md",
     "Telas Imobzi/Site/SEO.md",
     "Telas Imobzi/Telas Imobzi/Gerais/Menu de Definições.md",
