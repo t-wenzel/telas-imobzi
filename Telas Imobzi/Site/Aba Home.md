@@ -79,8 +79,4 @@ Aba para configuração da Home do site. Aqui, altera-se o layout da página e d
 			- **[[Botão customizado|Adicionar item]]**.
 	- **Estilo da pesquisa**: Edição do formato dos botões acima da caixa de pesquisa;
 	- **Seção de subtítulos**: Os subtítulos já vem prontos, mas podem ser melhorados/adaptados. São apresentados logo abaixo da imagem de destaque. Boas descrições também impulsionam o rankeamento do site no Google.
-- **[[Seções da Home|Seções]]**: Criação e posicionamento manual de todas as seções que são exibidas no site;
-	- **Título**: Título da seção;
-	- **Descrição**: Descrição da seção.
-	- **[[Seções da Home]]**;
-	- **Cor de fundo**: Caso a seção terá uma cor de fundo ou não;
+- **[[Seções da Home|Seções]]**;

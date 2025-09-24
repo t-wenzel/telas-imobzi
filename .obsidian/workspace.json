@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/Site/Botão customizado.md",
+                "file": "Telas Imobzi/Site/Aba Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Botão customizado"
+              "title": "Aba Home"
             }
           },
           {
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,12 +221,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fba3351c24863975",
+  "active": "a06ea1839dd2a899",
   "lastOpenFiles": [
-    "Telas Imobzi/Site/Aba Pesquisa de Imóvel.md",
-    "Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
     "Telas Imobzi/Site/Aba Home.md",
+    "Telas Imobzi/Site/Botão customizado.md",
     "Telas Imobzi/Site/Seções da Home.md",
+    "Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
+    "Telas Imobzi/Site/Aba Pesquisa de Imóvel.md",
     "Telas Imobzi/Site/Tela de Pop-ups.md",
     "Telas Imobzi/Site/Tela de Páginas.md",
     "Telas Imobzi/Site/Tela de Menus.md",
@@ -236,7 +237,6 @@
     "Telas Imobzi/Site/Mídias do site.md",
     "Telas Imobzi/Site/Landing Page.md",
     "Telas Imobzi/Site/Código personalizado.md",
-    "Telas Imobzi/Site/Botão customizado.md",
     "Telas Imobzi/Site/Tipos de Link de Botão Customizado.md",
     "Screenshot(4).png",
     "Telas Imobzi/Menu de Telas.md",

@@ -3,6 +3,27 @@ tags:
   - Site
   - Página
   - Home
+  - Descrição
+  - Cor
+  - Ordem
+  - Corretor
+  - Destaque
+  - Mosaico
+  - Banner
+  - Carrossel
+  - Quadrado
+  - Coluna
+  - Shorts
+  - YouTube
+  - Papo
+  - Imobiliário
+  - Notícias
+  - Depoimento
+  - Botão
+  - Customizado
+  - Personalizado
+  - Bairros
+  - Simulador
 FAQs Relacionadas:
   - https://help.imobzi.com/pt-br/article/como-adicionar-um-banner-no-meu-site-1pfrdmu/
   - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-secoes
@@ -12,6 +33,12 @@ FAQs Relacionadas:
 ## Definição
 
 Criação e posicionamento manual de todas as seções que são exibidas no site;
+## Campos
+
+- **Título**: Título da seção;
+- **Descrição**: Descrição da seção;
+- **Cor de fundo**: Caso a seção terá uma cor de fundo ou não.
+
 ## Opções
 
 - **Nossos corretores**: Exibe uma lista de corretores da imobiliária;
