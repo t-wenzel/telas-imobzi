@@ -10,5 +10,3 @@ tags:
 
 ## Gerenciamento do Site
 
-- Qual a diferença prática entre os botões personalizados de "Vincular conteúdo" e "URL interna"?
-	- Conteúdo é para conteúdos, link interno pode ser até um imóvel

@@ -10,4 +10,5 @@ FAQs Relacionadas:
 	- **Grade**;
 	- **Lista**.
 - **Filtros personalizados**: Determina quais campos de filtros serão possíveis de pesquisar por;
-- 
+- **Alterar ordenação do filtro de imóveis**: Altera o estado dos campos do filtro de imóveis dentre ativado e desativado e a ordem em que aparecem. Podem inclusive definir um dos campos como o padrão da ordenação;
+- Exibir valor total dos imóveis
