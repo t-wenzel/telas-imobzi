@@ -7,7 +7,11 @@ FAQs Relacionadas:
   - https://help.imobzi.com/pt-br/article/como-personalizar-seu-site-1u1sqig/
   - https://help.imobzi.com/pt-br/article/como-adicionar-shorts-do-youtube-no-meu-site-y9umte/
   - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-logos-favicons
-dasda:
+  - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-como-alterar-a-imagemvideo-da-home-do-site
+  - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-como-adicionar-um-botao-personalizado-na-home-do-site
+  - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-como-alterar-o-layout-dos-botoes-de-busca-do-site
+  - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-personalizando-os-sub-titulos-do-site
+  - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-secoes
 ---
 ---
 ## Definição
