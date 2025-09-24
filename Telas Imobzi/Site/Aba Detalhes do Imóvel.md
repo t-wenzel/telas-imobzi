@@ -10,4 +10,7 @@ FAQs Relacionadas:
 		- **Completa**;
 		- **Parcial**;
 		- **Nenhuma**.
-	- **Seção de contato**: 
+	- **Seção de contato**: Para alteração de botões como: Fale com o corretor, Agendar uma visita, Simular o financiamento, Compartilhamento, etc.
+	-
+			![[Screenshot(4).png]]
+		- 
