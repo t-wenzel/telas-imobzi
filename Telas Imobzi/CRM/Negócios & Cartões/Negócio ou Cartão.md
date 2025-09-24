@@ -34,7 +34,7 @@ Negócio é a oportunidade comercial entre um cliente (lead ou contato) e um im�
 - **Responsável**: O corretor ou outra pessoa que será responsável pelo negócio;
 - **Campos específicos quando em funis de “Venda, locação e temporada” e “Captação de imóveis”**. ^565097
 	- **Comissão/porcentagem de comissão**: Respectivamente o valor fixo e a porcentagem do valor do imóvel que irão para o corretor caso o negócio seja ganho. Caso seja inserido o valor de um desses campos, o outro é atualizado automaticamente para ficarem compatíveis.
-	- **[[Perfil do imóvel]]**;
+	- **[[Telas Imobzi/CRM/Negócios & Cartões/Perfil do imóvel]]**;
 	- **Campos específicos a comprar**;
 	    - **Valor de entrada**: Valor pago pelo lead antes de começar a pagar as parcelas;
 	    - **Renda mensal**: Valor da renda do lead para a análise de crédito;
@@ -47,18 +47,18 @@ Negócio é a oportunidade comercial entre um cliente (lead ou contato) e um im�
 
 ^a87475
 
-- **[[Status de Negócio]]**;
+- **[[Telas Imobzi/CRM/Negócios & Cartões/Status de Negócio]]**;
 - **Botões de polegar levantado vermelho e verde**: Após terminadas todas as etapas do negócio, ele pode ser dado como ganho ou perdido. Caso ganho, é possível criar a locação de forma automática, ou pode se criar uma nova locação posteriormente na tela de [[Locações]];
-- **Etapas do funil dentro do cartão**: Servem para avançar ou retroceder [[Etapa|etapas]] do negócio no funil;
+- **Etapas do funil dentro do cartão**: Servem para avançar ou retroceder [[Telas Imobzi/CRM/Negócios & Cartões/Etapa|etapas]] do negócio no funil;
 - **Detalhes**: Informações adicionais sobre o negócio; ^7889c6
 	- **Contato**: O contato vinculado ao negócio, podendo ser contatado de diversas maneiras;
 	- **Participantes**: Aqueles que serão notificados sobre atualizações na tarefa para maior controle de movimentações;
 	- **Negócio**
-		- **Funil**: [[Funil]] onde o negócio atualmente se encontra. Pode ser movido para outro funil;
+		- **Funil**: [[Telas Imobzi/CRM/Negócios & Cartões/Funil]] onde o negócio atualmente se encontra. Pode ser movido para outro funil;
 		- **Interesse**: Se o lead quer comprar, alugar ou alugar por temporada;
 		- **Análise de crédito**: Área para criar uma [[análise de crédito]] ou nível de risco da análise de crédito caso já feita;
 		- **Valor**: Valor do negócio.
-	- **[[Rateio de Comissões]]**;
+	- **[[Telas Imobzi/CRM/Negócios & Cartões/Rateio de Comissões]]**;
 	- **Reservas & Propostas**: Imóveis reservados para o lead, assim como os que têm propostas ^f89a2a
 		- **Data inicial e data final**: Para quando a reserva ou proposta foi realizada;
 		- **Imóvel**: Imóvel reservado ou que teve uma proposta;
@@ -91,6 +91,6 @@ Negócio é a oportunidade comercial entre um cliente (lead ou contato) e um im�
 	- **Adicionar negócios & cartões**: Vincula um ou mais negócios ou cartões a este negócio.
 - **Atividades**: Histórico de eventos no negócio; ^d7a980
 	- **Mostrar todos os itens**: Filtro de quais atividades serão informadas nessa área;
-	- **[[Adicionar documento]]**;
+	- **[[Telas Imobzi/Gerais/Adicionar documento]]**;
 	- **Adicionar nota**: Nota que será exibida na linha do tempo das atividades do negócio.
 	- **Seta para baixo**: Outros tipos de atividades registráveis;

@@ -25,4 +25,4 @@ FAQs Relacionadas:
 - **Alterar ordenação do filtro de imóveis**: Altera o estado dos campos do filtro de imóveis dentre ativado e desativado e a ordem em que aparecem. Podem inclusive definir um dos campos como o padrão da ordenação;
 - **Exibir valor total dos imóveis**: Caso um imóvel esteja disponível para locação, o valor total será exibido. Ele será composto pela soma do valor da locação e dos valores adicionais.
 
-- ![[Exibir valor total dos imóveis.png]]
+- ![[Telas Imobzi/Imagens/Exibir valor total dos imóveis.png]]

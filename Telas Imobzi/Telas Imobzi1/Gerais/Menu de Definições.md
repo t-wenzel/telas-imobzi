@@ -5,6 +5,6 @@ tags:
 ---
 ---
 - **[[Telas Imobzi/CRM/Negócios & Cartões/Funil]]**;
-- **[[Telas Imobzi/Gerais/Garantia]]**;
+- **[[Telas Imobzi/Telas Imobzi1/Gerais/Garantia]]**;
 - **[[Telas Imobzi/Site/Landing Page]]**;
-- **[[Telas Imobzi/Site/SEO]]**.
+- **[[Telas Imobzi/Telas Imobzi1/Gerais/SEO]]**.

@@ -31,7 +31,7 @@ Edição ou adição de botões personalizados que direcionam para links externo
 
 - **Ativar botão customizado**: Caso ativado, o botão customizado estará funcional e sendo demonstrado no site;
 - **Botão com imagem**: Ative caso deseja colocar uma imagem no botão;
-	- **[[Mídias do site|Selecione uma imagem]]**.
+	- **[[Telas Imobzi/Site/Mídias do site|Selecione uma imagem]]**.
 - **Título**: Texto que aparecerá no botão. Não utilize um nome longo, já que pode ultrapassar a margem;
 - **[[Tipos de botão|Tipos]]**;
 - **Pré-Visualização**: Visualização prévia de como ficará o botão na página.

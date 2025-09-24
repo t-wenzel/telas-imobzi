@@ -5,10 +5,10 @@ FAQs Relacionadas:
 ---
 ## Opções
 
-- **[[Filtro do Imóvel]]**;
+- **[[Telas Imobzi/Filtro do Imóvel]]**;
 - **Link Interno**: Insira a URL de qualquer página já criada na plataforma para criar um atalho direto. Pode incluir até imóveis;
 - **Link Externo**: Adicione um botão que leve o visitante a outro site, como um blog ou página fora da plataforma;
-- **Vincular Conteúdo**: Crie um atalho para um conteúdo específico da [[Tela de Conteúdos]];
+- **Vincular Conteúdo**: Crie um atalho para um conteúdo específico da [[Telas Imobzi/Site/Tela de Conteúdos]];
 - **Formulário**: Torne a captação de dados mais simples escolhendo o tipo ideal: simulador, contato ou WhatsApp;
 	- **Simulador**;
 	- **Contato**;
