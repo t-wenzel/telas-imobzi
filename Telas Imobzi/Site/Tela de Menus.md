@@ -1,5 +1,9 @@
 ---
 tags:
+  - Site
+  - Menu
+  - Sub
+  - Submenu
 FAQs Relacionadas:
 ---
 ---
@@ -9,7 +13,8 @@ O local onde se editam os menus do site, para que o cliente possa navegar dentre
 
 ## Campos
 
-- 
-	- Menu principal;
-	- Menu do rodapé.
-- Submenus: Categoria onde os items serão colocados.
+- **Abas**;
+	- **Menu principal**;
+	- **Menu do rodapé**.
+- **Submenus**: Categoria onde os itens serão colocados. Podem ser renomeados, reordenados e até removidos;
+	- **Adicionar item**: **Itens**: Os itens são os nomes que aparecerão nos submenus do site para direcionar para outras páginas
