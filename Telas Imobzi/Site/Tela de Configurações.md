@@ -57,7 +57,7 @@ FAQs Relacionadas:
 	- **Exibir balão flutuante de contato**: Caso ativado, demonstrará um botão para contato no canto da tela quando pesquisando imóveis no site;
 	- **Texto do balão flutuante**: Caso preenchido, exibe um texto acima do botão de contato.
 	
-	![[Pasted image 20250922191750.png]]
+	![[Texto do balão flutuante.png]]
 
 - **Outros**;
 	- **Exibir endereço dos imóveis no site**: Caso o endereço do imóvel vai ser exibido, e como (com ou sem complemento e número). Exibir os endereços completos é melhor para [[SEO]];
