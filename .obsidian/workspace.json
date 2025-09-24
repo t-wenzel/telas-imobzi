@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "e-mail",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -241,7 +242,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "4a94446799e128b9",
+  "active": "3afdd1a1ee55fe51",
   "lastOpenFiles": [
     "Telas Imobzi/Perguntas.md",
     "Telas Imobzi/Menu de Notas.md",
