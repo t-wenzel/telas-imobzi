@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/Perguntas.md",
+                "file": "Telas Imobzi/Site/Aba Pesquisa de Imóvel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Perguntas"
+              "title": "Aba Pesquisa de Imóvel"
             }
           },
           {
@@ -90,8 +90,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,13 +198,13 @@
   },
   "active": "d8e01ccbefff08bf",
   "lastOpenFiles": [
+    "Telas Imobzi/Site/Tela de Páginas.md",
+    "Telas Imobzi/Site/Opções de contato no imóvel.md",
+    "Telas Imobzi/Perguntas.md",
     "Telas Imobzi/Site/Aba Home.md",
     "Telas Imobzi/Site/Tipos e Campos Específicos de Seções.md",
-    "Telas Imobzi/Perguntas.md",
     "Telas Imobzi/Site/Tipos de Link de Botão Customizado.md",
     "Telas Imobzi/Site/Tela de Configurações.md",
-    "Telas Imobzi/Site/Opções de contato no imóvel.md",
-    "Telas Imobzi/Site/Tela de Páginas.md",
     "Telas Imobzi/Site/Aba Pesquisa de Imóvel.md",
     "Telas Imobzi/Site/Untitled.md",
     "Telas Imobzi/Site/Código personalizado.md",
