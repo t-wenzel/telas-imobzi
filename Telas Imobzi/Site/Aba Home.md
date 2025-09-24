@@ -8,12 +8,7 @@ FAQs Relacionadas:
   - https://help.imobzi.com/pt-br/article/como-adicionar-shorts-do-youtube-no-meu-site-y9umte/
   - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-logos-favicons
   - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-como-alterar-a-imagemvideo-da-home-do-site
-  - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-como-adicionar-um-botao-personalizado-na-home-do-site
-  - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-como-alterar-o-layout-dos-botoes-de-busca-do-site
-  - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-personalizando-os-sub-titulos-do-site
-  - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-secoes
-  - https://help.imobzi.com/pt-br/article/como-adicionar-um-botao-customizado-na-home-do-site-xyt730/
-  - https://help.imobzi.com/pt-br/article/como-alterar-a-logo-do-site-no-imobzi-1dmngv/
+dasda:
 ---
 ---
 ## Definição
