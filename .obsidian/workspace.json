@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "screens",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,7 +181,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "4a94446799e128b9",
+  "active": "e2d5dcd0311803c4",
   "lastOpenFiles": [
     "Telas Imobzi/Site/Aba Pesquisa de Imóvel.md",
     "Telas Imobzi/Telas Imobzi/Imagens/Screenshot(4).png",
