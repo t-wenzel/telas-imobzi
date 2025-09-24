@@ -91,7 +91,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,12 +201,12 @@
   "active": "0a3e862f17bcb6e1",
   "lastOpenFiles": [
     "Telas Imobzi/Perguntas.md",
+    "Telas Imobzi/Site/Tela de Configurações.md",
+    "Telas Imobzi/Site/Tipos e Campos Específicos de Seções.md",
     "Telas Imobzi/Site/Tela de Páginas.md",
     "Telas Imobzi/Site/Aba Pesquisa de Imóvel.md",
     "Telas Imobzi/Site/Aba Home.md",
-    "Telas Imobzi/Site/Tipos e Campos Específicos de Seções.md",
     "Telas Imobzi/Site/Untitled.md",
-    "Telas Imobzi/Site/Tela de Configurações.md",
     "Telas Imobzi/Site/Código personalizado.md",
     "Telas Imobzi/Site/Botão customizado.md",
     "Telas Imobzi/Site/Tipos de Link de Botão Customizado.md",

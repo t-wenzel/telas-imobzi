@@ -46,13 +46,13 @@ FAQs Relacionadas:
 - **Formulários e integrações**;
 	- **E-mail para receber notificações**: E-mail que receberá e-mails quanto às notificações de formulários e integrações.
 - **Meta tags do site**;
-	- **Copyright**: Quais direitos são reservados. Serve para SEO e aparece na descrição da pesquisa no Goo;
-	- **Título do site**: O título que aparecerá no Google ou ao compartilhar o link do imóvel;
-	- **Meta descrição do site**: A descrição que aparecerá no Google ou ao compartilhar o link do imóvel.
+	- **Copyright**: Quais direitos são reservados. Serve para SEO e aparece na descrição da pesquisa na Engine de Pesquisa;
+	- **Título do site**: O título que aparecerá na Engine de Pesquisa ou ao compartilhar o link do imóvel;
+	- **Meta descrição do site**: A descrição que aparecerá na Engine de Pesquisa ou ao compartilhar o link do imóvel.
 - **Tags de lançamento**;
 	- **Mostrar tag de "lançamento/pronto/em construção" nos imóveis**: Caso o imóvel tenha alguma [[Lançamento|etapa de lançamento]] configurada, demonstra no card do imóvel no site;
-	- **Mostrar tag de "com proposta" nos imóveis**: Caso o imóvel tenha alguma [[Negócio ou Cartão#^f89a2a|proposta]] configurada, demonstra em #todo;
-	- **Mostrar tag de "reservado" nos imóveis**: Caso o imóvel tenha alguma [[Negócio ou Cartão#^f89a2a|reserva]] configurada, demonstra em #todo.
+	- **Mostrar tag de "com proposta" nos imóveis**: Caso o imóvel tenha alguma [[Negócio ou Cartão#^f89a2a|proposta]] configurada, demonstra no card do imóvel no site;
+	- **Mostrar tag de "reservado" nos imóveis**: Caso o imóvel tenha alguma [[Negócio ou Cartão#^f89a2a|reserva]] configurada, demonstra no card do imóvel no site.
 - **Balão flutuante de contato**;
 	- **Exibir balão flutuante de contato**: Caso ativado, demonstrará um botão para contato no canto da tela quando pesquisando imóveis no site;
 	- **Texto do balão flutuante**: Caso preenchido, exibe um texto acima do botão de contato.
@@ -63,7 +63,7 @@ FAQs Relacionadas:
 	- **Exibir endereço dos imóveis no site**: Caso o endereço do imóvel vai ser exibido, e como (com ou sem complemento e número). Exibir os endereços completos é melhor para [[SEO]];
 	- **Exibir casas decimais dos valores dos imóveis no site**: Caso ativo, exibe casas decimais nos valores de imóveis. Caso desativado, arredonda o valor;
 	- **Exibir casas decimais das áreas dos imóveis no site**: Caso ativo, exibe casas decimais nas áreas de imóveis. Caso desativado, arredonda a área;
-	- **Alterar ordenação dos imóveis**: A ordem que os imóveis aparecerão no site #todo.
+	- **Alterar ordenação dos imóveis**: A ordem que os imóveis aparecerão no site. O cliente faz filtro quanto a **quais** imóveis aparecerão na pesquisa, a ordem determina em qual **ordem** em que eles aparecem.
 - **[[Código personalizado]]**;
 - **Performance do site**;
 	- **Limpar cache**: Para caso o cliente tenha inserido ou modificado informações no Imobzi e isso não tenha sido refletido no site dele.
