@@ -9,13 +9,17 @@ FAQs Relacionadas:
 			- **[[Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Radar de imóveis|Radar de imóveis]]**.
 	- **[[Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão#^a55a31|Novo Negócio ou Cartão]]**;
 		- **[[Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Perfil do imóvel|Perfil do imóvel]]**;
-	- **[[Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão#^a87475|Página do Cartão]]**
-		- **[[Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Status de Negócio]]**
-		- **[[Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão#^7889c6|Detalhes]]**
-			- **[[Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Rateio de Comissões]]**
+	- **[[Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão#^a87475|Página do Cartão]]**;
+		- **[[Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Status de Negócio|Status de negócio]]**;
+		- **[[Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Etapa#^73a8c4|Etapa]]**.
+		- **[[Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão#^7889c6|Detalhes]]**;
+			- **Negócio**;
+				- **[[Funil]]**;
+				- [[Análise de crédito|Análise de crédito]];
+			- **[[Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Rateio de Comissões|Rateio de Comissões]]**.
 		- **[[Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão#^5bc28b|Vínculos]]**
 		- **[[Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão#^d7a980|Atividades]]**
-			- **[[Telas Imobzi/Telas Imobzi/Gerais/Adicionar documento]]**
+			- **[[Telas Imobzi/Telas Imobzi/Gerais/Adicionar documento|Adicionar documento]]**.
 
 - **Gerenciamento do Site;**
 	- **[[Telas Imobzi/Telas Imobzi/Site/Tela de Configurações]]**
