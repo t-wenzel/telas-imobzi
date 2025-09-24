@@ -3,6 +3,26 @@ tags:
   - Site
   - Página
   - SEO
+  - Shorts
+  - YouTube
+  - Favicon
+  - Logo
+  - Imagem
+  - Vídeo
+  - Botão
+  - Personalizado
+  - Layout
+  - Template
+  - Sub
+  - Título
+  - Seção
+  - Customizado
+  - Cor
+  - Menu
+  - Telefone
+  - Flutuante
+  - Tema
+  - Destaque
 FAQs Relacionadas:
   - https://help.imobzi.com/pt-br/article/como-personalizar-seu-site-1u1sqig/
   - https://help.imobzi.com/pt-br/article/como-adicionar-shorts-do-youtube-no-meu-site-y9umte/
@@ -15,7 +35,7 @@ FAQs Relacionadas:
   - https://help.imobzi.com/pt-br/article/como-adicionar-um-botao-customizado-na-home-do-site-xyt730/
   - https://help.imobzi.com/pt-br/article/como-alterar-a-logo-do-site-no-imobzi-1dmngv/
   - https://help.imobzi.com/pt-br/article/como-editar-as-cores-do-meu-site-1icxs5f/
-dasda:
+  - https://help.imobzi.com/pt-br/article/como-alterar-o-layout-do-site-djje7a/
 ---
 ---
 ## Definição
