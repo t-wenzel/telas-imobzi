@@ -23,18 +23,33 @@
             }
           },
           {
-            "id": "a6f5404211d5c3bd",
+            "id": "9dfb312d563f37e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
+                "file": "Telas Imobzi/Telas Imobzi/Site/Opções de contato no imóvel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Negócio ou Cartão"
+              "title": "Opções de contato no imóvel"
+            }
+          },
+          {
+            "id": "a6f5404211d5c3bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telas Imobzi/Site/Tela de Configurações.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Tela de Configurações"
             }
           }
         ]
@@ -198,8 +213,11 @@
   },
   "active": "236cdf3a5d9cc1cd",
   "lastOpenFiles": [
-    "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
+    "Telas Imobzi/Site/Tela de Configurações.md",
+    "Telas Imobzi/Telas Imobzi/Site/Opções de contato no imóvel.md",
     "Telas Imobzi/Menu de Telas.md",
+    "Telas Imobzi/Administrador/Empresa.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
     "Telas Imobzi/CRM/Negócios & Cartões/Funil.md",
     "Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Radar de imóveis.md",
     "Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
@@ -220,10 +238,7 @@
     "Telas Imobzi/Telas Imobzi/Site/Tela de Menus.md",
     "Telas Imobzi/Telas Imobzi/Site/Seções da Home.md",
     "Telas Imobzi/Telas Imobzi/Site/Tela de Conteúdos.md",
-    "Telas Imobzi/Telas Imobzi/Site/Opções de contato no imóvel.md",
     "Telas Imobzi/Telas Imobzi/Site/Mídias do site.md",
-    "Telas Imobzi/Telas Imobzi/Site/Landing Page.md",
-    "Telas Imobzi/Telas Imobzi/Site/Botão customizado.md",
     "Telas Imobzi/Telas Imobzi/Imagens/Texto do balão flutuante.png",
     "Telas Imobzi/Telas Imobzi/Imagens/Screenshot(4).png",
     "Telas Imobzi/Telas Imobzi/Imagens/Exibir valor total dos imóveis.png",

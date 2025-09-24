@@ -22,8 +22,9 @@ FAQs Relacionadas:
 			- **[[Telas Imobzi/Telas Imobzi/Gerais/Adicionar documento|Adicionar documento]]**.
 
 - **Gerenciamento do Site;**
-	- **[[Telas Imobzi/Telas Imobzi/Site/Tela de Configurações]]**
-		- **[[Telas Imobzi/Telas Imobzi/Site/Opções de contato no imóvel]]**
+	- **[[Telas Imobzi/Telas Imobzi/Site/Tela de Configurações|Tela de Configurações]]**
+		- 
+		- **[[Telas Imobzi/Telas Imobzi/Site/Opções de contato no imóvel|Opções de contato no imóvel]]**
 		- **[[Telas Imobzi/Telas Imobzi/Site/Código personalizado]]**
 	- **[[Telas Imobzi/Telas Imobzi/Site/Tela de Conteúdos]]**
 		- **[[Telas Imobzi/Telas Imobzi/Site/Mídias do site]]**
