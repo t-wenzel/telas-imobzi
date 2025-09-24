@@ -9,4 +9,13 @@ Para caso precise-se deixar uma mensagem no site assim que o Lead chega, por exe
 
 ## Campos
 
-- Adicioanar 
+- **Adicionar novo pop-up**;
+	- **Modelos de pop-up**;
+		- **Enfeitando a árvore**;
+		- **Final de ano e recesso**;
+		- **Comunicado;**
+		- **Natal com neve;**
+		- **Clássico de natal**;
+		- **Natal com presente**
+		- **Promoção especial**
+		- **Festas de final de ano**
