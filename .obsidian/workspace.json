@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/Telas Imobzi/Site/Tela de Pop-ups.md",
+                "file": "Telas Imobzi/Telas Imobzi/Site/Tela de Configurações.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tela de Pop-ups"
+              "title": "Tela de Configurações"
             }
           },
           {
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telas Imobzi/Telas Imobzi/Site/Tela de Pop-ups.md",
+                "file": "Telas Imobzi/Telas Imobzi/Site/Tela de Configurações.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tela de Pop-ups"
+              "title": "Backlinks for Tela de Configurações"
             }
           },
           {
@@ -242,9 +242,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "3afdd1a1ee55fe51",
+  "active": "4a94446799e128b9",
   "lastOpenFiles": [
+    "Telas Imobzi/Site/Tela de Configurações.md",
+    "Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Radar de imóveis.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Radar de imóveis.md",
+    "Telas Imobzi/Telas Imobzi/Perguntas.md",
     "Telas Imobzi/Perguntas.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Perfil do imóvel.md",
+    "Telas Imobzi/Site/Opções de contato no imóvel.md",
+    "Telas Imobzi/Telas Imobzi/Site/Tela de Pop-ups.md",
     "Telas Imobzi/Menu de Notas.md",
     "Telas Imobzi/Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
     "Telas Imobzi/Telas Imobzi/Site/Aba Pesquisa de Imóvel.md",
@@ -270,17 +277,10 @@
     "Telas Imobzi/Imagens",
     "Telas Imobzi/Gerais/SEO.md",
     "Telas Imobzi/Gerais/Menu de Definições.md",
-    "Telas Imobzi/Gerais/Garantia.md",
-    "Telas Imobzi/Gerais/Adicionar documento.md",
     "Telas Imobzi/Gerais",
     "readme",
     "Telas Imobzi~HEAD",
-    "Telas Imobzi/Templates/Nota Template.md",
     "Telas Imobzi/Templates",
-    "Telas Imobzi/Site/Tela de Pop-ups.md",
-    "Telas Imobzi/Site/Tela de Menus.md",
-    "Telas Imobzi/Site/Tela de Conteúdos.md",
-    "Telas Imobzi/Site/Tela de Configurações.md",
     "Telas Imobzi/Site",
     "Telas Imobzi/CRM/Negócios & Cartões",
     "Telas Imobzi/CRM",
