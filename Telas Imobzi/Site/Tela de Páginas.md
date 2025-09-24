@@ -1,5 +1,10 @@
 ---
 tags:
+  - Site
+  - Páginas
+  - Home
+  - Pesquisa
+  - Detalhes
 FAQs Relacionadas:
   - https://help.imobzi.com/pt-br/article/como-personalizar-seu-site-1u1sqig/
   - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#1-paginas
