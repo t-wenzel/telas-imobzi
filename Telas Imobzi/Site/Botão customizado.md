@@ -2,6 +2,7 @@
 tags:
 FAQs Relacionadas:
   - https://help.imobzi.com/pt-br/article/como-adicionar-um-botao-customizado-na-home-do-site-xyt730/
+  - https://help.imobzi.com/pt-br/article/como-adicionar-um-botao-com-imagem-no-site-sckzg1/
 ---
 ---
 ## Definição

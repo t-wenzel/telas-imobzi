@@ -3,6 +3,7 @@ tags:
 FAQs Relacionadas:
   - https://help.imobzi.com/pt-br/article/como-adicionar-um-banner-no-meu-site-1pfrdmu/
   - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-secoes
+  - https://help.imobzi.com/pt-br/article/como-adicionar-depoimentos-no-site-16i3a9j/
 ---
 ---
 ## Opções

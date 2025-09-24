@@ -2,6 +2,8 @@
 tags:
 FAQs Relacionadas:
   - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3
+  - https://help.imobzi.com/pt-br/article/como-adicionar-botoes-personalizados-nos-imoveis-do-site-tyzjwp/
+  - https://help.imobzi.com/pt-br/article/como-ocultar-ou-exibir-o-numero-de-contato-dos-corretores-na-secao-nossos-corretores-do-site-ju8bz0/
 ---
 ---
 ## Campos

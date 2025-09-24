@@ -14,6 +14,7 @@ FAQs Relacionadas:
   - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-secoes
   - https://help.imobzi.com/pt-br/article/como-adicionar-um-botao-customizado-na-home-do-site-xyt730/
   - https://help.imobzi.com/pt-br/article/como-alterar-a-logo-do-site-no-imobzi-1dmngv/
+  - https://help.imobzi.com/pt-br/article/como-editar-as-cores-do-meu-site-1icxs5f/
 dasda:
 ---
 ---
