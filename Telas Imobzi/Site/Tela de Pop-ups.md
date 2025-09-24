@@ -1,6 +1,15 @@
 ---
 tags:
+  - Site
+  - Pop
+  - Up
+  - Natal
+  - Comunicado
+  - Fim
+  - Ano
+  - Novo
 FAQs Relacionadas:
+  - https://help.imobzi.com/pt-br/article/como-criar-um-pop-up-para-seu-site-ls06o/
 ---
 ---
 ## Definição
