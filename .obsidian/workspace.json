@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/Perguntas.md",
+                "file": "Telas Imobzi/Telas Imobzi/Menu de Telas.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Perguntas"
+              "title": "Menu de Telas"
             }
           },
           {
@@ -114,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "e-mail",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,8 +144,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telas Imobzi/Perguntas.md",
+                "file": "Telas Imobzi/Telas Imobzi/Menu de Telas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Perguntas"
+              "title": "Backlinks for Menu de Telas"
             }
           },
           {
@@ -244,32 +252,32 @@
   },
   "active": "4a94446799e128b9",
   "lastOpenFiles": [
-    "Telas Imobzi/CRM/Negócios & Cartões/Perfil do imóvel.md",
-    "Telas Imobzi/Site/Opções de contato no imóvel.md",
-    "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
     "Telas Imobzi/Telas Imobzi/Perguntas.md",
-    "Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Etapa.md",
-    "Telas Imobzi/CRM/Negócios & Cartões/Etapa.md",
+    "Telas Imobzi/Telas Imobzi/Relatórios.md",
+    "Telas Imobzi/Telas Imobzi/Menu de Notas.md",
+    "Telas Imobzi/Telas Imobzi/Relatórios 1.md",
+    "Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Tela Negócios & Cartões.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Tela Negócios & Cartões.md",
+    "Telas Imobzi/Telas Imobzi/Perguntas 1.md",
+    "Telas Imobzi/Lançamento.md",
+    "Telas Imobzi/Telas Imobzi/Locações.md",
+    "Telas Imobzi/Telas Imobzi/Locações 1.md",
+    "Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
+    "Telas Imobzi/Telas Imobzi/Lançamento 1.md",
     "Telas Imobzi/Telas Imobzi/Site/Tela de Configurações.md",
     "Telas Imobzi/Site/Tela de Configurações.md",
+    "Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Perfil do imóvel.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Perfil do imóvel.md",
+    "Telas Imobzi/Site/Opções de contato no imóvel.md",
+    "Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Etapa.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Etapa.md",
     "Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Radar de imóveis.md",
     "Telas Imobzi/CRM/Negócios & Cartões/Radar de imóveis.md",
-    "Telas Imobzi/Perguntas.md",
     "Telas Imobzi/Telas Imobzi/Site/Tela de Pop-ups.md",
-    "Telas Imobzi/Menu de Notas.md",
     "Telas Imobzi/Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
     "Telas Imobzi/Telas Imobzi/Site/Aba Pesquisa de Imóvel.md",
     "Telas Imobzi/Telas Imobzi/Site/Tela de Páginas.md",
-    "Telas Imobzi/Site/Aba Home.md",
-    "Telas Imobzi/Site/Tela de Páginas.md",
-    "Telas Imobzi/Telas Imobzi/Site/Aba Home.md",
-    "Telas Imobzi/Telas Imobzi/Site/Botão customizado.md",
-    "Telas Imobzi/Telas Imobzi/Site/Código personalizado.md",
-    "Telas Imobzi/Telas Imobzi/Site/Landing Page.md",
-    "Telas Imobzi/Telas Imobzi/Site/Tela de Menus.md",
-    "Telas Imobzi/Telas Imobzi/Filtro do Imóvel.md",
-    "Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
-    "Telas Imobzi/Site/Aba Pesquisa de Imóvel.md",
     "Telas Imobzi/Telas Imobzi/Imagens/Screenshot(4).png",
     "Telas Imobzi/Telas Imobzi/Imagens/Exibir valor total dos imóveis.png",
     "Telas Imobzi/Telas Imobzi/Imagens/Texto do balão flutuante.png",
