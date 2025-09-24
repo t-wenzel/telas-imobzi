@@ -1,5 +1,15 @@
 ---
 tags:
+  - Site
+  - Pesquisa
+  - Imóvel
+  - Página
+  - Busca
+  - Interativo
+  - Mapa
+  - Filtro
+  - Ordem
+  - Valor
 FAQs Relacionadas:
   - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-busca-interativa-por-mapa
   - https://help.imobzi.com/pt-br/article/altere-a-ordenacao-dos-filtros-de-imoveis-no-site-vcrrtf/

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/Site/Tipos de Link de Botão Customizado.md",
+                "file": "Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tipos de Link de Botão Customizado"
+              "title": "Aba Detalhes do Imóvel"
             }
           },
           {
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/Site/Aba Home.md",
+                "file": "Telas Imobzi/Site/Botão customizado.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aba Home"
+              "title": "Botão customizado"
             }
           },
           {
@@ -94,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "favicon",
+                "query": "tag:Página",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -223,12 +223,12 @@
   },
   "active": "fba3351c24863975",
   "lastOpenFiles": [
-    "Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
-    "Telas Imobzi/Site/Aba Home.md",
-    "Telas Imobzi/Site/Tela de Páginas.md",
     "Telas Imobzi/Site/Tipos de Link de Botão Customizado.md",
     "Telas Imobzi/Site/Botão customizado.md",
     "Telas Imobzi/Site/Aba Pesquisa de Imóvel.md",
+    "Telas Imobzi/Site/Aba Home.md",
+    "Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
+    "Telas Imobzi/Site/Tela de Páginas.md",
     "Telas Imobzi/Site/Tipos e Campos Específicos de Seções.md",
     "Telas Imobzi/Site/Tela de Conteúdos.md",
     "Screenshot(4).png",

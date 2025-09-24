@@ -1,5 +1,17 @@
 ---
 tags:
+  - Site
+  - Botão
+  - Personalizado
+  - Imóvel
+  - Detalhes
+  - Número
+  - Telefone
+  - Contato
+  - Corretor
+  - Cor
+  - Compartilhar
+  - Página
 FAQs Relacionadas:
   - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3
   - https://help.imobzi.com/pt-br/article/como-adicionar-botoes-personalizados-nos-imoveis-do-site-tyzjwp/
@@ -18,9 +30,9 @@ FAQs Relacionadas:
 		![[Screenshot(4).png]]
 		
 		- **Personalize os botões**: Para botões acima da divisão de compartilhamento;
-			- [[Tipos de Link de Botão Customizado|Adicionar item]];
+			- [[Botão customizado|Adicionar item]];
 		- **Personalize o compartilhamento**: Para botões abaixo da divisão de compartilhamento.
-			- [[Tipos de Link de Botão Customizado|Adicionar item]].
+			- [[Botão customizado|Adicionar item]].
 	- **Opção para exibir os corretores**: O que será exibido caso o corretor não tiver uma foto;
 		- **Não exibir**;
 		- **Exibir avatar**;
