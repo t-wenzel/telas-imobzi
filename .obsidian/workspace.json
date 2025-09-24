@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f22ec584f0f5a06",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Telas Imobzi/Menu de Telas.md",
-                "bFile": "Telas Imobzi/Menu de Telas.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Menu de Telas"
-            }
-          },
-          {
             "id": "236cdf3a5d9cc1cd",
             "type": "leaf",
             "state": {
@@ -35,6 +20,21 @@
               },
               "icon": "lucide-file",
               "title": "Menu de Telas"
+            }
+          },
+          {
+            "id": "a6f5404211d5c3bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Negócio ou Cartão"
             }
           }
         ]
@@ -196,18 +196,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e653f321262c4cc2",
+  "active": "236cdf3a5d9cc1cd",
   "lastOpenFiles": [
+    "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
+    "Telas Imobzi/Menu de Telas.md",
+    "Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Radar de imóveis.md",
+    "Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Tela Negócios & Cartões.md",
     "conflict-files-obsidian-git.md",
     "Telas Imobzi/Site/Aba Home.md",
     "Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
-    "Telas Imobzi/Menu de Telas.md",
     "Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Tela Negócios & Cartões.md",
     "Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Perfil do imóvel.md",
     "Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Status de Negócio.md",
     "Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Rateio de Comissões.md",
-    "Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Radar de imóveis.md",
-    "Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
     "Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Funil.md",
     "Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Etapa.md",
     "Telas Imobzi/Telas Imobzi/Site/Tela de Configurações.md",
@@ -222,8 +224,6 @@
     "Telas Imobzi/Telas Imobzi/Site/Landing Page.md",
     "Telas Imobzi/Telas Imobzi/Site/Botão customizado.md",
     "Telas Imobzi/Telas Imobzi/Site/Código personalizado.md",
-    "Telas Imobzi/Telas Imobzi/Site/Aba Pesquisa de Imóvel.md",
-    "Telas Imobzi/Telas Imobzi/Gerais/Menu de Definições.md",
     "Telas Imobzi/Telas Imobzi/Imagens/Texto do balão flutuante.png",
     "Telas Imobzi/Telas Imobzi/Imagens/Screenshot(4).png",
     "Telas Imobzi/Telas Imobzi/Imagens/Exibir valor total dos imóveis.png",
