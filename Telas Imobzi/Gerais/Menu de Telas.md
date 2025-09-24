@@ -31,27 +31,30 @@ FAQs Relacionadas:
 			- **[[Telas Imobzi/Telas Imobzi/Site/Landing Page|Landing Page]]**;
 		- **[[Telas Imobzi/Telas Imobzi/Site/Mídias do site|Mídias do site]]**
 	- **Tela de Páginas**
-		- **[[Telas Imobzi/Telas Imobzi/Site/Aba Home|Home]]**
+		- **[[Telas Imobzi/Telas Imobzi/Site/Aba Home|Aba Home]]**
 			- **Imagem em destaque**;
-				- **Título**;
 				- **[[Mídias do site|Alterar imagem]]**;
-				- **Botões customizados**;
-					- **Cabeçalho e menu**: Para botões customizados que devem aparecer em ambos o cabeçalho e no menu;
+				- **Botões customizados**.
+					- **Cabeçalho e menu**;
 						- **[[Botão customizado|Adicionar item]]**.
-					- **Cabeçalho**: Para botões customizados que devem aparecer apenas no cabeçalho;
+					- **Cabeçalho**;
 						- **[[Botão customizado|Adicionar item]]**.
-					- **Menu**: Para botões customizados que devem aparecer apenas no menu;
+					- **Menu**;
 						- **[[Botão customizado|Adicionar item]]**.
-					- **Pesquisar**: Para botões customizados que devem aparecer na seção de pesquisar.
+					- **Pesquisar**.
 						- **[[Botão customizado|Adicionar item]]**.
-				- **Estilo da pesquisa**: Edição do formato dos botões acima da caixa de pesquisa;
-				- **Seção de subtítulos**: Os subtítulos já vem prontos, mas podem ser melhorados/adaptados. São apresentados logo abaixo da imagem de destaque. Boas descrições também impulsionam o rankeamento do site no Google.
-			- **[[Seções da Home|Seções]]**;
-		- **[[Telas Imobzi/Telas Imobzi/Site/Aba Pesquisa de Imóvel|Pesquisa de Imóvel]]**
-		- **[[Telas Imobzi/Telas Imobzi/Site/Aba Detalhes do Imóvel|Detalhes do Imóvel]]**
+			- **[[Seções da Home|Seções]]**.
+		- **[[Telas Imobzi/Telas Imobzi/Site/Aba Pesquisa de Imóvel|Aba Pesquisa de Imóvel]]**
+		- **[[Telas Imobzi/Telas Imobzi/Site/Aba Detalhes do Imóvel|Aba Detalhes do Imóvel]]**
+			- **Editar detalhes do imóvel**;
+				- **Seção de contato**.	
+					- **Personalize os botões**;
+						- **[[Botão customizado|Adicionar item]]**;
+					- **Personalize o compartilhamento**.
+						- **[[Botão customizado|Adicionar item]]**.
 ---
 
-**[[Telas Imobzi/Telas Imobzi/Gerais/Menu de Definições]]**
+**[[Telas Imobzi/Telas Imobzi/Gerais/Menu de Definições|Menu de Definições]]**
 
 **[[Perguntas]]**
 

@@ -60,7 +60,7 @@ FAQs Relacionadas:
 	![[Texto do balão flutuante.png]]
 
 - **Outros**;
-	- **Exibir endereço dos imóveis no site**: Caso o endereço do imóvel vai ser exibido, e como (com ou sem complemento e número). Exibir os endereços completos é melhor para [[SEO]];
+	- **Exibir endereço dos imóveis no site**: Caso o endereço do imóvel vai ser exibido, e como (com ou sem complemento e número). Exibir os endereços completos é melhor para [[Telas Imobzi/Site/SEO]];
 	- **Exibir casas decimais dos valores dos imóveis no site**: Caso ativo, exibe casas decimais nos valores de imóveis. Caso desativado, arredonda o valor;
 	- **Exibir casas decimais das áreas dos imóveis no site**: Caso ativo, exibe casas decimais nas áreas de imóveis. Caso desativado, arredonda a área;
 	- **Alterar ordenação dos imóveis**: A ordem que os imóveis aparecerão no site. O cliente faz filtro quanto a **quais** imóveis aparecerão na pesquisa, a ordem determina em qual **ordem** em que eles aparecem.

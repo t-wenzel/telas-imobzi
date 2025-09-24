@@ -22,7 +22,7 @@ FAQs Relacionadas:
 ---
 ## Definição
 
-Nessa tela criam-se e editam-se as páginas do site (quem somos, contato etc.) usando modelos pré-definidos. Inclui edição de texto, imagens e configuração de [[SEO]].
+Nessa tela criam-se e editam-se as páginas do site (quem somos, contato etc.) usando modelos pré-definidos. Inclui edição de texto, imagens e configuração de [[Telas Imobzi/Site/SEO]].
 
 ## Campos
 

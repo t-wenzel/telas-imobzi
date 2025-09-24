@@ -7,4 +7,4 @@ tags:
 - **[[Funil]]**;
 - **[[Garantia]]**;
 - **[[Landing Page]]**;
-- **[[SEO]]**.
+- **[[Telas Imobzi/Site/SEO]]**.
