@@ -23,14 +23,30 @@ FAQs Relacionadas:
 
 - **Gerenciamento do Site;**
 	- **[[Telas Imobzi/Telas Imobzi/Site/Tela de Configurações|Tela de Configurações]]**
-		- 
+		- **[[Empresa|Contato do site]]**;
 		- **[[Telas Imobzi/Telas Imobzi/Site/Opções de contato no imóvel|Opções de contato no imóvel]]**
-		- **[[Telas Imobzi/Telas Imobzi/Site/Código personalizado]]**
-	- **[[Telas Imobzi/Telas Imobzi/Site/Tela de Conteúdos]]**
-		- **[[Telas Imobzi/Telas Imobzi/Site/Mídias do site]]**
-		- **[[Telas Imobzi/Telas Imobzi/Site/Landing Page]]**
+		- **[[Telas Imobzi/Telas Imobzi/Site/Código personalizado|Código personalizado]]**
+	- **[[Telas Imobzi/Telas Imobzi/Site/Tela de Conteúdos|Tela de conteúdos]]**
+		- **Lista de conteúdos**;
+			- **[[Telas Imobzi/Telas Imobzi/Site/Landing Page|Landing Page]]**;
+		- **[[Telas Imobzi/Telas Imobzi/Site/Mídias do site|Mídias do site]]**
 	- **Tela de Páginas**
 		- **[[Telas Imobzi/Telas Imobzi/Site/Aba Home|Home]]**
+			- **Imagem em destaque**;
+				- **Título**;
+				- **[[Mídias do site|Alterar imagem]]**;
+				- **Botões customizados**;
+					- **Cabeçalho e menu**: Para botões customizados que devem aparecer em ambos o cabeçalho e no menu;
+						- **[[Botão customizado|Adicionar item]]**.
+					- **Cabeçalho**: Para botões customizados que devem aparecer apenas no cabeçalho;
+						- **[[Botão customizado|Adicionar item]]**.
+					- **Menu**: Para botões customizados que devem aparecer apenas no menu;
+						- **[[Botão customizado|Adicionar item]]**.
+					- **Pesquisar**: Para botões customizados que devem aparecer na seção de pesquisar.
+						- **[[Botão customizado|Adicionar item]]**.
+				- **Estilo da pesquisa**: Edição do formato dos botões acima da caixa de pesquisa;
+				- **Seção de subtítulos**: Os subtítulos já vem prontos, mas podem ser melhorados/adaptados. São apresentados logo abaixo da imagem de destaque. Boas descrições também impulsionam o rankeamento do site no Google.
+			- **[[Seções da Home|Seções]]**;
 		- **[[Telas Imobzi/Telas Imobzi/Site/Aba Pesquisa de Imóvel|Pesquisa de Imóvel]]**
 		- **[[Telas Imobzi/Telas Imobzi/Site/Aba Detalhes do Imóvel|Detalhes do Imóvel]]**
 ---
