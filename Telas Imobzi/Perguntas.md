@@ -10,7 +10,5 @@ tags:
 
 ## Gerenciamento do Site
 
-- "Alterar ordenação dos imóveis" configura a ordem que os imóveis aparecerão no site. É apenas quando uma pesquisa é feita?
-	- O cliente faz filtro quanto a **quais** imóveis, a ordem determina a **ordem** em que eles aparecem.
 - Qual a diferença prática entre os botões personalizados de "Vincular conteúdo" e "URL interna"?
 	- Conteúdo é para conteúdos, link interno pode ser até um imóvel

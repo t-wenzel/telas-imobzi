@@ -37,8 +37,7 @@
               "title": "Tela de Configurações"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,18 +197,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a3e862f17bcb6e1",
+  "active": "d8e01ccbefff08bf",
   "lastOpenFiles": [
-    "Telas Imobzi/Perguntas.md",
-    "Telas Imobzi/Site/Tela de Configurações.md",
+    "Telas Imobzi/Site/Aba Home.md",
     "Telas Imobzi/Site/Tipos e Campos Específicos de Seções.md",
+    "Telas Imobzi/Perguntas.md",
+    "Telas Imobzi/Site/Tipos de Link de Botão Customizado.md",
+    "Telas Imobzi/Site/Tela de Configurações.md",
+    "Telas Imobzi/Site/Opções de contato no imóvel.md",
     "Telas Imobzi/Site/Tela de Páginas.md",
     "Telas Imobzi/Site/Aba Pesquisa de Imóvel.md",
-    "Telas Imobzi/Site/Aba Home.md",
     "Telas Imobzi/Site/Untitled.md",
     "Telas Imobzi/Site/Código personalizado.md",
     "Telas Imobzi/Site/Botão customizado.md",
-    "Telas Imobzi/Site/Tipos de Link de Botão Customizado.md",
     "Telas Imobzi/Filtro do Imóvel.md",
     "Telas Imobzi/Site/Mídias do site.md",
     "Telas Imobzi/Site/Tela de Conteúdos.md",
@@ -225,7 +225,6 @@
     "Telas Imobzi/Imóveis.md",
     "Telas Imobzi/Lançamento.md",
     "Telas Imobzi/Relatórios.md",
-    "Telas Imobzi/Telas da Imobzi.md",
     "Telas Imobzi/Gerais",
     "Telas Imobzi/Site/Untitled",
     "Código personalizado",
