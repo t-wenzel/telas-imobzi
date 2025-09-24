@@ -38,36 +38,22 @@
             }
           },
           {
-            "id": "6faf34dd905e4038",
+            "id": "298260ea2ceb1195",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
+                "file": "Telas Imobzi/Gerais/Ordenação dos imóveis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Aba Detalhes do Imóvel"
-            }
-          },
-          {
-            "id": "236cdf3a5d9cc1cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Telas Imobzi/Telas Imobzi/Site/Aba Pesquisa de Imóvel.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Aba Pesquisa de Imóvel"
+              "title": "Ordenação dos imóveis"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telas Imobzi/Site/Tela de Configurações.md",
+                "file": "Telas Imobzi/Gerais/Ordenação dos imóveis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tela de Configurações"
+              "title": "Outgoing links from Ordenação dos imóveis"
             }
           },
           {
@@ -188,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telas Imobzi/Site/Tela de Configurações.md",
+                "file": "Telas Imobzi/Gerais/Ordenação dos imóveis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tela de Configurações"
+              "title": "Outline of Ordenação dos imóveis"
             }
           },
           {
@@ -226,17 +212,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9dfb312d563f37e0",
+  "active": "298260ea2ceb1195",
   "lastOpenFiles": [
+    "Telas Imobzi/Site/Tela de Menus.md",
     "Telas Imobzi/Gerais/Ordenação dos imóveis.md",
     "Telas Imobzi/Site/Tela de Configurações.md",
+    "Telas Imobzi/Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
     "Telas Imobzi/Site/Seções da Home.md",
     "Telas Imobzi/Filtro do Imóvel.md",
     "Telas Imobzi/Gerais/Lançamento.md",
     "Telas Imobzi/Gerais/Tipos de botão.md",
     "Telas Imobzi/Site/Botão customizado.md",
-    "Telas Imobzi/Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
-    "Telas Imobzi/Site/Tela de Menus.md",
     "Telas Imobzi/Telas Imobzi/Site/Aba Pesquisa de Imóvel.md",
     "Telas Imobzi/Telas Imobzi/Site/Botão customizado.md",
     "Telas Imobzi/Site/Tela de Pop-ups.md",
