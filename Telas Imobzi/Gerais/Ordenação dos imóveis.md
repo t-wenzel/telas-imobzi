@@ -9,6 +9,14 @@ A ordem que os imóveis aparecerão no site. O cliente faz filtro quanto a **qua
 
 ## Opções
 
-- Mais relevantes
-- Maior valor
-- Vaga
+- **Mais relevantes**;
+- **Maior valor**;
+- **Vagas**;
+- **Bairro**;
+- **Área**;
+- **Mais recentes**;
+- **Dormitórios**;
+- **Menor valor**;
+- **Cidade**;
+- **Suítes**;
+- **Mais vistos**.
