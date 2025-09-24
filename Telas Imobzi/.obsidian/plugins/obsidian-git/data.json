@@ -21,11 +21,7 @@
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
-<<<<<<< HEAD
-  "basePath": "Telas Imobzi",
-=======
   "basePath": "",
->>>>>>> 6326602170c614d5aef226bf06141ac563178645
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
@@ -33,11 +29,7 @@
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
-<<<<<<< HEAD
-  "gitDir": "C:\\Users\\Thiago Wenzel\\Desktop\\Telas Imobzi\\.git",
-=======
   "gitDir": "",
->>>>>>> 6326602170c614d5aef226bf06141ac563178645
   "showFileMenu": true,
   "authorInHistoryView": "hide",
   "dateInHistoryView": false,

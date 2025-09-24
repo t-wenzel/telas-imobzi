@@ -1,0 +1,82 @@
+---
+tags:
+  - Site
+  - Página
+  - SEO
+  - Shorts
+  - YouTube
+  - Favicon
+  - Logo
+  - Imagem
+  - Vídeo
+  - Botão
+  - Personalizado
+  - Layout
+  - Template
+  - Sub
+  - Título
+  - Seção
+  - Customizado
+  - Cor
+  - Menu
+  - Telefone
+  - Flutuante
+  - Tema
+  - Destaque
+  - Home
+FAQs Relacionadas:
+  - https://help.imobzi.com/pt-br/article/como-personalizar-seu-site-1u1sqig/
+  - https://help.imobzi.com/pt-br/article/como-adicionar-shorts-do-youtube-no-meu-site-y9umte/
+  - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-logos-favicons
+  - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-como-alterar-a-imagemvideo-da-home-do-site
+  - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-como-adicionar-um-botao-personalizado-na-home-do-site
+  - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-como-alterar-o-layout-dos-botoes-de-busca-do-site
+  - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-personalizando-os-sub-titulos-do-site
+  - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-secoes
+  - https://help.imobzi.com/pt-br/article/como-adicionar-um-botao-customizado-na-home-do-site-xyt730/
+  - https://help.imobzi.com/pt-br/article/como-alterar-a-logo-do-site-no-imobzi-1dmngv/
+  - https://help.imobzi.com/pt-br/article/como-editar-as-cores-do-meu-site-1icxs5f/
+  - https://help.imobzi.com/pt-br/article/como-alterar-o-layout-do-site-djje7a/
+---
+---
+## Definição
+
+Aba para configuração da Home do site. Aqui, altera-se o layout da página e do menu, assim como a exibição de telefones, do botão flutuante, de botões de busca e do botão de busca padrão. Além disso, altera-se as seções da página.
+
+## Campos
+
+- **Template**: Neste campo, você pode escolher o tipo de layout que deseja para o seu site;
+- **Tipo de menu**: Escolha o tipo de menu, que pode ser no modelo hambúrguer ou padrão;
+- **Exibir telefone**: Você pode escolher onde exibir o número de contato no site, podendo ser: todos, apenas no cabeçalho, apenas no rodapé ou nenhum;
+- **Opção de contato do botão flutuante**: Aqui, você pode escolher se deseja ou não exibir um botão flutuante com opções de contato no seu site, podendo também optar por exibir apenas a opção de WhatsApp;
+- **Exibir botões de busca**: Neste campo, você pode personalizar os botões de busca da página inicial do site, podendo escolher entre: alugar, comprar, temporada, todos ou nenhum;
+- **Botão de busca padrão**: Qual dos botões de busca é selecionado por padrão, podendo ser o de comprar alugar ou temporada;
+- **Tema**;
+	- **Tipo de tema**: Caso o tema a ser utilizado ou personalizado é o tema claro, escuro ou outro personalizado;
+		- **Cores**: Pode-se escolher e alterar as cores do site conforme desejar;
+			- **Cor primária**;
+			- **Cor secundária**;
+			- **Cor do cabeçalho**;
+			- **Cor do rodapé**;
+			- **Segunda cor do rodapé;
+			- **Cor do título principal**.
+	- **Logos e Favicon**: Personaliza as logos apresentadas no site;
+		- **Logotipo home**;
+		- **Logo interno**;
+		- **Logotipo do rodapé**;
+		- **Favicon**.
+- **Imagem em destaque**: A imagem de fundo da barra de pesquisa;
+	- **Título**: Título da imagem;
+	- **[[Mídias do site|Alterar imagem]]**;
+	- **Botões customizados**;
+		- **Cabeçalho e menu**: Para botões customizados que devem aparecer em ambos o cabeçalho e no menu;
+			- **[[Botão customizado|Adicionar item]]**.
+		- **Cabeçalho**: Para botões customizados que devem aparecer apenas no cabeçalho;
+			- **[[Botão customizado|Adicionar item]]**.
+		- **Menu**: Para botões customizados que devem aparecer apenas no menu;
+			- **[[Botão customizado|Adicionar item]]**.
+		- **Pesquisar**: Para botões customizados que devem aparecer na seção de pesquisar.
+			- **[[Botão customizado|Adicionar item]]**.
+	- **Estilo da pesquisa**: Edição do formato dos botões acima da caixa de pesquisa;
+	- **Seção de subtítulos**: Os subtítulos já vem prontos, mas podem ser melhorados/adaptados. São apresentados logo abaixo da imagem de destaque. Boas descrições também impulsionam o rankeamento do site no Google.
+- **[[Seções da Home|Seções]]**;
