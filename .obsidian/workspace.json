@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "link interno",
+                "query": "favicon",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -197,9 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fba3351c24863975",
+  "active": "9b8a351fd0ee2244",
   "lastOpenFiles": [
     "Telas Imobzi/Site/Tela de Páginas.md",
+    "Telas Imobzi/Site/Aba Home.md",
     "Telas Imobzi/Site/Tela de Conteúdos.md",
     "Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
     "Telas Imobzi/Site/Tipos de Link de Botão Customizado.md",
@@ -213,7 +214,6 @@
     "Telas Imobzi/Imagens/Exibir valor total dos imóveis.png",
     "Telas Imobzi/Site/Tela de Pop-ups.md",
     "Telas Imobzi/Site/Opções de contato no imóvel.md",
-    "Telas Imobzi/Site/Aba Home.md",
     "Telas Imobzi/Site/Untitled.md",
     "Telas Imobzi/Site/Código personalizado.md",
     "Telas Imobzi/Site/Botão customizado.md",
