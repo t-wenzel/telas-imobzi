@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/Telas Imobzi1/Relatórios.md",
+                "file": "Telas Imobzi/Relatórios.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/Telas Imobzi1/Relatórios.md",
+                "file": "Telas Imobzi/Relatórios.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -58,32 +58,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões/Tela Negócios & Cartões.md",
+                "file": "Telas Imobzi/Telas Imobzi1/Menu de Notas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tela Negócios & Cartões"
-            }
-          },
-          {
-            "id": "30137c324bc9c5c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões/Negócio ou Cartão.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Negócio ou Cartão"
+              "title": "Menu de Notas"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Telas Imobzi//\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -136,8 +121,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões/Negócio ou Cartão.md",
+                "file": "Telas Imobzi/Telas Imobzi1/Menu de Notas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Negócio ou Cartão"
+              "title": "Backlinks for Menu de Notas"
             }
           },
           {
@@ -176,12 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões/Negócio ou Cartão.md",
+                "file": "Telas Imobzi/Telas Imobzi1/Menu de Notas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Negócio ou Cartão"
+              "title": "Outgoing links from Menu de Notas"
             }
           },
           {
@@ -205,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões/Negócio ou Cartão.md",
+                "file": "Telas Imobzi/Telas Imobzi1/Menu de Notas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Negócio ou Cartão"
+              "title": "Outline of Menu de Notas"
             }
           },
           {
@@ -242,34 +226,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd94e79d8437c801",
+  "active": "8ee847f6f25d0993",
   "lastOpenFiles": [
+    "Telas Imobzi/Telas Imobzi1/Perguntas.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Tela Negócios & Cartões.md",
+    "Telas Imobzi/Relatórios.md",
+    "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões/Tela Negócios & Cartões.md",
     "Telas Imobzi/Telas Imobzi1/Site/Tela de Páginas.md",
+    "Telas Imobzi/Telas Imobzi1/Site/Tela de Menus.md",
     "Telas Imobzi/Telas Imobzi1/Site/Tela de Conteúdos.md",
     "Telas Imobzi/Telas Imobzi1/Site/Tela de Configurações.md",
     "Telas Imobzi/Telas Imobzi1/Site/Seções da Home.md",
+    "Telas Imobzi/Telas Imobzi1/Site/Opções de contato no imóvel.md",
+    "Telas Imobzi/Telas Imobzi1/Site/Mídias do site.md",
+    "Telas Imobzi/Telas Imobzi1/Site/Landing Page.md",
+    "Telas Imobzi/Telas Imobzi1/Site/Código personalizado.md",
     "Telas Imobzi/Telas Imobzi1/Site/Botão customizado.md",
+    "Telas Imobzi/Telas Imobzi1/Site/Aba Pesquisa de Imóvel.md",
     "Telas Imobzi/Telas Imobzi1/Site/Aba Home.md",
     "Telas Imobzi/Telas Imobzi1/Site/Aba Detalhes do Imóvel.md",
-    "Telas Imobzi/Telas Imobzi1/Gerais/Menu de Definições.md",
-    "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões/Tela Negócios & Cartões.md",
-    "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões/Radar de imóveis.md",
-    "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões/Etapa.md",
-    "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões/Funil.md",
-    "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões/Perfil do imóvel.md",
-    "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões/Negócio ou Cartão.md",
-    "Telas Imobzi/Gerais/Menu de Telas.md",
-    "Telas Imobzi/CRM/Negócios & Cartões/Tela Negócios & Cartões.md",
-    "Telas Imobzi/Telas Imobzi1/Relatórios.md",
-    "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões/Rateio de Comissões.md",
-    "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões/Status de Negócio.md",
-    "Telas Imobzi/Telas Imobzi1/Templates/Nota Template.md",
-    "Telas Imobzi/Telas Imobzi1/Site/Tela de Menus.md",
     "Telas Imobzi/Telas Imobzi1/Site/Tela de Pop-ups.md",
-    "Telas Imobzi/Telas Imobzi1/Site/Opções de contato no imóvel.md",
-    "Telas Imobzi/Telas Imobzi1/Site/Landing Page.md",
-    "Telas Imobzi/Telas Imobzi1/Site/Mídias do site.md",
-    "Telas Imobzi/Telas Imobzi1/Site/Código personalizado.md",
+    "Telas Imobzi/Telas Imobzi1/Filtro do Imóvel.md",
+    "Telas Imobzi/Telas Imobzi1/Templates/Nota Template.md",
+    "Telas Imobzi/Telas Imobzi1/Imóveis.md",
+    "Telas Imobzi/Telas Imobzi1/Locações.md",
+    "Telas Imobzi/Telas Imobzi1/Menu de Notas.md",
+    "Telas Imobzi/Gerais/Menu de Telas.md",
+    "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões/Negócio ou Cartão.md",
+    "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões/Perfil do imóvel.md",
     "Telas Imobzi/Telas Imobzi1/Imagens/Texto do balão flutuante.png",
     "Telas Imobzi/Telas Imobzi1/Imagens/Screenshot(4).png",
     "Telas Imobzi/Telas Imobzi1/Imagens/Exibir valor total dos imóveis.png",

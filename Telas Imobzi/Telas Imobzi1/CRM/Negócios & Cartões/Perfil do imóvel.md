@@ -14,7 +14,7 @@ FAQs Relacionadas:
 ---
 ## Definição
 
-Para determinar o imóvel em que o cliente está interessado e possibilitar o uso do [[Telas Imobzi//CRM/Negócios & Cartões/Radar de imóveis]].
+Para determinar o imóvel em que o cliente está interessado e possibilitar o uso do [[Telas Imobzi/CRM/Negócios & Cartões/Radar de imóveis]].
 
 ## Campos
 
