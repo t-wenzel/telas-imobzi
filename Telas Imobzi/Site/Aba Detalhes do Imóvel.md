@@ -27,7 +27,7 @@ FAQs Relacionadas:
 		- **Nenhuma**.
 	- **Seção de contato**: Para alteração de botões como: Fale com o corretor, Agendar uma visita, Simular o financiamento, Compartilhamento, etc.
 	
-		![[Screenshot(4).png]]
+		![[Editar detalhes do imóvel.png]]
 		
 		- **Personalize os botões**: Para botões acima da divisão de compartilhamento;
 			- **[[Telas Imobzi/Site/Botão customizado|Adicionar item]]**;
