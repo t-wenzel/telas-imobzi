@@ -1,5 +1,20 @@
 ---
 tags:
+  - Botão
+  - Tipo
+  - Filtro
+  - Imóvel
+  - Link
+  - Interno
+  - Externo
+  - Conteúdo
+  - Formulário
+  - Simulador
+  - WhatsApp
+  - Contato
+  - Celular
+  - Número
+  - Telefone
 FAQs Relacionadas:
 ---
 ---

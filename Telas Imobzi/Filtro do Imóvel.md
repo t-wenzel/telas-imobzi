@@ -1,5 +1,11 @@
 ---
 tags:
+  - Filtro
+  - Imóvel
+  - Venda
+  - Locação
+  - Temporada
+  - Lançamento
 FAQs Relacionadas:
 ---
 ---
