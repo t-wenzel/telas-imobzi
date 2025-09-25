@@ -56,10 +56,15 @@
             "id": "8ee847f6f25d0993",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Telas Imobzi/Filtro do Imóvel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Filtro do Imóvel"
             }
           }
         ],
@@ -136,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Telas Imobzi/Filtro do Imóvel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Filtro do Imóvel"
             }
           },
           {
@@ -154,11 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Telas Imobzi/Filtro do Imóvel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Filtro do Imóvel"
             }
           },
           {
@@ -182,12 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Telas Imobzi/Filtro do Imóvel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Filtro do Imóvel"
             }
           },
           {
@@ -220,9 +228,11 @@
   },
   "active": "8ee847f6f25d0993",
   "lastOpenFiles": [
-    "análise de crédito.md",
-    "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
+    "Telas Imobzi/Site/Tela de Menus.md",
+    "Telas Imobzi/Site/Tela de Pop-ups.md",
+    "Análise de crédito.md",
     "Telas Imobzi/Gerais/Menu de Telas.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
     "Telas Imobzi/CRM/Negócios & Cartões/Etapa.md",
     "Telas Imobzi/CRM/Negócios & Cartões/Funil.md",
     "Telas Imobzi/CRM/Negócios & Cartões/Tela Negócios & Cartões.md",
@@ -248,9 +258,7 @@
     "Telas Imobzi/Imagens/Texto do balão flutuante.png",
     "Telas Imobzi/Imagens/Exibir valor total dos imóveis.png",
     "Telas Imobzi/Imagens 1/Exibir valor total dos imóveis.png",
-    "Telas Imobzi/Site/Tela de Pop-ups.md",
     "Telas Imobzi/Telas Imobzi1/Imagens/Texto do balão flutuante.png",
-    "Telas Imobzi/Telas Imobzi1/Filtro do Imóvel.md",
     "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões",
     "Telas Imobzi/Telas Imobzi1/Templates",
     "Telas Imobzi/Telas Imobzi1/Site",

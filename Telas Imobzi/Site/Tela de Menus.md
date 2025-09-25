@@ -21,5 +21,5 @@ O local onde se editam os menus do site, para que o cliente possa navegar dentre
 		- **Título**: Título do item;
 		- **[[Tipos de botão|Tipo]]**;
 		- **[[Ordenação dos imóveis|Ordenação]]**;
-		- Tipo do imóvel;
-		- 
+		- **Tipo do imóvel**: O tipo do imóvel (apartamento, casa, kitnet...);
+		- **Características**: As características extras do imóvel.

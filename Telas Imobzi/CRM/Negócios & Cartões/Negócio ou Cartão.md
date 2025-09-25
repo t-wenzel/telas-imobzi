@@ -56,7 +56,7 @@ Negócio é a oportunidade comercial entre um cliente (lead ou contato) e um im�
 	- **Negócio**
 		- **Funil**: [[Telas Imobzi/CRM/Negócios & Cartões/Funil]] onde o negócio atualmente se encontra. Pode ser movido para outro funil;
 		- **Interesse**: Se o lead quer comprar, alugar ou alugar por temporada;
-		- **Análise de crédito**: Área para criar uma [[análise de crédito]] ou nível de risco da análise de crédito caso já feita;
+		- **Análise de crédito**: Área para criar uma [[Análise de crédito]] ou nível de risco da análise de crédito caso já feita;
 		- **Valor**: Valor do negócio.
 	- **[[Telas Imobzi/CRM/Negócios & Cartões/Rateio de Comissões]]**;
 	- **Reservas & Propostas**: Imóveis reservados para o lead, assim como os que têm propostas ^f89a2a
