@@ -15,6 +15,6 @@ Permite escolher um tipo específico de imóvel que será pesquisado.
 	- **Temporada**.
 - **Bairro**;
 - **[[Lançamento|Etapa do lançamento]]**;
-- **Ordenação**: A ordem dos imóveis por mais relevantes, menos relevantes, maior valor, menor valor;
+- **[[Ordenação dos imóveis]]**;
 - **Tipo do imóvel**: O tipo do imóvel (apartamento, casa, kitnet...);
 - **Características**: As características específicas do imóvel.

@@ -18,8 +18,6 @@ O local onde se editam os menus do site, para que o cliente possa navegar dentre
 	- **Menu do rodapé**.
 - **Submenus**: Categoria onde os itens serão colocados. Podem ser renomeados, reordenados e até removidos;
 	- **Adicionar item**: Os itens são os nomes que aparecerão nos submenus do site para direcionar para outras páginas;
+	- M
 		- **Título**: Título do item;
-		- **[[Tipos de botão|Tipo]]**;
-		- **[[Ordenação dos imóveis|Ordenação]]**;
-		- **Tipo do imóvel**: O tipo do imóvel (apartamento, casa, kitnet...);
-		- **Características**: As características extras do imóvel.
+		- **[[Tipos de botão|Tipo]]**.
