@@ -30,7 +30,7 @@ Nessa tela criam-se e editam-se as páginas do site (quem somos, contato etc.) u
 	- **Título**: Título do conteúdo;
 	- **Meta descrição**: Pequena descrição que aparece abaixo do link quando compartilhado;
 	- **URL**: A URL é gerada automaticamente, mas pode ser alterada.
-	- **Publicar**: Caso ativo, o conteúdo será publicado, porém não acessível por meios comuns até ser colocado no [[Telas Imobzi/Telas Imobzi1/Site/Tela de Menus|menu]];
-	- **[[Telas Imobzi/Telas Imobzi1/Site/Landing Page]]**;
+	- **Publicar**: Caso ativo, o conteúdo será publicado, porém não acessível por meios comuns até ser colocado no [[Telas Imobzi//Site/Tela de Menus|menu]];
+	- **[[Telas Imobzi//Site/Landing Page]]**;
 	- **Interior do conteúdo**: Define-se o que o conteúdo em si será. Pode conter texto, imagens e links para vídeos, assim como é possível editar o HTML.;
-- **[[Telas Imobzi/Telas Imobzi1/Site/Mídias do site]]**.
+- **[[Telas Imobzi//Site/Mídias do site]]**.

@@ -30,9 +30,9 @@ FAQs Relacionadas:
 		![[Screenshot(4).png]]
 		
 		- **Personalize os botões**: Para botões acima da divisão de compartilhamento;
-			- **[[Telas Imobzi/Telas Imobzi1/Site/Botão customizado|Adicionar item]]**;
+			- **[[Telas Imobzi//Site/Botão customizado|Adicionar item]]**;
 		- **Personalize o compartilhamento**: Para botões abaixo da divisão de compartilhamento.
-			- **[[Telas Imobzi/Telas Imobzi1/Site/Botão customizado|Adicionar item]]**.
+			- **[[Telas Imobzi//Site/Botão customizado|Adicionar item]]**.
 	- **Opção para exibir os corretores**: O que será exibido caso o corretor não tiver uma foto;
 		- **Não exibir**;
 		- **Exibir avatar**;

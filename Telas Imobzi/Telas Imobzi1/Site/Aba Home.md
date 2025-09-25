@@ -67,16 +67,16 @@ Aba para configuração da Home do site. Aqui, altera-se o layout da página e d
 		- **Favicon**.
 - **Imagem em destaque**: A imagem de fundo da barra de pesquisa;
 	- **Título**: Título da imagem;
-	- **[[Telas Imobzi/Telas Imobzi1/Site/Mídias do site|Alterar imagem]]**;
+	- **[[Telas Imobzi//Site/Mídias do site|Alterar imagem]]**;
 	- **Botões customizados**;
 		- **Cabeçalho e menu**: Para botões customizados que devem aparecer em ambos o cabeçalho e no menu;
-			- **[[Telas Imobzi/Telas Imobzi1/Site/Botão customizado|Adicionar item]]**.
+			- **[[Telas Imobzi//Site/Botão customizado|Adicionar item]]**.
 		- **Cabeçalho**: Para botões customizados que devem aparecer apenas no cabeçalho;
-			- **[[Telas Imobzi/Telas Imobzi1/Site/Botão customizado|Adicionar item]]**.
+			- **[[Telas Imobzi//Site/Botão customizado|Adicionar item]]**.
 		- **Menu**: Para botões customizados que devem aparecer apenas no menu;
-			- **[[Telas Imobzi/Telas Imobzi1/Site/Botão customizado|Adicionar item]]**.
+			- **[[Telas Imobzi//Site/Botão customizado|Adicionar item]]**.
 		- **Pesquisar**: Para botões customizados que devem aparecer na seção de pesquisar.
-			- **[[Telas Imobzi/Telas Imobzi1/Site/Botão customizado|Adicionar item]]**.
+			- **[[Telas Imobzi//Site/Botão customizado|Adicionar item]]**.
 	- **Estilo da pesquisa**: Edição do formato dos botões acima da caixa de pesquisa;
 	- **Seção de subtítulos**: Os subtítulos já vem prontos, mas podem ser melhorados/adaptados. São apresentados logo abaixo da imagem de destaque. Boas descrições também impulsionam o rankeamento do site no Google.
-- **[[Telas Imobzi/Telas Imobzi1/Site/Seções da Home|Seções]]**;
+- **[[Telas Imobzi//Site/Seções da Home|Seções]]**;

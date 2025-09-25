@@ -37,12 +37,12 @@ FAQs Relacionadas:
 	- **Visualize seu site com imóveis fictícios**: Link para o site modelo com imóveis fictícios;
 	- **Visualize seu site com seus imóveis**: Link para o site modelo com imóveis verdadeiramente cadastrados.
 	- **Altere**.
-		- **[[Telas Imobzi/Telas Imobzi1/Site/Tela de Páginas|Página Inicial (Home)]]**;
-		- **[[Telas Imobzi/Telas Imobzi1/Site/Tela de Conteúdos|Gerenciar conteúdo]]**;
-		- **[[Telas Imobzi/Telas Imobzi1/Site/Tela de Páginas|Destaques]]**;
-		- **[[Telas Imobzi/Telas Imobzi1/Site/Tela de Menus|Menu]]**.
+		- **[[Telas Imobzi/Site/Tela de Páginas|Página Inicial (Home)]]**;
+		- **[[Telas Imobzi//Site/Tela de Conteúdos|Gerenciar conteúdo]]**;
+		- **[[Telas Imobzi//Site/Tela de Páginas|Destaques]]**;
+		- **[[Telas Imobzi//Site/Tela de Menus|Menu]]**.
 - **[[Telas Imobzi/Administrador/Empresa|Contato do site]]**;
-- **[[Telas Imobzi/Telas Imobzi1/Site/Opções de contato no imóvel]]**;
+- **[[Telas Imobzi//Site/Opções de contato no imóvel]]**;
 - **Formulários e integrações**;
 	- **E-mail para receber notificações**: E-mail que receberá e-mails quanto às notificações de formulários e integrações.
 - **Meta tags do site**;
@@ -64,6 +64,6 @@ FAQs Relacionadas:
 	- **Exibir casas decimais dos valores dos imóveis no site**: Caso ativo, exibe casas decimais nos valores de imóveis. Caso desativado, arredonda o valor;
 	- **Exibir casas decimais das áreas dos imóveis no site**: Caso ativo, exibe casas decimais nas áreas de imóveis. Caso desativado, arredonda a área;
 	- **Alterar ordenação dos imóveis**: A ordem que os imóveis aparecerão no site. O cliente faz filtro quanto a **quais** imóveis aparecerão na pesquisa, a ordem determina em qual **ordem** em que eles aparecem.
-- **[[Telas Imobzi/Telas Imobzi1/Site/Código personalizado]]**;
+- **[[Telas Imobzi//Site/Código personalizado]]**;
 - **Performance do site**;
 	- **Limpar cache**: Para caso o cliente tenha inserido ou modificado informações no Imobzi e isso não tenha sido refletido no site dele.
