@@ -38,10 +38,10 @@ FAQs Relacionadas:
 	- **Visualize seu site com imóveis fictícios**: Link para o site modelo com imóveis fictícios;
 	- **Visualize seu site com seus imóveis**: Link para o site modelo com imóveis verdadeiramente cadastrados.
 	- **Altere**.
-		- **[[Telas Imobzi/Site/Tela de Páginas|Página Inicial (Home)]]**;
-		- **[[Telas Imobzi/Site/Tela de Conteúdos|Gerenciar conteúdo]]**;
-		- **[[Telas Imobzi/Site/Tela de Páginas|Destaques]]**;
-		- **[[Telas Imobzi/Site/Tela de Menus|Menu]]**.
+		- **[[Tela de Páginas|Página Inicial (Home)]]**;
+		- **[[Tela de Conteúdos|Gerenciar conteúdo]]**;
+		- **[[Tela de Páginas|Destaques]]**;
+		- **[[Tela de Menus|Menu]]**.
 - **[[Telas Imobzi/Administrador/Empresa|Contato do site]]**;
 - **[[Opções de contato no imóvel]]**;
 - **Formulários e integrações**;
@@ -61,7 +61,7 @@ FAQs Relacionadas:
 	![[Telas Imobzi/Imagens/Texto do balão flutuante.png]]
 
 - **Outros**;
-	- **Exibir endereço dos imóveis no site**: Caso o endereço do imóvel vai ser exibido, e como (com ou sem complemento e número). Exibir os endereços completos é melhor para [[Telas Imobzi/Site/SEO|SEO]];
+	- **Exibir endereço dos imóveis no site**: Caso o endereço do imóvel vai ser exibido, e como (com ou sem complemento e número). Exibir os endereços completos é melhor para [[SEO|SEO]];
 	- **Exibir casas decimais dos valores dos imóveis no site**: Caso ativo, exibe casas decimais nos valores de imóveis. Caso desativado, arredonda o valor;
 	- **Exibir casas decimais das áreas dos imóveis no site**: Caso ativo, exibe casas decimais nas áreas de imóveis. Caso desativado, arredonda a área;
 	- **[[Ordenação dos imóveis]]**.

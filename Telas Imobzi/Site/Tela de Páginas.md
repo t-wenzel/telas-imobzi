@@ -16,6 +16,6 @@ Tela para personalização, onde cria-se e editam-se as páginas do site (home, 
 
 ## Campos
 
-- **[[Telas Imobzi/Site/Aba Home|Home]]**;
-- **[[Telas Imobzi/Site/Aba Pesquisa de Imóvel|Pesquisa de Imóvel]]**;
-- **[[Telas Imobzi/Site/Aba Detalhes do Imóvel|Detalhes do Imóvel]]**.
+- **[[Aba Home|Home]]**;
+- **[[Aba Pesquisa de Imóvel|Pesquisa de Imóvel]]**;
+- **[[Aba Detalhes do Imóvel|Detalhes do Imóvel]]**.

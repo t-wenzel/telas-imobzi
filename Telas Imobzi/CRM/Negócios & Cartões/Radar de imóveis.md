@@ -9,4 +9,4 @@ FAQs Relacionadas:
 ---
 ## Definição
 
-Caso ativado e um [[Perfil do imóvel]] estiver ativo, haverá notificações de imóveis compatíveis com o que o Lead procura;
+Caso ativado e um [[perfil do imóvel]] estiver ativo, haverá notificações de imóveis compatíveis com o que o Lead procura;

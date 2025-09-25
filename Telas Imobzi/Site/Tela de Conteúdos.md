@@ -22,7 +22,7 @@ FAQs Relacionadas:
 ---
 ## Definição
 
-Nessa tela criam-se e editam-se as páginas do site (quem somos, contato etc.) usando modelos pré-definidos. Inclui edição de texto, imagens e configuração de [[Telas Imobzi/Site/SEO]].
+Nessa tela criam-se e editam-se as páginas do site (quem somos, contato etc.) usando modelos pré-definidos. Inclui edição de texto, imagens e configuração de [[SEO]].
 
 ## Campos
 
@@ -30,7 +30,7 @@ Nessa tela criam-se e editam-se as páginas do site (quem somos, contato etc.) u
 	- **Título**: Título do conteúdo;
 	- **Meta descrição**: Pequena descrição que aparece abaixo do link quando compartilhado;
 	- **URL**: A URL é gerada automaticamente, mas pode ser alterada.
-	- **Publicar**: Caso ativo, o conteúdo será publicado, porém não acessível por meios comuns até ser colocado no [[Telas Imobzi/Site/Tela de Menus|menu]];
-	- **[[Telas Imobzi/Site/Landing Page]]**;
+	- **Publicar**: Caso ativo, o conteúdo será publicado, porém não acessível por meios comuns até ser colocado no [[Tela de Menus|menu]];
+	- **[[Landing Page]]**;
 	- **Interior do conteúdo**: Define-se o que o conteúdo em si será. Pode conter texto, imagens e links para vídeos, assim como é possível editar o HTML.;
-- **[[Telas Imobzi/Site/Mídias do site]]**.
+- **[[Mídias do site]]**.

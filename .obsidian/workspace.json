@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
+                "file": "Telas Imobzi/Gerais/Tipos de botão.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Negócio ou Cartão"
+              "title": "Tipos de botão"
             }
           },
           {
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
+                "file": "Telas Imobzi/Gerais/Tipos de botão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Negócio ou Cartão"
+              "title": "Backlinks for Tipos de botão"
             }
           },
           {
@@ -159,12 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
+                "file": "Telas Imobzi/Gerais/Tipos de botão.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Negócio ou Cartão"
+              "title": "Outgoing links from Tipos de botão"
             }
           },
           {
@@ -188,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
+                "file": "Telas Imobzi/Gerais/Tipos de botão.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Negócio ou Cartão"
+              "title": "Outline of Tipos de botão"
             }
           },
           {
@@ -227,32 +227,32 @@
   },
   "active": "9dfb312d563f37e0",
   "lastOpenFiles": [
-    "Telas Imobzi/CRM/Negócios & Cartões/Funil.md",
-    "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
-    "Telas Imobzi/CRM/Negócios & Cartões/Perfil do imóvel.md",
-    "Telas Imobzi/CRM/Negócios & Cartões/Radar de imóveis.md",
-    "Telas Imobzi/CRM/Negócios & Cartões/Tela Negócios & Cartões.md",
-    "Telas Imobzi/Gerais/Adicionar documento.md",
-    "Telas Imobzi/Gerais/Menu de Definições.md",
+    "Telas Imobzi/Gerais/Ordenação dos imóveis.md",
     "Telas Imobzi/Gerais/Menu de Telas.md",
+    "Telas Imobzi/Gerais/Menu de Definições.md",
+    "Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
+    "Telas Imobzi/Site/Aba Home.md",
+    "Telas Imobzi/Site/Botão customizado.md",
+    "Telas Imobzi/Site/Tela de Conteúdos.md",
     "Telas Imobzi/Site/Tela de Configurações.md",
+    "Telas Imobzi/Site/Tela de Páginas.md",
+    "Telas Imobzi/Site/Seções da Home.md",
+    "Telas Imobzi/Gerais/Lançamento.md",
+    "Telas Imobzi/Gerais/Garantia.md",
+    "Telas Imobzi/Gerais/Adicionar documento.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Funil.md",
     "Telas Imobzi/CRM/Negócios & Cartões/Etapa.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Tela Negócios & Cartões.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Status de Negócio.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Rateio de Comissões.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Radar de imóveis.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Perfil do imóvel.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
     "Telas Imobzi/Administrador/Empresa.md",
     "Telas Imobzi/Análise de crédito.md",
     "Untitled.md",
     "Telas Imobzi/Site/Código personalizado.md",
     "Telas Imobzi/Site/Opções de contato no imóvel.md",
-    "Telas Imobzi/Relatórios.md",
-    "Telas Imobzi/Gerais/Tipos de botão.md",
-    "Telas Imobzi/Filtro do Imóvel.md",
-    "Telas Imobzi/Site/Tela de Menus.md",
-    "Telas Imobzi/Site/Tela de Pop-ups.md",
-    "Telas Imobzi/CRM/Negócios & Cartões/Status de Negócio.md",
-    "Telas Imobzi/CRM/Negócios & Cartões/Rateio de Comissões.md",
-    "Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
-    "Telas Imobzi/Telas Imobzi1/Administrador/Empresa.md",
-    "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões/Etapa.md",
-    "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões/Funil.md",
     "Telas Imobzi/Imagens/Editar detalhes do imóvel.png",
     "Telas Imobzi/Imagens/Texto do balão flutuante.png",
     "Telas Imobzi/Imagens/Exibir valor total dos imóveis.png",

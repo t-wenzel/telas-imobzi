@@ -5,6 +5,6 @@ tags:
 ---
 ---
 - **[[Funil]]**;
-- **[[Telas Imobzi/Gerais/Garantia]]**;
-- **[[Telas Imobzi/Site/Landing Page]]**;
-- **[[Telas Imobzi/Site/SEO]]**.
+- **[[Garantia]]**;
+- **[[Landing Page]]**;
+- **[[SEO]]**.
