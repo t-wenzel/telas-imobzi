@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/Filtro do Imóvel.md",
+                "file": "Telas Imobzi/Gerais/Tipos de botão.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Filtro do Imóvel"
+              "title": "Tipos de botão"
             }
           }
         ],
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telas Imobzi/Filtro do Imóvel.md",
+                "file": "Telas Imobzi/Gerais/Tipos de botão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Filtro do Imóvel"
+              "title": "Backlinks for Tipos de botão"
             }
           },
           {
@@ -160,12 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telas Imobzi/Filtro do Imóvel.md",
+                "file": "Telas Imobzi/Gerais/Tipos de botão.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Filtro do Imóvel"
+              "title": "Outgoing links from Tipos de botão"
             }
           },
           {
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telas Imobzi/Filtro do Imóvel.md",
+                "file": "Telas Imobzi/Gerais/Tipos de botão.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Filtro do Imóvel"
+              "title": "Outline of Tipos de botão"
             }
           },
           {
@@ -228,6 +228,7 @@
   },
   "active": "8ee847f6f25d0993",
   "lastOpenFiles": [
+    "Telas Imobzi/Filtro do Imóvel.md",
     "Telas Imobzi/Site/Tela de Menus.md",
     "Telas Imobzi/Site/Tela de Pop-ups.md",
     "Análise de crédito.md",
@@ -253,7 +254,6 @@
     "Telas Imobzi/Telas Imobzi1/Gerais/Adicionar documento.md",
     "Telas Imobzi/Telas Imobzi1/Gerais/Garantia.md",
     "Telas Imobzi/Telas Imobzi1/Gerais/Menu de Definições.md",
-    "Telas Imobzi/Telas Imobzi1/Gerais/SEO.md",
     "Telas Imobzi/Imagens/Editar detalhes do imóvel.png",
     "Telas Imobzi/Imagens/Texto do balão flutuante.png",
     "Telas Imobzi/Imagens/Exibir valor total dos imóveis.png",
