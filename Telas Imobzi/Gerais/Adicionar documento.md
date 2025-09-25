@@ -18,7 +18,7 @@ Pop-up de criação de um documento;
 ## Campos
 
 - **Dropdown anexar arquivo**: Comportamento do documento;
-- **Negócio vinculado**: [[Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão|Negócio]] vinculado ao documento;
+- **Negócio vinculado**: [[Negócio ou Cartão|Negócio]] vinculado ao documento;
 - **Contato vinculado**: [[Contato]] vinculado ao documento;
 - **Locação vinculada**: [[Locação]] vinculada ao documento;
 - **Contrato vinculado**: [[Contrato]] vinculado ao documento;

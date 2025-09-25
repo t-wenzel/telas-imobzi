@@ -5,22 +5,22 @@ FAQs Relacionadas:
 ---
 ## Telas
 
-- **[[Telas Imobzi/CRM/Negócios & Cartões/Tela Negócios & Cartões|Tela Negócios & Cartões]]**;
-	- **[[Telas Imobzi/CRM/Negócios & Cartões/Funil#^7c8d24|Adicionar ou editar funil]]**;
-		- **[[Telas Imobzi/CRM/Negócios & Cartões/Etapa#^73a8c4|Adicionar ou editar etapa]]**.
-			- **[[Telas Imobzi/CRM/Negócios & Cartões/Radar de imóveis|Radar de imóveis]]**.
-	- **[[Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão#^a55a31|Novo Negócio ou Cartão]]**;
-		- **[[Telas Imobzi/CRM/Negócios & Cartões/Perfil do imóvel|Perfil do imóvel]]**;
-	- **[[Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão#^a87475|Página do Cartão]]**;
-		- **[[Telas Imobzi/CRM/Negócios & Cartões/Status de Negócio|Status de negócio]]**;
-		- **[[Telas Imobzi/CRM/Negócios & Cartões/Etapa#^73a8c4|Etapa]]**.
-		- **[[Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão#^7889c6|Detalhes]]**;
+- **[[Tela Negócios & Cartões|Tela Negócios & Cartões]]**;
+	- **[[Funil#^7c8d24|Adicionar ou editar funil]]**;
+		- **[[Etapa#^73a8c4|Adicionar ou editar etapa]]**.
+			- **[[Radar de imóveis|Radar de imóveis]]**.
+	- **[[Negócio ou Cartão#^a55a31|Novo Negócio ou Cartão]]**;
+		- **[[Perfil do imóvel|Perfil do imóvel]]**;
+	- **[[Negócio ou Cartão#^a87475|Página do Cartão]]**;
+		- **[[Status de Negócio|Status de negócio]]**;
+		- **[[Etapa#^73a8c4|Etapa]]**.
+		- **[[Negócio ou Cartão#^7889c6|Detalhes]]**;
 			- **Negócio**;
-				- **[[Telas Imobzi/CRM/Negócios & Cartões/Funil]]**;
+				- **[[Funil]]**;
 				- [[Análise de crédito|Análise de crédito]];
-			- **[[Telas Imobzi/CRM/Negócios & Cartões/Rateio de Comissões|Rateio de Comissões]]**.
-		- **[[Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão#^5bc28b|Vínculos]]**
-		- **[[Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão#^d7a980|Atividades]]**
+			- **[[Rateio de Comissões|Rateio de Comissões]]**.
+		- **[[Negócio ou Cartão#^5bc28b|Vínculos]]**
+		- **[[Negócio ou Cartão#^d7a980|Atividades]]**
 			- **[[Telas Imobzi/Gerais/Adicionar documento|Adicionar documento]]**.
 
 - **Gerenciamento do Site;**

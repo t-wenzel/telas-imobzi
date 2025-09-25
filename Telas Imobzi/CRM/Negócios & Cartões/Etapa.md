@@ -16,8 +16,8 @@ Uma etapa é cada fase do processo de negociação pela qual um negócio/cartão
 
 ^73a8c4
 
-- **Nome da etapa**: Define o nome da etapa (aparecerá ao selecionar o [[Telas Imobzi/CRM/Negócios & Cartões/Funil]] e dentro do negócio);
-- **[[Telas Imobzi/CRM/Negócios & Cartões/Radar de imóveis]]**;
+- **Nome da etapa**: Define o nome da etapa (aparecerá ao selecionar o [[Funil|funil]] e dentro do negócio);
+- **[[Radar de imóveis]]**;
 - **Sincronizar com a rede**: Para sincronizar com a [[rede de parcerias]], na qual caso um imóvel seja postado que seja compatível com as demandas do lead, irá ser notificado;
 - **Liberar para locação na imobiliária digital**: Define em qual das etapas o cliente poderá alugar online através da [[imobiliária digital]];
 - **Não expirar as reservas/proposta**: Caso deseje que nenhuma proposta ou reserva expire;

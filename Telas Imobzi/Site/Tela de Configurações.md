@@ -43,7 +43,7 @@ FAQs Relacionadas:
 		- **[[Telas Imobzi/Site/Tela de Páginas|Destaques]]**;
 		- **[[Telas Imobzi/Site/Tela de Menus|Menu]]**.
 - **[[Telas Imobzi/Administrador/Empresa|Contato do site]]**;
-- **[[Telas Imobzi/Site/Opções de contato no imóvel]]**;
+- **[[Opções de contato no imóvel]]**;
 - **Formulários e integrações**;
 	- **E-mail para receber notificações**: E-mail que receberá e-mails quanto às notificações de formulários e integrações.
 - **Meta tags do site**;
@@ -52,8 +52,8 @@ FAQs Relacionadas:
 	- **Meta descrição do site**: A descrição que aparecerá na Engine de Pesquisa ou ao compartilhar o link do imóvel.
 - **Tags de lançamento**;
 	- **Mostrar tag de "lançamento/pronto/em construção" nos imóveis**: Caso o imóvel tenha alguma [[Lançamento|etapa de lançamento]] configurada, demonstra no card do imóvel no site;
-	- **Mostrar tag de "com proposta" nos imóveis**: Caso o imóvel tenha alguma [[Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão#^f89a2a|proposta]] configurada, demonstra no card do imóvel no site;
-	- **Mostrar tag de "reservado" nos imóveis**: Caso o imóvel tenha alguma [[Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão#^f89a2a|reserva]] configurada, demonstra no card do imóvel no site.
+	- **Mostrar tag de "com proposta" nos imóveis**: Caso o imóvel tenha alguma [[Negócio ou Cartão#^f89a2a|proposta]] configurada, demonstra no card do imóvel no site;
+	- **Mostrar tag de "reservado" nos imóveis**: Caso o imóvel tenha alguma [[Negócio ou Cartão#^f89a2a|reserva]] configurada, demonstra no card do imóvel no site.
 - **Balão flutuante de contato**;
 	- **Exibir balão flutuante de contato**: Caso ativado, demonstrará um botão para contato no canto da tela quando pesquisando imóveis no site;
 	- **Texto do balão flutuante**: Caso preenchido, exibe um texto acima do botão de contato.
@@ -65,6 +65,6 @@ FAQs Relacionadas:
 	- **Exibir casas decimais dos valores dos imóveis no site**: Caso ativo, exibe casas decimais nos valores de imóveis. Caso desativado, arredonda o valor;
 	- **Exibir casas decimais das áreas dos imóveis no site**: Caso ativo, exibe casas decimais nas áreas de imóveis. Caso desativado, arredonda a área;
 	- **[[Ordenação dos imóveis]]**.
-- **[[Telas Imobzi/Site/Código personalizado]]**;
+- **[[Código personalizado]]**;
 - **Performance do site**;
 	- **Limpar cache**: Para caso o cliente tenha inserido ou modificado informações no Imobzi e isso não tenha sido refletido no site dele.

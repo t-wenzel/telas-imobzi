@@ -4,7 +4,7 @@ tags:
   - Definições
 ---
 ---
-- **[[Telas Imobzi/CRM/Negócios & Cartões/Funil]]**;
+- **[[Funil]]**;
 - **[[Telas Imobzi/Gerais/Garantia]]**;
 - **[[Telas Imobzi/Site/Landing Page]]**;
 - **[[Telas Imobzi/Site/SEO]]**.
