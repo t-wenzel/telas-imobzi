@@ -178,7 +178,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -196,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9061193291ee24b6",
+  "active": "e653f321262c4cc2",
   "lastOpenFiles": [
     "Telas Imobzi/Site/Tela de Conteúdos.md",
     "Telas Imobzi/Site/Tela de Menus.md",
