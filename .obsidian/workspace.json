@@ -105,7 +105,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,7 +212,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "a7c8352264f333ae",
+  "active": "3afdd1a1ee55fe51",
   "lastOpenFiles": [
     "Telas Imobzi/Site/Tela de Menus.md",
     "Tipos de botão.md",
