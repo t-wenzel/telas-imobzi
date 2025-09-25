@@ -6,6 +6,9 @@ tags:
   - Locação
   - Temporada
   - Lançamento
+  - Bairro
+  - Ordenação
+  - Características
 FAQs Relacionadas:
 ---
 ---

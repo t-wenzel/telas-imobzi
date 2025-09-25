@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/Filtro do Imóvel.md",
+                "file": "Telas Imobzi/Site/Tela de Configurações.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Filtro do Imóvel"
+              "title": "Tela de Configurações"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Bairros  ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telas Imobzi/Filtro do Imóvel.md",
+                "file": "Telas Imobzi/Site/Tela de Configurações.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Filtro do Imóvel"
+              "title": "Backlinks for Tela de Configurações"
             }
           },
           {
@@ -130,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telas Imobzi/Filtro do Imóvel.md",
+                "file": "Telas Imobzi/Site/Tela de Configurações.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Filtro do Imóvel"
+              "title": "Outgoing links from Tela de Configurações"
             }
           },
           {
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telas Imobzi/Filtro do Imóvel.md",
+                "file": "Telas Imobzi/Site/Tela de Configurações.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Filtro do Imóvel"
+              "title": "Outline of Tela de Configurações"
             }
           },
           {
@@ -198,35 +198,35 @@
   },
   "active": "9061193291ee24b6",
   "lastOpenFiles": [
-    "Telas Imobzi/Gerais/Tipos de botão.md",
-    "Telas Imobzi/Site/Tela de Menus.md",
-    "Telas Imobzi/Relatórios.md",
-    "Telas Imobzi/Filtro do Imóvel.md",
-    "Telas Imobzi/Site/Tela de Pop-ups.md",
-    "Telas Imobzi/Perguntas.md",
-    "Telas Imobzi/Locações.md",
-    "Telas Imobzi/Imóveis.md",
-    "Telas Imobzi/Análise de crédito.md",
-    "Telas Imobzi/Templates/Nota Template.md",
-    "Telas Imobzi/Site/Tela de Páginas.md",
     "Telas Imobzi/Site/Tela de Conteúdos.md",
+    "Telas Imobzi/Site/Tela de Menus.md",
+    "Telas Imobzi/Site/Tela de Páginas.md",
+    "Telas Imobzi/Site/Tela de Pop-ups.md",
+    "Telas Imobzi/Templates/Nota Template.md",
+    "Telas Imobzi/Análise de crédito.md",
+    "Telas Imobzi/Filtro do Imóvel.md",
+    "Telas Imobzi/Imóveis.md",
+    "Telas Imobzi/Locações.md",
+    "Telas Imobzi/Relatórios.md",
     "Telas Imobzi/Site/Tela de Configurações.md",
-    "Telas Imobzi/Site/SEO.md",
     "Telas Imobzi/Site/Seções da Home.md",
-    "Telas Imobzi/Site/Opções de contato no imóvel.md",
     "Telas Imobzi/Site/Mídias do site.md",
-    "Telas Imobzi/Site/Landing Page.md",
     "Telas Imobzi/Site/Código personalizado.md",
-    "Telas Imobzi/Site/Botão customizado.md",
     "Telas Imobzi/Site/Aba Pesquisa de Imóvel.md",
     "Telas Imobzi/Site/Aba Home.md",
-    "Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
+    "Telas Imobzi/Imagens/Editar detalhes do imóvel.png",
     "Telas Imobzi/Imagens/Texto do balão flutuante.png",
     "Telas Imobzi/Imagens/Exibir valor total dos imóveis.png",
-    "Telas Imobzi/Imagens/Editar detalhes do imóvel.png",
-    "Telas Imobzi/Gerais/Ordenação dos imóveis.md",
+    "Telas Imobzi/Gerais/Tipos de botão.md",
+    "Telas Imobzi/Gerais/Perguntas.md",
     "Telas Imobzi/Gerais/Menu de Telas.md",
     "Telas Imobzi/Gerais/Menu de Definições.md",
+    "Telas Imobzi/Gerais/Garantia.md",
+    "Telas Imobzi/Gerais/Adicionar documento.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Tela Negócios & Cartões.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Status de Negócio.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Rateio de Comissões.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Perfil do imóvel.md",
     "Telas Imobzi/Imagens 1/Exibir valor total dos imóveis.png",
     "Telas Imobzi/Telas Imobzi1/Imagens/Texto do balão flutuante.png",
     "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões",

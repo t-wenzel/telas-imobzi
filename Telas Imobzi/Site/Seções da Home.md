@@ -22,8 +22,8 @@ tags:
   - Botão
   - Customizado
   - Personalizado
-  - Bairros
   - Simulador
+  - Bairro
 FAQs Relacionadas:
   - https://help.imobzi.com/pt-br/article/como-adicionar-um-banner-no-meu-site-1pfrdmu/
   - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#3-secoes

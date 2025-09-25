@@ -6,7 +6,6 @@ tags:
   - Submenu
 FAQs Relacionadas:
   - https://help.imobzi.com/pt-br/article/como-funciona-o-site-da-imobzi-j55id3/#1-menus
-  - https://help.imobzi.com/pt-br/article/como-criar-um-submenu-no-site-v5akpo/
 ---
 ---
 ## Definição
