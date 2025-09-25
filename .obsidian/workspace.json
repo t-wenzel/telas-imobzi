@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/Telas Imobzi1/Menu de Notas.md",
+                "file": "Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Menu de Notas"
+              "title": "Aba Detalhes do Imóvel"
             }
           }
         ],
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telas Imobzi/Telas Imobzi1/Menu de Notas.md",
+                "file": "Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Menu de Notas"
+              "title": "Backlinks for Aba Detalhes do Imóvel"
             }
           },
           {
@@ -160,12 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telas Imobzi/Telas Imobzi1/Menu de Notas.md",
+                "file": "Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Menu de Notas"
+              "title": "Outgoing links from Aba Detalhes do Imóvel"
             }
           },
           {
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telas Imobzi/Telas Imobzi1/Menu de Notas.md",
+                "file": "Telas Imobzi/Site/Aba Detalhes do Imóvel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Menu de Notas"
+              "title": "Outline of Aba Detalhes do Imóvel"
             }
           },
           {
@@ -228,7 +228,18 @@
   },
   "active": "8ee847f6f25d0993",
   "lastOpenFiles": [
-    "Telas Imobzi/Telas Imobzi1/Perguntas.md",
+    "Telas Imobzi/Telas Imobzi1/Imagens/Screenshot(4).png",
+    "Telas Imobzi/Site/Tela de Pop-ups.md",
+    "Telas Imobzi/Telas Imobzi1/Imagens/Texto do balão flutuante.png",
+    "Telas Imobzi/Telas Imobzi1/Filtro do Imóvel.md",
+    "Telas Imobzi/Telas Imobzi1/Imóveis.md",
+    "Telas Imobzi/Imóveis.md",
+    "Telas Imobzi/Locações.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
+    "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões/Negócio ou Cartão.md",
+    "Telas Imobzi/Perguntas.md",
+    "Telas Imobzi/Gerais/Menu de Telas.md",
+    "Telas Imobzi/Telas Imobzi1/Menu de Notas.md",
     "Telas Imobzi/CRM/Negócios & Cartões/Tela Negócios & Cartões.md",
     "Telas Imobzi/Relatórios.md",
     "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões/Tela Negócios & Cartões.md",
@@ -244,18 +255,6 @@
     "Telas Imobzi/Telas Imobzi1/Site/Botão customizado.md",
     "Telas Imobzi/Telas Imobzi1/Site/Aba Pesquisa de Imóvel.md",
     "Telas Imobzi/Telas Imobzi1/Site/Aba Home.md",
-    "Telas Imobzi/Telas Imobzi1/Site/Aba Detalhes do Imóvel.md",
-    "Telas Imobzi/Telas Imobzi1/Site/Tela de Pop-ups.md",
-    "Telas Imobzi/Telas Imobzi1/Filtro do Imóvel.md",
-    "Telas Imobzi/Telas Imobzi1/Templates/Nota Template.md",
-    "Telas Imobzi/Telas Imobzi1/Imóveis.md",
-    "Telas Imobzi/Telas Imobzi1/Locações.md",
-    "Telas Imobzi/Telas Imobzi1/Menu de Notas.md",
-    "Telas Imobzi/Gerais/Menu de Telas.md",
-    "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões/Negócio ou Cartão.md",
-    "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões/Perfil do imóvel.md",
-    "Telas Imobzi/Telas Imobzi1/Imagens/Texto do balão flutuante.png",
-    "Telas Imobzi/Telas Imobzi1/Imagens/Screenshot(4).png",
     "Telas Imobzi/Telas Imobzi1/Imagens/Exibir valor total dos imóveis.png",
     "Telas Imobzi/Telas Imobzi1/CRM/Negócios & Cartões",
     "Telas Imobzi/Telas Imobzi1/Templates",
