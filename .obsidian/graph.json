@@ -1,22 +1,37 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#CRM",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Site  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.98854166666667,
-  "lineSizeMultiplier": 1.50364583333333,
-  "collapse-forces": false,
-  "centerStrength": 0.0416666666666667,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 2.98385416666667,
+  "lineSizeMultiplier": 1.01875,
+  "collapse-forces": true,
+  "centerStrength": 0,
   "repelStrength": 20,
-  "linkStrength": 0,
+  "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.017341529915832373,
+  "scale": 0.042315902689759086,
   "close": false
 }

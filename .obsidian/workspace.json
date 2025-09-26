@@ -11,10 +11,10 @@
             "id": "3015eab8d8a63b30",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -176,8 +176,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "e2d5dcd0311803c4",
+  "active": "3015eab8d8a63b30",
   "lastOpenFiles": [
+    "Telas Imobzi/Imóveis.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Perfil do imóvel.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Radar de imóveis.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Etapa.md",
     "Telas Imobzi/Gerais/Tipos de botão.md",
     "Telas Imobzi/Site/Tela de Menus.md",
     "Tipos de botão.md",
@@ -200,10 +204,6 @@
     "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
     "Telas Imobzi/Telas Imobzi/Lançamento 1.md",
     "Telas Imobzi/Telas Imobzi/Site/Tela de Configurações.md",
-    "Telas Imobzi/Site/Tela de Configurações.md",
-    "Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Perfil do imóvel.md",
-    "Telas Imobzi/CRM/Negócios & Cartões/Perfil do imóvel.md",
-    "Telas Imobzi/Site/Opções de contato no imóvel.md",
     "Telas Imobzi/Telas Imobzi/Imagens/Screenshot(4).png",
     "Telas Imobzi/Telas Imobzi/Imagens/Exibir valor total dos imóveis.png",
     "Telas Imobzi/Telas Imobzi/Imagens/Texto do balão flutuante.png",
