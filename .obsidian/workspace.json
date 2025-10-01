@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/CRM/Negócios & Cartões/Etapa.md",
+                "file": "Telas Imobzi/CRM/Negócios & Cartões/Radar de imóveis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Etapa"
+              "title": "Radar de imóveis"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "notifi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telas Imobzi/CRM/Negócios & Cartões/Etapa.md",
+                "file": "Telas Imobzi/CRM/Negócios & Cartões/Radar de imóveis.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Etapa"
+              "title": "Backlinks for Radar de imóveis"
             }
           },
           {
@@ -182,13 +183,15 @@
   },
   "active": "3015eab8d8a63b30",
   "lastOpenFiles": [
+    "Telas Imobzi/Site/Tela de Configurações.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Radar de imóveis.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
+    "Telas Imobzi/CRM/Negócios & Cartões/Etapa.md",
     "rede de parcerias.md",
     "Telas Imobzi/Site/Tela de Pop-ups.md",
     "Telas Imobzi/Site/Tela de Páginas.md",
     "Telas Imobzi/Imóveis.md",
     "Telas Imobzi/CRM/Negócios & Cartões/Perfil do imóvel.md",
-    "Telas Imobzi/CRM/Negócios & Cartões/Radar de imóveis.md",
-    "Telas Imobzi/CRM/Negócios & Cartões/Etapa.md",
     "Telas Imobzi/Gerais/Tipos de botão.md",
     "Telas Imobzi/Site/Tela de Menus.md",
     "Tipos de botão.md",
@@ -206,8 +209,6 @@
     "Telas Imobzi/Telas Imobzi/Locações.md",
     "Telas Imobzi/Telas Imobzi/Locações 1.md",
     "Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
-    "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
-    "Telas Imobzi/Telas Imobzi/Lançamento 1.md",
     "Telas Imobzi/Telas Imobzi/Imagens/Screenshot(4).png",
     "Telas Imobzi/Telas Imobzi/Imagens/Exibir valor total dos imóveis.png",
     "Telas Imobzi/Telas Imobzi/Imagens/Texto do balão flutuante.png",
