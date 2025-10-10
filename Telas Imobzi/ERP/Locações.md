@@ -9,3 +9,17 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 
 ## Campos de Nova Locação e Edição de Locação
 
+- **Termos da locação**;
+	- **Tipo da Locação**: Para o tipo de locação;
+		- **Residencial**;
+		- **Não residencial**;
+		- **Comercial**;
+		- **Industrial**;
+		- **Self storage**;
+		- **Temporada**.
+	- **Status**: Status inicial da locação;
+		- **Ativo**;
+		- **Encerrado;**
+		- **Em progresso**
+		- **Suspenso**
+	- **Categoria**;
