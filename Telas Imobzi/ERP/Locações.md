@@ -39,4 +39,5 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 	- **Este contrato já está em andamento**: Para, caso o contrato de locação já esteja ocorrendo quando ele foi criado na Imobzi, o reajuste ocorrer na data correta. Ao gerar a primeira fatura o Imobzi marcará essa opção automaticamente e não será possível mudá-la.;
 		- **Data do último reajuste**: Quando o último reajuste do aluguel ocorreu. Se inserida uma data retroativa com mais de 12 meses, o Imobzi realizará automaticamente o reajuste no dia seguinte de forma automática, porque considera que não houve reajuste no último ano;
 		- **Valor original do contrato**: Valor informativo sobre o qual será calculado o primeiro reajuste.
-	- **Garantia**:
+- **[[Garantia|Garantia]]**;
+- **Seguros e adicionais**: Para adição do seguro do imóvel ou seguro incêndio;
