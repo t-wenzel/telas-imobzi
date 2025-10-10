@@ -33,4 +33,4 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 		- **Normal**: Padrão do pagamento de aluguel;
 		- **Aluguel antecipado**: O inquilino antes paga o valor do aluguel, para depois residir nele;
 	- **Dia de vencimento**: O dia do mês em que a fatura da locação irá vencer (podendo também ser no último dia do mês);
-	- **Índice de reajuste**: O índice que definirá o 
+	- **Índice de reajuste**: O índice que definirá o reajuste do valor da locação a cada doze meses;
