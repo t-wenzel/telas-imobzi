@@ -27,3 +27,8 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 	- **Contrato por tempo indeterminado**: Ative caso a locação irá continuar gerando faturas mesmo após seu termino;
 - **Imóvel**: Imóvel que será locado. Pode ser filtrado com o [[Filtro do Imóvel|filtro de imóvel]] ao adicioná-lo clicando no ícone de filtro;
 - **Locatários**: Os locatários dessa locação;
+- **Definição de valores**
+	- **Valor da locação**: Valor do aluguel dessa locação.
+	- **Modo de cobrança**;
+		- **Normal**: Padrão do pagamento de aluguel;
+		- 

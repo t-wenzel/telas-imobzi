@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/CRM/Imóvel/Filtro do Imóvel.md",
+                "file": "Telas Imobzi/ERP/Locações.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Filtro do Imóvel"
+              "title": "Locações"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telas Imobzi/CRM/Imóvel/Filtro do Imóvel.md",
+                "file": "Telas Imobzi/ERP/Locações.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Filtro do Imóvel"
+              "title": "Backlinks for Locações"
             }
           },
           {
@@ -183,6 +183,7 @@
   },
   "active": "3015eab8d8a63b30",
   "lastOpenFiles": [
+    "Telas Imobzi/CRM/Imóvel/Filtro do Imóvel.md",
     "Telas Imobzi/ERP/Locações.md",
     "Telas Imobzi/CRM/Imóvel",
     "Telas Imobzi/CRM/Negócios & Cartões/Radar de imóveis.md",
