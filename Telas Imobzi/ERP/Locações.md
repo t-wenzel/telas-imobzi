@@ -25,5 +25,5 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 	- **Categoria**: Para alterar as tags das faturas automáticas nas locações;
 	- **Data de início, data de término e duração do contrato**: Onde são colocadas as datas referentes à locação e quanto tempo ela durará;
 	- **Contrato por tempo indeterminado**: Ative caso a locação irá continuar gerando faturas mesmo após seu termino;
-- **Imóvel**: Imóvel que será locado. Pode ser filtrado na busca dentro do menu aberto ao adicioná-lo ao clicar no ícone de filtro. Pod;
+- **Imóvel**: Imóvel que será locado. Pode ser filtrado com o [[Filtro do Imóvel|filtro de imóvel]] ao adicioná-lo clicando no ícone de filtro;
 - **Locatários**: Os locatários dessa locação;

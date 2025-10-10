@@ -18,7 +18,7 @@ Permite escolher um tipo específico de imóvel que será pesquisado.
 
 ## Campos
 
-- **Tipo de contrato**;
+- **Tipo de contrato**: Define qual o tipo de contrato dos imóveis que aparecerão. O imóvel pode não aparecer caso o padrão do filtro seja um tipo de contrato enquanto o imóvel é outro;
 	- **Venda**;
 	- **Locação**;
 	- **Temporada**.

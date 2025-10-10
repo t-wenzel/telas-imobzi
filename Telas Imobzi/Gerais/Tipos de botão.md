@@ -20,7 +20,7 @@ FAQs Relacionadas:
 ---
 ## Opções
 
-- **[[Filtro do imóvel]]**;
+- **[[Filtro do Imóvel]]**;
 - **Link Interno**: Insira a URL de qualquer página já criada na plataforma para criar um atalho direto. Pode incluir até imóveis;
 - **Link Externo**: Adicione um link que direciona a outro site, como um blog ou página fora da plataforma;
 - **Vincular Conteúdo**: Crie um atalho para um conteúdo específico da [[Tela de Conteúdos|tela de conteúdos]];
