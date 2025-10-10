@@ -26,9 +26,11 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 	- **Data de início, data de término e duração do contrato**: Onde são colocadas as datas referentes à locação e quanto tempo ela durará;
 	- **Contrato por tempo indeterminado**: Ative caso a locação irá continuar gerando faturas mesmo após seu termino;
 - **Imóvel**: Imóvel que será locado. Pode ser filtrado com o [[Filtro do Imóvel|filtro de imóvel]] ao adicioná-lo clicando no ícone de filtro;
-- **Locatários**: Os locatários dessa locação;
+- **Locatários**: Os locatários dessa locação. Caso tenha mais de um locatário, poderá selecionar qual deles será o pagador;
 - **Definição de valores**
 	- **Valor da locação**: Valor do aluguel dessa locação.
 	- **Modo de cobrança**;
 		- **Normal**: Padrão do pagamento de aluguel;
-		- 
+		- **Aluguel antecipado**: O inquilino antes paga o valor do aluguel, para depois residir nele;
+	- **Dia de vencimento**: O dia do mês em que a fatura da locação irá vencer (podendo também ser no último dia do mês);
+	- **Índice de reajuste**: O índice que definirá o 
