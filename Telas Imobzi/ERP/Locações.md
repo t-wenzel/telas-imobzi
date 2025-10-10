@@ -19,7 +19,8 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 		- **Temporada**.
 	- **Status**: Status inicial da locação;
 		- **Ativo**;
-		- **Encerrado;**
-		- **Em progresso**
-		- **Suspenso**
-	- **Categoria**;
+		- **Encerrado**;
+		- **Em progresso**;
+		- **Suspenso**.
+	- **Categoria**: Para alterar as tags das faturas automáticas nas locações;
+	- **Data de início, data de término e duração do contrato**: Onde é
