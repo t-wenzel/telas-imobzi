@@ -48,4 +48,4 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 - **Recorrente**: Marque caso esse item será cobrado mais de uma vez;
 	- **Quantidade de parcelas**: Quantas vezes o item ocorrerá. Caso o item for ser cobrado por tempo indeterminado, mesmo após o término da locação, insira "999" neste campo;
 	- **Parcela atual**: A quantidade de parcelas já pagas;
-	- 
+	- **Calcular o IRRF e incluir na DIMOB**: Apenas deve ser marcado como itens que serão considerados renda para o proprietário, como multas. Para as despesas do imóvel como IPTU, Condomínio, obra e outros, não será necessário.
