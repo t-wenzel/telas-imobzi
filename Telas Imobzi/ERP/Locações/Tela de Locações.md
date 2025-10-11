@@ -56,4 +56,6 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 	- **Lançar o item a partir de uma data**: Para caso o item só passará a ser lançado a partir de uma data específica.
 		- **Data de início**;
 	- **Editar referência da fatura**;
-		- **Data de início, Data de término e Data de vencimento da próxima fatura**: 
+		- **Data de início, Data de término e Data de vencimento da próxima fatura**: Usado para alterar a referência da fatura da locação a partir de uma data de início e uma de fim. O vencimento, caso seja atualizado com uma data não compatível com a que está no campo de "Dia do vencimento" da locação na primeira página do menu, irá ser trocado pelo novo valor inserido.
+	- **Meio de recebimento**;
+		- Cartão, 
