@@ -45,3 +45,7 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 	- **Descrição**: O nome ou descrição do item;
 	- **Valor**: Quanto será cobrado deste item;
 	- **[[Comporatamento do Item da Locação|Comportamento]]**;
+- **Recorrente**: Marque caso esse item será cobrado mais de uma vez;
+	- **Quantidade de parcelas**: Quantas vezes o item ocorrerá. Caso o item for ser cobrado por tempo indeterminado, mesmo após o término da locação, insira "999" neste campo;
+	- **Parcela atual**: A quantidade de parcelas já pagas;
+	- 

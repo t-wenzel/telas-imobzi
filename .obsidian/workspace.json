@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/ERP/Locações/Comporatamento do Item da Locação.md",
+                "file": "Telas Imobzi/ERP/Locações/Tela de Locações.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Comporatamento do Item da Locação"
+              "title": "Tela de Locações"
             }
           }
         ],
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telas Imobzi/ERP/Locações/Comporatamento do Item da Locação.md",
+                "file": "Telas Imobzi/ERP/Locações/Tela de Locações.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Comporatamento do Item da Locação"
+              "title": "Backlinks for Tela de Locações"
             }
           },
           {
@@ -244,8 +244,8 @@
   },
   "active": "d04b365555765b72",
   "lastOpenFiles": [
-    "Telas Imobzi/ERP/Locações/Tela de Locações.md",
     "Telas Imobzi/ERP/Locações/Comporatamento do Item da Locação.md",
+    "Telas Imobzi/ERP/Locações/Tela de Locações.md",
     "Telas Imobzi/ERP/Locações/Comportamento.md",
     "Telas Imobzi/CRM/Negócios & Cartões/Tela Negócios & Cartões.md",
     "Telas Imobzi/ERP/Locações",
