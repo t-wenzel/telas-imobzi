@@ -51,9 +51,39 @@
               "icon": "lucide-file",
               "title": "Tela de Locações"
             }
+          },
+          {
+            "id": "cb7f541db61428f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telas Imobzi/ERP/Locações/Tela de Locações.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Tela de Locações"
+            }
+          },
+          {
+            "id": "d04b365555765b72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telas Imobzi/ERP/Locações/Comporatamento do Item da Locação.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Comporatamento do Item da Locação"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telas Imobzi/ERP/Locações/Tela de Locações.md",
+                "file": "Telas Imobzi/ERP/Locações/Comporatamento do Item da Locação.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -136,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tela de Locações"
+              "title": "Backlinks for Comporatamento do Item da Locação"
             }
           },
           {
@@ -214,9 +244,11 @@
   },
   "active": "e2d5dcd0311803c4",
   "lastOpenFiles": [
+    "Telas Imobzi/ERP/Locações/Comporatamento do Item da Locação.md",
+    "Telas Imobzi/ERP/Locações/Tela de Locações.md",
+    "Telas Imobzi/ERP/Locações/Comportamento.md",
     "Telas Imobzi/CRM/Negócios & Cartões/Tela Negócios & Cartões.md",
     "Telas Imobzi/ERP/Locações",
-    "Telas Imobzi/ERP/Locações/Tela de Locações.md",
     "Telas Imobzi/CRM/Contatos/Tela de Contatos.md",
     "Telas Imobzi/CRM/Contatos",
     "Telas Imobzi/CRM/Imóvel/Tela de Imóveis.md",
@@ -242,8 +274,6 @@
     "Telas Imobzi/Telas Imobzi/Perguntas.md",
     "Telas Imobzi/Telas Imobzi/Relatórios.md",
     "Telas Imobzi/Telas Imobzi/Menu de Notas.md",
-    "Telas Imobzi/Telas Imobzi/Relatórios 1.md",
-    "Telas Imobzi/Telas Imobzi/CRM/Negócios & Cartões/Tela Negócios & Cartões.md",
     "Telas Imobzi/Telas Imobzi/Imagens/Screenshot(4).png",
     "Telas Imobzi/Telas Imobzi/Imagens/Exibir valor total dos imóveis.png",
     "Telas Imobzi/Telas Imobzi/Imagens/Texto do balão flutuante.png",
