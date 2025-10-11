@@ -41,3 +41,5 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 		- **Valor original do contrato**: Valor informativo sobre o qual será calculado o primeiro reajuste.
 - **[[Garantia|Garantia]]**;
 - **Seguros e adicionais**: Para adição do seguro do imóvel ou seguro incêndio;
+- **Itens da fatura de aluguel**: Seção para inserção de valores a serem cobrados por cima do aluguel;
+	- **Descrição**: O nome ou descrição do item;

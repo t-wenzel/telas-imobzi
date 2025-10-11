@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/ERP/Tela de Locações.md",
+                "file": "Telas Imobzi/ERP/Locações/Tela de Locações.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/ERP/Tela de Locações.md",
+                "file": "Telas Imobzi/ERP/Locações/Tela de Locações.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/CRM/Contatos/Tela de Contatos.md",
+                "file": "Telas Imobzi/ERP/Locações/Tela de Locações.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tela de Contatos"
+              "title": "Tela de Locações"
             }
           }
         ],
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telas Imobzi/CRM/Contatos/Tela de Contatos.md",
+                "file": "Telas Imobzi/ERP/Locações/Tela de Locações.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tela de Contatos"
+              "title": "Backlinks for Tela de Locações"
             }
           },
           {
@@ -214,9 +214,11 @@
   },
   "active": "e2d5dcd0311803c4",
   "lastOpenFiles": [
-    "Telas Imobzi/CRM/Contatos",
+    "Telas Imobzi/CRM/Negócios & Cartões/Tela Negócios & Cartões.md",
+    "Telas Imobzi/ERP/Locações",
+    "Telas Imobzi/ERP/Locações/Tela de Locações.md",
     "Telas Imobzi/CRM/Contatos/Tela de Contatos.md",
-    "Telas Imobzi/ERP/Tela de Locações.md",
+    "Telas Imobzi/CRM/Contatos",
     "Telas Imobzi/CRM/Imóvel/Tela de Imóveis.md",
     "Telas Imobzi/Gerais/Garantia.md",
     "Telas Imobzi/CRM/Imóvel/Filtro do Imóvel.md",
@@ -253,8 +255,6 @@
     "readme",
     "Telas Imobzi~HEAD",
     "Telas Imobzi/Templates",
-    "Telas Imobzi/Site",
-    "Telas Imobzi/CRM/Negócios & Cartões",
-    "Telas Imobzi/CRM"
+    "Telas Imobzi/Site"
   ]
 }
