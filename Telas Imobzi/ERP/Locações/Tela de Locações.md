@@ -51,4 +51,9 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 	- **Recorrente**: Marque caso esse item será cobrado mais de uma vez;
 		- **Quantidade de parcelas**: Quantas vezes o item ocorrerá. Caso o item for ser cobrado por tempo indeterminado, mesmo após o término da locação, insira "999" neste campo;
 		- **Parcela atual**: A quantidade de parcelas já pagas;
-	- **Calcular o IRRF e incluir na DIMOB**: Apenas deve ser marcado como itens que serão considerados renda para o proprietário, como multas. Para as despesas do imóvel como IPTU, Condomínio, obra e outros, não será necessário.
+	- **Calcular o IRRF e incluir na DIMOB**: Apenas deve ser marcado como itens que serão considerados renda para o proprietário, como multas. Para as despesas do imóvel como IPTU, Condomínio, obra e outros, não será necessário. Caso o IRRF seja recolhido a maior ou menor, não há motivo para preocupações, já que na 'Declaração de Imposto de Renda', a Receita Federal calculará o valor total a ser pago no ano, descontando o que foi recolhido, dando um valor a pagar ou a restituir para o proprietário.
+	- **Descontar taxa de administração**: Caso desse item será descontada a taxa de administração da imobiliária;
+	- **Lançar o item a partir de uma data**: Para caso o item só passará a ser lançado a partir de uma data específica.
+		- **Data de início**;
+	- **Editar referência da fatura**;
+		- **Data de início, Data de término e Data de vencimento da próxima fatura**: 
