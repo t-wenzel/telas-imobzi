@@ -79,4 +79,7 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 	- **Taxa do primeiro aluguel**: Quanto do aluguel será cobrado do locador pela imobiliária como taxa por administrar a locação sobre o primeiro aluguel do contrato. Os dois campos atualizam uns aos outros quando modificados (porcentagem atualiza valor fixo e vice-versa). Pode ser parcelado caso o contrato ainda não tenha gerado a primeira fatura.
 		- **Nª Parcela**: Valor de cada parcela da taxa do primeiro aluguel. Se atualizam caso alteradas para somar ao valor da taxa do primeiro aluguel;
 	- **Meio de repasse**;
-		- **Repasse automático no recebimento**: O valor referente aos beneficiários é repassado automaticamente caso haja a ;
+		- **Repasse automático no recebimento**: O valor referente aos beneficiários é repassado automaticamente tão cedo quanto for recebido pela imobiliária. Funciona apenas caso haja a conta digital e a integração com o PJBank;
+		- **Repasse automático no recebimento**: O valor referente aos beneficiários é repassado automaticamente no dia preferido selecionado para que o repasse ocorra. Funciona apenas caso haja a conta digital e a integração com o PJBank;
+		- **Manual**: Indica que o repasse será feito manualmente pelo usuário todos os meses;
+	- **Criar item de repasse na conta do locador e no financeiro**:
