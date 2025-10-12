@@ -72,4 +72,5 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 	- **Incluir na DIMOB automaticamente**: Selecione esta opção essa locação será incluída para geração de um relatório da [Dimob](https://help.imobzi.com/pt-br/article/o-que-e-a-dimob-e-como-exporta-la-578vzn/).
 - **Taxas de administração**: Defina o 'Tipo de Administração', as taxas que serão cobradas do Proprietário e se o repasse será automático ou manual. Para 'Imóvel próprio' não há taxas.
 	- **Tipo de administração**;
-		- **Locação administrada pela imobiliária**:
+		- **Locação administrada pela imobiliária**: Caso a administração da locação é de responsabilidade da imobiliária;
+		- 
