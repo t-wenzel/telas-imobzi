@@ -35,7 +35,7 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 		- **Aluguel antecipado**: O inquilino antes paga o valor do aluguel, para depois residir nele;
 	- **Dia de vencimento**: O dia do mês em que a fatura da locação irá vencer (podendo também ser no último dia do mês);
 	- **Índice de reajuste**: O índice que definirá o reajuste do valor da locação a cada doze meses;
-	- **Cobrar proporcional junto ao 2º aluguel**: Para caso se queira atrasar a cobrança do primeiro aluguel para ser junto à 2ª cobrança, com o valor proporcional à referência da locação;
+	- **Cobrar proporcional junto ao 2º aluguel**: Para caso se queira atrasar a cobrança do primeiro aluguel para ser junto à 2ª cobrança, com o valor proporcional à referência da locação. Desativado caso o contrato já esteja em andamento;
 	- **Este contrato já está em andamento**: Para, caso o contrato de locação já esteja ocorrendo quando ele foi criado na Imobzi, o reajuste ocorrer na data correta. Ao gerar a primeira fatura o Imobzi marcará essa opção automaticamente e não será possível mudá-la.;
 		- **Data do último reajuste**: Quando o último reajuste do aluguel ocorreu. Se inserida uma data retroativa com mais de 12 meses, o Imobzi realizará automaticamente o reajuste no dia seguinte de forma automática, porque considera que não houve reajuste no último ano;
 		- **Valor original do contrato**: Valor informativo sobre o qual será calculado o primeiro reajuste.
@@ -76,4 +76,4 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 		- **Reter somente primeiro aluguel**: A imobiliária cobra somente o primeiro mês como taxa única, sem realizar retenções nos meses seguintes;
 		- **Imóvel próprio**: Não há repasse para um terceiro, pois não existe um proprietário externo. A receita é registrada como sendo da própria empresa, e não há transferência de valores para um locador, ou os demais campos de "taxas de administração".
 	- **Taxa de administração**: Quanto do aluguel será cobrado do locador pela imobiliária como taxa por administrar a locação. Os dois campos atualizam uns aos outros quando modificados (porcentagem atualiza valor fixo e vice-versa). Caso deseje cobrar taxa de administração sobre itens, selecione a opção "Descontar taxa de administração" dentro do item na segunda página ao editar a locação.
-	- **Taxa do primeiro aluguel**:
+	- **Taxa do primeiro aluguel**: Quanto do aluguel será cobrado do locador pela imobiliária como taxa por administrar a locação sobre o primeiro aluguel. Os dois campos atualizam uns aos outros quando modificados (porcentagem atualiza valor fixo e vice-versa).
