@@ -73,4 +73,6 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 - **Taxas de administração**: Defina o 'Tipo de Administração', as taxas que serão cobradas do Proprietário e se o repasse será automático ou manual. Para 'Imóvel próprio' não há taxas.
 	- **Tipo de administração**;
 		- **Locação administrada pela imobiliária**: Caso a administração da locação é de responsabilidade da imobiliária;
-		- **Reter somente primeiro aluguel**: A imobiliária cobra somente o primeiro mês como taxa única, sem realizar retenções nos meses seguintes.
+		- **Reter somente primeiro aluguel**: A imobiliária cobra somente o primeiro mês como taxa única, sem realizar retenções nos meses seguintes;
+		- **Imóvel próprio**: Não há repasse para um terceiro, pois não existe um proprietário externo. A receita é registrada como sendo da própria empresa, e não há transferência de valores para um locador, ou os demais campos de "taxas de administração".
+- 
