@@ -82,4 +82,5 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 		- **Repasse automático no recebimento**: O valor referente aos beneficiários é repassado automaticamente tão cedo quanto for recebido pela imobiliária. Funciona apenas caso haja a conta digital e a integração com o PJBank;
 		- **Repasse automático no recebimento**: O valor referente aos beneficiários é repassado automaticamente no dia preferido selecionado para que o repasse ocorra. Funciona apenas caso haja a conta digital e a integração com o PJBank;
 		- **Manual**: Indica que o repasse será feito manualmente pelo usuário todos os meses;
-	- **Criar item de repasse na conta do locador e no financeiro**:
+	- **Criar item de repasse na conta do locador e no financeiro**: No repasse manual geralmente se faz um único repasse no mês para um determinado proprietário. Marque essa opção caso você deseje que, quando a fatura for paga, o repasse seja gerado na conta do locador e vinculado à fatura, e um lançamento seja criado na tela de lançamentos.
+	- **Repassar multa/juros para locador**: Esta opção não está disponível para aluguéis garantidos porque o valor de um repasse garantido não deve mudar depois da emissão da fatura;                     
