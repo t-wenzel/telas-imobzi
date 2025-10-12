@@ -90,6 +90,7 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 		- **Repassar e não descontar saldo devedor do locador**: O saldo devedor do locador na conta dos locadores não é descontado do repasse feito para ele;
 		- **Repassar e descontar saldo devedor do locador**: O saldo devedor do locador na conta dos locadores (que é referente a todas as suas locações ou cobranças avulsas) é descontado do repasse feito para ele;
 		- **Repassar e descontar somente despesas vinculadas a esta locação**: O saldo devedor do locador na conta dos locadores referente apenas a despesas desta locação é descontado do repasse feito para ele.
-- **Beneficiários**: Beneficiários são os próprios proprietários do imóvel ou pessoas indicadas por ele para receber o aluguel, como por exemplo os filhos, netos, sobrinhos, etc. Define, portanto o contato que irá receber o valor de repasse em sua conta bancária. Por padrão o Imobzi seleciona o proprietário como beneficiário.
+- **Beneficiários e Parceiros**: Beneficiários são os próprios proprietários do imóvel ou pessoas indicadas por ele para receber o aluguel, como por exemplo os filhos, netos, sobrinhos, etc. Define, portanto o contato que irá receber o valor de repasse em sua conta bancária. Por padrão o Imobzi seleciona o proprietário como beneficiário. Parceiros geralmente são corretores que trabalham na imobiliária e ficam com uma parte da taxa de administração.
 	- **Porcentagem e valor**: Atualizam um ao outro caso preenchidos. Se comportam de acordo com o campo "Meio de repasse";
-	- **Meio de repasse**: 
+	- **Meio de repasse**;
+		- **Repasse padrão de acordo com as porcentagens**: 
