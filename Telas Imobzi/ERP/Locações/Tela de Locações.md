@@ -71,4 +71,5 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 	- **Gerar nota fiscal automaticamente**: Ao selecionar essa opção podemos gerar a nota fiscal da taxa de administração da locação, lembrando que é necessário configurar a integração com o [eNotas](https://help.imobzi.com/pt-br/article/como-gerar-a-nota-fiscal-de-forma-automatica-10sbeos/);
 	- **Incluir na DIMOB automaticamente**: Selecione esta opção essa locação será incluída para geração de um relatório da [Dimob](https://help.imobzi.com/pt-br/article/o-que-e-a-dimob-e-como-exporta-la-578vzn/).
 - **Taxas de administração**: Defina o 'Tipo de Administração', as taxas que serão cobradas do Proprietário e se o repasse será automático ou manual. Para 'Imóvel próprio' não há taxas.
-	- 
+	- **Tipo de administração**;
+		- **Locação administrada pela imobiliária**:
