@@ -10,3 +10,6 @@ tags:
 
 ## Gerenciamento do Site
 
+## Locação
+
+- O "Repasse padrão de acordo com as porcentagens" e o "Repasse com valor fixo" na seção de beneficiários ao editar uma locação significam o que?
