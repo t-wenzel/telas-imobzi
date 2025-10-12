@@ -77,5 +77,6 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 		- **Imóvel próprio**: Não há repasse para um terceiro, pois não existe um proprietário externo. A receita é registrada como sendo da própria empresa, e não há transferência de valores para um locador, ou os demais campos de "taxas de administração".
 	- **Taxa de administração**: Quanto do aluguel será cobrado do locador pela imobiliária como taxa por administrar a locação. Os dois campos atualizam uns aos outros quando modificados (porcentagem atualiza valor fixo e vice-versa). Caso deseje cobrar taxa de administração sobre itens, selecione a opção "Descontar taxa de administração" dentro do item na segunda página ao editar a locação;
 	- **Taxa do primeiro aluguel**: Quanto do aluguel será cobrado do locador pela imobiliária como taxa por administrar a locação sobre o primeiro aluguel do contrato. Os dois campos atualizam uns aos outros quando modificados (porcentagem atualiza valor fixo e vice-versa). Pode ser parcelado caso o contrato ainda não tenha gerado a primeira fatura.
-		- **Nª Parcela**: Valor de cada parcela da taxa do primeiro aluguel. Se atualizam caso ;
-	- 
+		- **Nª Parcela**: Valor de cada parcela da taxa do primeiro aluguel. Se atualizam caso alteradas para somar ao valor da taxa do primeiro aluguel;
+	- **Meio de repasse**;
+		- **Repasse automático no recebimento**: O valor referente aos beneficiários é repassado automaticamente caso haja a ;
