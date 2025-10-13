@@ -27,6 +27,7 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 	- **Data de início, data de término e duração do contrato**: Onde são colocadas as datas referentes à locação e quanto tempo ela durará;
 	- **Contrato por tempo indeterminado**: Ative caso a locação irá continuar gerando faturas mesmo após seu termino;
 - **[[Tela de Imóveis|Imóvel]]**: Imóvel que será locado. Pode ser filtrado com o [[Filtro do Imóvel|filtro de imóvel]] ao adicioná-lo clicando no ícone de filtro;
+	- **[Editar proprietários](https://help.imobzi.com/pt-br/article/como-alterar-o-proprietario-de-uma-locacao-10ec1zj/)**.
 - **[[Tela de Contatos|Locatários]]**: Os contatos que serão locatários dessa locação. Caso tenha mais de um locatário, poderá selecionar qual deles será o pagador;
 - **Definição de valores**
 	- **Valor da locação**: Valor do aluguel dessa locação.
@@ -104,6 +105,8 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 		- **[Enviar para o locatário, cobrança de fatura em atraso](https://help.imobzi.com/pt-br/article/como-funciona-o-fluxo-de-cobranca-1kymxpx/)**: Será enviado o primeiro e-mail/WhatsApp de cobrança, após 3 dias de atraso e logo após 7, 10, 15, 20 e 25 dias do vencimento da fatura. Não é enviada uma notificação antes do vencimento da fatura com essa opção, apenas após;
 		- **[Enviar aviso para o fiador quando a fatura estiver em atraso](https://help.imobzi.com/pt-br/article/como-notificar-o-fiador-da-locacao-se-houver-inadimplencia-rs6xap/)**: Sempre que houver atraso no pagamento da fatura, o fiador receberá um e-mail no endereço cadastrado no contato do fiador.
 	- **Extratos de repasse**;
-		- **Enviar por e-mail o extrato do repasse para o locador e Enviar por WhatsApp o extrato de repasse para o locador**: O locador recebe um e-mail com o recibo de repasse referente à locação;
+		- **Enviar por e-mail o extrato do repasse para o locador e Enviar por WhatsApp o extrato de repasse para o locador**: O locador recebe um e-mail com o recibo de repasse referente à locação.
 	- **Garantia e seguros**;
-		- **Enviar lembrete para locatário de seguros à vencer para renovação e Enviar lembrete para locatário de garantia à vencer para renovação**: O locatário recebe uma mensagem relativo 
+		- **Enviar lembrete para locatário de seguros à vencer para renovação e Enviar lembrete para locatário de garantia à vencer para renovação**: O locatário recebe uma notificação #todo relativo ao vencimento dos seguros e garantias da locação.
+	- **Reajustes**.
+		- **Enviar aviso de reajuste de aluguel para o locatário e Enviar por WhatsApp aviso de reajuste de aluguel para o locatário**: É enviado um aviso #todo quanto ao reajuste de aluguel para o locatário da locação.
