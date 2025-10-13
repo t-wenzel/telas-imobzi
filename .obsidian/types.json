@@ -3,7 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "FAQs Relacionadas": "text",
+    "FAQs Relacionadas": "multitext",
     "dasda": "text"
   }
 }

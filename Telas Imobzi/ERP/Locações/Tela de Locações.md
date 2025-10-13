@@ -82,6 +82,12 @@ tags:
   - Arquivo
   - Imprimir
 FAQs Relacionadas:
+  - https://help.imobzi.com/pt-br/article/como-criar-uma-locacao-10od3u5/
+  - https://help.imobzi.com/pt-br/article/como-funciona-o-reajuste-automatico-das-locacoes-1onnt2k/
+  - https://help.imobzi.com/pt-br/article/como-funciona-indice-de-reajuste-das-locacoes-18ymil9/
+  - https://help.imobzi.com/pt-br/article/como-editar-os-proprietarios-de-uma-locacao-em-andamento-nnle6q/
+  - https://help.imobzi.com/pt-br/article/por-que-o-calculo-do-irrf-esta-incorreto-1n6h1lt/
+  - https://help.imobzi.com/pt-br/article/como-repassar-o-item-para-apenas-um-proprietario-16z6o99/
 ---
 ---
 ## Definição
