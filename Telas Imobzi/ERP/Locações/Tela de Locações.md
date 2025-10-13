@@ -1,5 +1,7 @@
 ---
 tags:
+  - ERP
+  - Locação
 FAQs Relacionadas:
 ---
 ---
@@ -111,5 +113,4 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 	- **Reajustes**.
 		- **Enviar aviso de reajuste de aluguel para o locatário e Enviar por WhatsApp aviso de reajuste de aluguel para o locatário**: É enviado um aviso #todo quanto ao reajuste de aluguel para o locatário da locação.
 - **Assinatura Eletrônica & Documentos**: Gere o contrato, adicione um arquivo, etc. Envie para Assinatura Eletrônica. Imprima e Notifique Signatários por E-mail/WhatsApp.
-	- **[|Concluir e adicionar documento]**.
-            
+	- **[[Adicionar documento|Concluir e adicionar documento]]**: Conclui a edição da locação e abre a tela de adição de documento.
