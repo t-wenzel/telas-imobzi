@@ -100,4 +100,4 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 		- **Comissão da taxa de administração com base no aluguel**: Comissão a ser paga para o parceiro com base no valor do aluguel. Ao ser selecionada, automaticamente configura o contato como parceiro da locação.
 - **Notificações**;
 	- **Faturas**;
-		- **Enviar por e-mail fatura para o locatário**: 
+		- **Enviar por e-mail fatura para o locatário**: A fatura é enviada por e-mail para o locatário
