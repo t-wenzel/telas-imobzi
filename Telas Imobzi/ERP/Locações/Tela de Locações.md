@@ -72,7 +72,18 @@ tags:
   - Fatura
   - E-mail
   - WhatsApp
+  - Atraso
+  - Fiador
+  - Extrato
+  - Recibo
+  - Assinatura
+  - Eletrônica
+  - Documento
+  - Arquivo
+  - Imprimir
+  - Signatário
 FAQs Relacionadas:
+  - https://help.imobzi.com/pt-br/article/como-criar-uma-locacao-10od3u5/
 ---
 ---
 ## Definição
