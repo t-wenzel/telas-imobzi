@@ -2,6 +2,33 @@
 tags:
   - ERP
   - Locação
+  - Comportamento
+  - Tipo
+  - Status
+  - Categoria
+  - Duração
+  - Contrato
+  - Indeterminado
+  - Proprietário
+  - Locatário
+  - Valor
+  - Modo
+  - Cobrança
+  - Aluguel
+  - Antecipado
+  - Vencimento
+  - Reajuste
+  - Índice
+  - Proporcional
+  - Segundo
+  - Andamento
+  - Garantia
+  - Seguro
+  - Itens
+  - Fornecedor
+  - Bonificação
+  - Condomínio
+  - IPTU
 FAQs Relacionadas:
 ---
 ---
@@ -31,7 +58,7 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 - **[[Tela de Imóveis|Imóvel]]**: Imóvel que será locado. Pode ser filtrado com o [[Filtro do Imóvel|filtro de imóvel]] ao adicioná-lo clicando no ícone de filtro;
 	- **[Editar proprietários](https://help.imobzi.com/pt-br/article/como-alterar-o-proprietario-de-uma-locacao-10ec1zj/)**.
 - **[[Tela de Contatos|Locatários]]**: Os contatos que serão locatários dessa locação. Caso tenha mais de um locatário, poderá selecionar qual deles será o pagador;
-- **Definição de valores**
+- **Definição de valores**;
 	- **Valor da locação**: Valor do aluguel dessa locação.
 	- **Modo de cobrança**;
 		- **Normal**: Padrão do pagamento de aluguel;
