@@ -51,7 +51,7 @@ FAQs Relacionadas:
 	- **Título do site**: O título que aparecerá na Engine de Pesquisa ou ao compartilhar o link do imóvel;
 	- **Meta descrição do site**: A descrição que aparecerá na Engine de Pesquisa ou ao compartilhar o link do imóvel.
 - **Tags de lançamento**;
-	- **Mostrar tag de "lançamento/pronto/em construção" nos imóveis**: Caso o imóvel tenha alguma [[Lançamento|etapa de lançamento]] configurada, demonstra no card do imóvel no site;
+	- **Mostrar tag de "lançamento/pronto/em construção" nos imóveis**: Caso o imóvel tenha alguma [[Fases de Lançamento do Imóvel|etapa de lançamento]] configurada, demonstra no card do imóvel no site;
 	- **Mostrar tag de "com proposta" nos imóveis**: Caso o imóvel tenha alguma [[Negócio ou Cartão#^f89a2a|proposta]] configurada, demonstra no card do imóvel no site;
 	- **Mostrar tag de "reservado" nos imóveis**: Caso o imóvel tenha alguma [[Negócio ou Cartão#^f89a2a|reserva]] configurada, demonstra no card do imóvel no site.
 - **Balão flutuante de contato**;

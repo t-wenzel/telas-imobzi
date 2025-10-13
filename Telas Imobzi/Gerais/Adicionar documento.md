@@ -20,7 +20,7 @@ Pop-up de criação de um documento;
 - **Dropdown anexar arquivo**: Comportamento do documento;
 - **Negócio vinculado**: [[Negócio ou Cartão|Negócio]] vinculado ao documento;
 - **Contato vinculado**: [[Contato]] vinculado ao documento;
-- **Locação vinculada**: [[Tela de Locações|Locação]] vinculada ao documento;
+- **Locação vinculada**: [[Locação|Locação]] vinculada ao documento;
 - **Contrato vinculado**: [[Contrato]] vinculado ao documento;
 - **Imóvel vinculado**: [[Imóvel]] vinculado ao documento;
 - **Zona de arquivos**: Para enviar anexos que se deseja salvar;

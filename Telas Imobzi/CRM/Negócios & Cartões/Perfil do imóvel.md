@@ -24,5 +24,5 @@ Para determinar o imóvel em que o cliente está interessado e possibilitar o us
 - **Dorm/Suítes/Banheiros/Vagas**: Número mínimo de cada um desses itens que deverão ter no imóvel;
 - **Bairros/cidades**: Bairros e cidades nos quais o cliente se interessa em ter um imóvel;
 - **Características**: Outros aspectos que os imóveis a serem demonstrados para o lead devem apresentar.
-- **[[Lançamento]]**;
+- **[[Fases de Lançamento do Imóvel]]**;
 - **Enviar e-mail automático e Enviar WhatsApp automático**: Caso seja selecionado um perfil de imóvel, podem ser ativadas essas opções, que enviam respectivamente um e-mail e uma mensagem no WhatsApp automáticos quando um imóvel neste perfil for cadastrado no sistema;

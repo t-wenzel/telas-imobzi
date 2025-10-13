@@ -23,7 +23,7 @@ Permite escolher um tipo específico de imóvel que será pesquisado.
 	- **Locação**;
 	- **Temporada**.
 - **Bairro**;
-- **[[Lançamento|Etapa do lançamento]]**;
+- **[[Fases de Lançamento do Imóvel|Etapa do lançamento]]**;
 - **[[Ordenação dos imóveis]]**;
 - **Tipo do imóvel**: O tipo do imóvel (apartamento, casa, kitnet...);
 - **Características**: As características específicas do imóvel.

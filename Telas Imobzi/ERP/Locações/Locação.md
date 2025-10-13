@@ -104,6 +104,9 @@ FAQs Relacionadas:
   - https://help.imobzi.com/pt-br/article/como-definir-os-parametros-das-locacoes-xl5ecp/
   - https://help.imobzi.com/pt-br/article/como-visualizar-os-detalhes-do-boleto-hxe12x/
   - https://help.imobzi.com/pt-br/article/como-enviar-o-recibo-de-repasse-de-forma-automatica-1qso860/
+  - https://help.imobzi.com/pt-br/article/como-realizar-repasses-via-pix-1iwaez9/
+  - https://help.imobzi.com/pt-br/article/como-funciona-a-taxa-do-1-aluguel-mpr70o/
+  - https://help.imobzi.com/pt-br/article/como-criar-uma-locacao-de-temporada-1rdcy2d/
 ---
 ---
 ## Definição

@@ -48,7 +48,7 @@ Negócio é a oportunidade comercial entre um cliente (lead ou contato) e um im�
 ^a87475
 
 - **[[Status de negócio]]**;
-- **Botões de polegar levantado vermelho e verde**: Após terminadas todas as etapas do negócio, ele pode ser dado como ganho ou perdido. Caso ganho, é possível criar a locação de forma automática, ou pode se criar uma nova locação posteriormente na tela de [[Tela de Locações]];
+- **Botões de polegar levantado vermelho e verde**: Após terminadas todas as etapas do negócio, ele pode ser dado como ganho ou perdido. Caso ganho, é possível criar a locação de forma automática, ou pode se criar uma nova locação posteriormente na tela de [[Locação]];
 - **Etapas do funil dentro do cartão**: Servem para avançar ou retroceder [[Etapa|etapas]] do negócio no funil;
 - **Detalhes**: Informações adicionais sobre o negócio; ^7889c6
 	- **Contato**: O contato vinculado ao negócio, podendo ser contatado de diversas maneiras;
