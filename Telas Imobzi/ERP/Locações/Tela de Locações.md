@@ -110,3 +110,6 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 		- **Enviar lembrete para locatário de seguros à vencer para renovação e Enviar lembrete para locatário de garantia à vencer para renovação**: O locatário recebe uma notificação #todo relativo ao vencimento dos seguros e garantias da locação.
 	- **Reajustes**.
 		- **Enviar aviso de reajuste de aluguel para o locatário e Enviar por WhatsApp aviso de reajuste de aluguel para o locatário**: É enviado um aviso #todo quanto ao reajuste de aluguel para o locatário da locação.
+- **Assinatura Eletrônica & Documentos**: Gere o contrato, adicione um arquivo, etc. Envie para Assinatura Eletrônica. Imprima e Notifique Signatários por E-mail/WhatsApp.
+	- **[|Concluir e adicionar documento]**.
+            
