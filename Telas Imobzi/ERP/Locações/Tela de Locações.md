@@ -100,8 +100,10 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 		- **Comissão da taxa de administração com base no aluguel**: Comissão a ser paga para o parceiro com base no valor do aluguel. Ao ser selecionada, automaticamente configura o contato como parceiro da locação.
 - **Notificações**;
 	- **Faturas**;
-		- **Enviar por e-mail fatura para o locatário e Enviar fatura por WhatsApp* para o locatário**: A fatura é enviada por e-mail ou WhatsApp para o locatário. Caso feita por WhatsApp, é cobrado um valor de R$ 0,29 por mensagem enviada. Todas as cobranças ficam registradas em sua conta de consumo;
-		- **[Enviar para o locatário, cobrança de fatura em atraso](https://help.imobzi.com/pt-br/article/como-funciona-o-fluxo-de-cobranca-1kymxpx/)**: Será enviado o primeiro e-mail/WhatsApp de cobrança, após 3 dias de atraso e logo após 7, 10, 15, 20 e 25 dias do vencimento da fatura;
+		- **Enviar por e-mail fatura para o locatário e Enviar fatura por WhatsApp para o locatário**: A fatura é enviada por e-mail ou WhatsApp para o locatário. Caso feita por WhatsApp, é cobrado um valor de R$ 0,29 por mensagem enviada. Todas as cobranças ficam registradas em sua conta de consumo;
+		- **[Enviar para o locatário, cobrança de fatura em atraso](https://help.imobzi.com/pt-br/article/como-funciona-o-fluxo-de-cobranca-1kymxpx/)**: Será enviado o primeiro e-mail/WhatsApp de cobrança, após 3 dias de atraso e logo após 7, 10, 15, 20 e 25 dias do vencimento da fatura. Não é enviada uma notificação antes do vencimento da fatura com essa opção, apenas após;
 		- **[Enviar aviso para o fiador quando a fatura estiver em atraso](https://help.imobzi.com/pt-br/article/como-notificar-o-fiador-da-locacao-se-houver-inadimplencia-rs6xap/)**: Sempre que houver atraso no pagamento da fatura, o fiador receberá um e-mail no endereço cadastrado no contato do fiador.
 	- **Extratos de repasse**;
-		- **Enviar por e-mail o extrato do repasse para o locador e Enviar por WhatsApp* o extrato de repasse para o locador**
+		- **Enviar por e-mail o extrato do repasse para o locador e Enviar por WhatsApp o extrato de repasse para o locador**: O locador recebe um e-mail com o recibo de repasse referente à locação;
+	- **Garantia e seguros**;
+		- **Enviar lembrete para locatário de seguros à vencer para renovação e Enviar lembrete para locatário de garantia à vencer para renovação**: O locatário recebe uma mensagem relativo 
