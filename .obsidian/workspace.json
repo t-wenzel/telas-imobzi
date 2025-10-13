@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "garantia",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,7 +242,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "d04b365555765b72",
+  "active": "e2d5dcd0311803c4",
   "lastOpenFiles": [
     "Telas Imobzi/Gerais/Perguntas.md",
     "Telas Imobzi/ERP/Locações/Tela de Locações.md",

@@ -93,6 +93,7 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 - **Beneficiários e Parceiros**: Beneficiários são os próprios proprietários do imóvel ou pessoas indicadas por ele para receber o aluguel, como por exemplo os filhos, netos, sobrinhos, etc. Define, portanto o contato que irá receber o valor de repasse em sua conta bancária. Por padrão o Imobzi seleciona o proprietário como beneficiário. Parceiros geralmente são corretores que trabalham na imobiliária e ficam com uma parte da taxa de administração.
 	- **Porcentagem e valor**: Atualizam um ao outro caso preenchidos. Se comportam de acordo com o campo "Meio de repasse";
 	- **Meio de repasse**;
-		- **Repasse padrão de acordo com as porcentagens**: #todo;
-		- **Repasse com valor fixo**: #todo;
-		- **Comissão da ta**
+		- **Repasse padrão de acordo com as porcentagens**: #todo Ao ser selecionada, automaticamente configura o contato como beneficiário da locação;
+		- **Repasse com valor fixo**: #todo Ao ser selecionada, automaticamente configura o contato como beneficiário da locação;
+		- **Comissão da taxa de administração**: Comissão a ser paga para o parceiro com base no valor da taxa de administração. Ao ser selecionada, automaticamente configura o contato como parceiro da locação;
+		- **Comissão da taxa de administração com base no aluguel**: Comissão a ser paga para o parceiro com base no valor do aluguel. Ao ser selecionada, automaticamente configura o contato como parceiro da locação;
