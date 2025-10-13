@@ -82,6 +82,9 @@ tags:
   - Arquivo
   - Imprimir
 FAQs Relacionadas:
+  - https://help.imobzi.com/pt-br/article/como-criar-uma-locacao-10od3u5/
+  - https://help.imobzi.com/pt-br/article/como-funciona-indice-de-reajuste-das-locacoes-18ymil9/
+  - https://help.imobzi.com/pt-br/article/como-funciona-o-reajuste-automatico-das-locacoes-1onnt2k/
 ---
 ---
 ## Definição
