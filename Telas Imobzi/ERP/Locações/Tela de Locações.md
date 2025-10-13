@@ -81,9 +81,7 @@ tags:
   - Documento
   - Arquivo
   - Imprimir
-  - Signatário
 FAQs Relacionadas:
-  - https://help.imobzi.com/pt-br/article/como-criar-uma-locacao-10od3u5/
 ---
 ---
 ## Definição
@@ -170,7 +168,7 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 	- **Repassar multa/juros para locador**: Caso ativo, os juros serão passados para o locador quando o locatário pagar a fatura em atraso. Esta opção não está disponível para aluguéis garantidos porque o valor de um repasse garantido não deve mudar depois da emissão da fatura;
 	- **[Aluguel garantido](https://help.imobzi.com/pt-br/article/como-funciona-o-aluguel-garantido-1k9lfnu/)**: Aluguéis garantidos são uma forma de garantir o repasse dos alugueis ao proprietário, mesmo que ainda não tenham sido pagos pelo locatário. Na geração automática da fatura de aluguel para o Locatário, será gerado o aluguel à pagar na conta do Locador, mesmo que o repasse seja manual. Caso a fatura tenha bonificação até o vencimento e a fatura não for paga até o vencimento, os itens na conta dos locadores são atualizados no momento do pagamento da fatura voltando para o valor integral;
 	- **Quantidade de aluguéis e faturas em aberto**: Quantos aluguéis e faturas estão atualmente em aberto nesta locação;
-	- **Modo de repasse**: Caso o repasse seja automático, o repasse pode se comportar de diferentes maneiras;
+		- **Modo de repasse**: Caso o repasse seja automático, o repasse pode se comportar de diferentes maneiras;
 		- **Repassar e não descontar saldo devedor do locador**: O saldo devedor do locador na conta dos locadores não é descontado do repasse feito para ele;
 		- **Repassar e descontar saldo devedor do locador**: O saldo devedor do locador na conta dos locadores (que é referente a todas as suas locações ou cobranças avulsas) é descontado do repasse feito para ele;
 		- **Repassar e descontar somente despesas vinculadas a esta locação**: O saldo devedor do locador na conta dos locadores referente apenas a despesas desta locação é descontado do repasse feito para ele.
