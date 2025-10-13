@@ -91,6 +91,19 @@ FAQs Relacionadas:
   - https://help.imobzi.com/pt-br/article/como-identificar-alteracoes-na-vigencia-das-faturas-1wwisk7/
   - https://help.imobzi.com/pt-br/article/como-alterar-o-proprietario-de-uma-locacao-10ec1zj/
   - https://help.imobzi.com/pt-br/article/como-funcionam-os-repasses-para-beneficiarios-nas-locacoes-burpjk/
+  - https://help.imobzi.com/pt-br/article/como-alterar-as-tags-das-faturas-automaticas-nas-locacoes-2b56v0/
+  - https://help.imobzi.com/pt-br/article/como-funciona-o-campo-de-parceiros-na-locacao-1se04bs/
+  - https://help.imobzi.com/pt-br/article/como-notificar-o-fiador-da-locacao-se-houver-inadimplencia-rs6xap/
+  - https://help.imobzi.com/pt-br/article/como-e-realizado-o-calculo-de-irrf-automaticamente-453oka/
+  - https://help.imobzi.com/pt-br/article/como-funciona-o-aluguel-garantido-1k9lfnu/
+  - https://help.imobzi.com/pt-br/article/como-as-faturas-sao-enviadas-aos-locatarios-11ds8fx/
+  - https://help.imobzi.com/pt-br/article/como-alterar-status-de-uma-locacao-17pdeih/
+  - https://help.imobzi.com/pt-br/article/por-que-a-fatura-nao-foi-enviada-aos-locatarios-1pocfye/
+  - https://help.imobzi.com/pt-br/article/como-realizar-a-rescisao-da-locacao-1kdggbm/
+  - https://help.imobzi.com/pt-br/article/por-que-a-locacao-foi-suspensa-automaticamente-o99oob/
+  - https://help.imobzi.com/pt-br/article/como-definir-os-parametros-das-locacoes-xl5ecp/
+  - https://help.imobzi.com/pt-br/article/como-visualizar-os-detalhes-do-boleto-hxe12x/
+  - https://help.imobzi.com/pt-br/article/como-enviar-o-recibo-de-repasse-de-forma-automatica-1qso860/
 ---
 ---
 ## Definição
@@ -188,7 +201,7 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 		- **Repasse padrão de acordo com as porcentagens**: Os valores serão distribuídos conforme a divisão definida nas porcentagens. Ao ser selecionada, automaticamente configura o contato como beneficiário da locação;
 		- **Repasse com valor fixo**: Define um valor fixo para o beneficiário, independente dos itens ou porcentagens. Nesse modo de repasse, sempre será garantido o valor fixo que foi definido. Ao ser selecionada, automaticamente configura o contato como beneficiário da locação;
 		- **Comissão da taxa de administração**: Comissão a ser paga para o parceiro com base no valor da taxa de administração. Assim que a fatura é paga, seja manualmente ou de forma automática, o lançamento é gerado no financeiro. Ao ser selecionada, automaticamente configura o contato como parceiro da locação;
-		- **Comissão da taxa de administração com base no aluguel**: Comissão a ser paga para o parceiro com base no valor do aluguel. Ao ser selecionada, automaticamente configura o contato como parceiro da locação.
+		- **Comissão da taxa de administração com base no aluguel**: Comissão a ser paga para o parceiro com base no valor do aluguel. Esse modo de repasse é ideal para casos onde a imobiliária precisar repassar a comissão para um parceiro. Ao ser selecionada, automaticamente configura o contato como parceiro da locação.
 - **Notificações**;
 	- **Faturas**;
 		- **Enviar por e-mail fatura para o locatário e Enviar fatura por WhatsApp para o locatário**: A fatura é enviada por e-mail ou WhatsApp para o locatário. Caso feita por WhatsApp, é cobrado um valor de R$ 0,29 por mensagem enviada. Todas as cobranças ficam registradas em sua conta de consumo;
