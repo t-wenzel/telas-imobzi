@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "automa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -237,7 +238,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "d04b365555765b72",
+  "active": "3afdd1a1ee55fe51",
   "lastOpenFiles": [
     "Telas Imobzi/ERP/Locações/Locação.md",
     "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
