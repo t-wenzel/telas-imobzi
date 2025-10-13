@@ -100,4 +100,5 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 		- **Comissão da taxa de administração com base no aluguel**: Comissão a ser paga para o parceiro com base no valor do aluguel. Ao ser selecionada, automaticamente configura o contato como parceiro da locação.
 - **Notificações**;
 	- **Faturas**;
-		- **Enviar por e-mail fatura para o locatário e Enviar fatura por WhatsApp* para o locatário**: A fatura é enviada por e-mail ou WhatsApp para o locatário. Caso feita por WhatsApp, são cobrados ;
+		- **Enviar por e-mail fatura para o locatário e Enviar fatura por WhatsApp* para o locatário**: A fatura é enviada por e-mail ou WhatsApp para o locatário. Caso feita por WhatsApp, é cobrado um valor de R$ 0,29 por mensagem enviada. Todas as cobranças ficam registradas em sua conta de consumo;
+		- 
