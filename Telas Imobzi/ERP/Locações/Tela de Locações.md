@@ -88,6 +88,9 @@ FAQs Relacionadas:
   - https://help.imobzi.com/pt-br/article/como-editar-os-proprietarios-de-uma-locacao-em-andamento-nnle6q/
   - https://help.imobzi.com/pt-br/article/por-que-o-calculo-do-irrf-esta-incorreto-1n6h1lt/
   - https://help.imobzi.com/pt-br/article/como-repassar-o-item-para-apenas-um-proprietario-16z6o99/
+  - https://help.imobzi.com/pt-br/article/como-identificar-alteracoes-na-vigencia-das-faturas-1wwisk7/
+  - https://help.imobzi.com/pt-br/article/como-alterar-o-proprietario-de-uma-locacao-10ec1zj/
+  - https://help.imobzi.com/pt-br/article/como-funcionam-os-repasses-para-beneficiarios-nas-locacoes-burpjk/
 ---
 ---
 ## Definição
@@ -182,9 +185,9 @@ Nesta tela geram-se e gerenciam-se os contratos de aluguel. O usuário pode cria
 	- **Porcentagem e valor**: Atualizam um ao outro caso preenchidos. Se comportam de acordo com o campo "Meio de repasse";
 	- **Chave pix ou conta bancária para repasse**: Dados para que o repasse possa ser feito. A conta ou chave pix precisa ser selecionada ao clicar em cima dela após ser inserida no sistema, ou não contará para o repasse;
 	- **Meio de repasse**;
-		- **Repasse padrão de acordo com as porcentagens**: #todo Ao ser selecionada, automaticamente configura o contato como beneficiário da locação;
-		- **Repasse com valor fixo**: #todo Ao ser selecionada, automaticamente configura o contato como beneficiário da locação;
-		- **Comissão da taxa de administração**: Comissão a ser paga para o parceiro com base no valor da taxa de administração. Ao ser selecionada, automaticamente configura o contato como parceiro da locação;
+		- **Repasse padrão de acordo com as porcentagens**: Os valores serão distribuídos conforme a divisão definida nas porcentagens. Ao ser selecionada, automaticamente configura o contato como beneficiário da locação;
+		- **Repasse com valor fixo**: Define um valor fixo para o beneficiário, independente dos itens ou porcentagens. Nesse modo de repasse, sempre será garantido o valor fixo que foi definido. Ao ser selecionada, automaticamente configura o contato como beneficiário da locação;
+		- **Comissão da taxa de administração**: Comissão a ser paga para o parceiro com base no valor da taxa de administração. Assim que a fatura é paga, seja manualmente ou de forma automática, o lançamento é gerado no financeiro. Ao ser selecionada, automaticamente configura o contato como parceiro da locação;
 		- **Comissão da taxa de administração com base no aluguel**: Comissão a ser paga para o parceiro com base no valor do aluguel. Ao ser selecionada, automaticamente configura o contato como parceiro da locação.
 - **Notificações**;
 	- **Faturas**;
