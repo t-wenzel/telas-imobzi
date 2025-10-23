@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telas Imobzi/ERP/Locações/Locação.md",
+                "file": "Telas Imobzi/CRM/Negócios & Cartões/Rateio de Comissões.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Locação"
+              "title": "Rateio de Comissões"
             }
           }
         ],
@@ -244,10 +244,10 @@
   },
   "active": "d04b365555765b72",
   "lastOpenFiles": [
+    "Telas Imobzi/ERP/Locações/Locação.md",
     "Telas Imobzi/Site/Seções da Home.md",
     "Telas Imobzi/Site/Aba Home.md",
     "Telas Imobzi/Site/Tela de Páginas.md",
-    "Telas Imobzi/ERP/Locações/Locação.md",
     "Telas Imobzi/CRM/Contatos/Tela de Contatos.md",
     "Telas Imobzi/CRM/Negócios & Cartões/Negócio ou Cartão.md",
     "Telas Imobzi/ERP/Locações/Comportamento dos Itens da Locação.md",
